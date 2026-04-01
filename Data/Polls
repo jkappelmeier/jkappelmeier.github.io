@@ -1,0 +1,181 @@
+ElectionType,Election,GeographyType,Geography,Poll,DateStart,DateEnd,SampleSize,SampleType,Democrat,Republican
+Generic Ballot,Generic Ballot,National,National,Grayhouse,2/20/2026,2/23/2026,1394,RV,43%,40%
+Generic Ballot,Generic Ballot,National,National,Grayhouse,12/6/2025,12/8/2025,2058,RV,45%,41%
+Generic Ballot,Generic Ballot,National,National,Grayhouse,7/27/2025,7/29/2025,2000,RV,47%,44%
+Generic Ballot,Generic Ballot,National,National,Qunatus Insights,3/2/2026,3/3/2026,1295,LV,46%,41%
+Generic Ballot,Generic Ballot,National,National,YouGov,2/27/2026,3/2/2026,1363,RV,45%,41%
+Generic Ballot,Generic Ballot,National,National,The Public Sentiment Institute,2/28/2026,2/28/2026,249,LV,50%,41%
+Generic Ballot,Generic Ballot,National,National,Echelon Insights,3/2/2026,3/3/2026,1306,LV,46%,41%
+Generic Ballot,Generic Ballot,National,National,Ipsos,2/18/2026,2/23/2026,3686,RV,40%,38%
+Generic Ballot,Generic Ballot,National,National,YouGov,2/20/2026,2/23/2026,1401,RV,45%,41%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,2/20/2026,2/22/2026,2202,RV,46%,42%
+Generic Ballot,Generic Ballot,National,National,Emerson College,2/21/2026,2/22/2026,1000,LV,50%,42%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,2/16/2026,2/22/2026,26087,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Verasight,2/18/2026,2/20/2026,1566,A,50%,40%
+Generic Ballot,Generic Ballot,National,National,Talker Research,2/13/2026,2/19/2026,1000,A,42%,36%
+Generic Ballot,Generic Ballot,National,National,Big Data Poll,2/16/2026,2/18/2026,1805,LV,48%,39%
+Generic Ballot,Generic Ballot,National,National,You Gov,2/13/2026,2/18/2026,1200,RV,49%,41%
+Generic Ballot,Generic Ballot,National,National,Ipsos,2/12/2026,2/17/2026,2087,RV,47%,45%
+Generic Ballot,Generic Ballot,National,National,Ipsos,2/13/2026,2/16/2026,846,RV,41%,37%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,2/13/2026,2/16/2026,2200,RV,45%,43%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,2/9/2026,2/15/2026,24849,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Quantus Insights,2/12/2026,2/13/2026,1515,LV,41%,39%
+Generic Ballot,Generic Ballot,National,National,Focaldata,2/10/2026,2/10/2026,1148,A,37%,34%
+Generic Ballot,Generic Ballot,National,National,The Argument,2/4/2026,2/20/2026,3003,RV,46%,41%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,2/6/2026,2/9/2026,2200,RV,45%,41%
+Generic Ballot,Generic Ballot,National,National,YouGov,2/6/2026,2/9/2026,1549,RV,44%,38%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,2/2/2026,2/8/2026,24606,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,John Zogby Strategies,2/4/2026,2/5/2026,1000,LV,47%,42%
+Generic Ballot,Generic Ballot,National,National,Cygnal,2/3/2026,2/4/2026,1500,LV,48%,44%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/26/2026,2/1/2026,25492,RV,44%,42%
+Generic Ballot,Generic Ballot,National,National,YouGov,1/30/2026,2/2/2026,1501,RV,44%,40%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/30/2026,2/1/2026,2201,RV,47%,42%
+Generic Ballot,Generic Ballot,National,National,Harris Poll,1/28/2026,1/29/2026,1019,LV,41%,41%
+Generic Ballot,Generic Ballot,National,National,Cygnal,1/27/2026,1/28/2026,1004,LV,48%,44%
+Generic Ballot,Generic Ballot,National,National,Marquette University Law School,1/21/2026,1/28/2026,577,LV,52%,45%
+Generic Ballot,Generic Ballot,National,National,McLaughlin & Associates,1/21/2026,1/27/2026,1000,RV,46%,44%
+Generic Ballot,Generic Ballot,National,National,Public Policy Polling,1/29/2026,1/30/2026,652,RV,48%,41%
+Generic Ballot,Generic Ballot,National,National,The Argument,1/26/2026,1/27/2026,1515,RV,46%,42%
+Generic Ballot,Generic Ballot,National,National,Echelon Insights,1/22/2026,1/26/2026,1029,LV,48%,42%
+Generic Ballot,Generic Ballot,National,National,YouGov,1/23/2026,1/26/2026,1519,RV,43%,38%
+Generic Ballot,Generic Ballot,National,National,Beacon Research,1/23/2026,1/26/2026,1005,RV,52%,46%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/23/2026,1/25/2026,2204,RV,45%,43%
+Generic Ballot,Generic Ballot,National,National,Ipsos,1/23/2026,1/25/2026,906,RV,41%,37%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/20/2026,1/25/2026,24675,RV,44%,43%
+Generic Ballot,Generic Ballot,National,National,Big Data Poll,1/22/2026,1/24/2026,2909,LV,46%,42%
+Generic Ballot,Generic Ballot,National,National,Quantus Insights,1/20/2026,1/22/2026,1000,RV,47%,41%
+Generic Ballot,Generic Ballot,National,National,Verasight,1/14/2026,1/20/2026,1532,RV,51%,43%
+Generic Ballot,Generic Ballot,National,National,YouGov,1/16/2026,1/19/2026,1544,RV,43%,39%
+Generic Ballot,Generic Ballot,National,National,Emerson College,1/17/2026,1/19/2026,1000,RV,48%,42%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/12/2026,1/18/2026,12505,RV,45%,43%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/16/2026,1/18/2026,2201,RV,45%,43%
+Generic Ballot,Generic Ballot,National,National,Siena Research Institute,1/12/2026,1/17/2026,1625,RV,48%,43%
+Generic Ballot,Generic Ballot,National,National,Rasmussen Reports,1/7/2026,1/14/2026,2273,LV,47%,41%
+Generic Ballot,Generic Ballot,National,National,Ipsos,1/12/2026,1/13/2026,941,RV,40%,38%
+Generic Ballot,Generic Ballot,National,National,Impact Research,1/8/2026,1/13/2026,1500,RV,47%,43%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/9/2026,1/12/2026,2201,RV,46%,43%
+Generic Ballot,Generic Ballot,National,National,RMG Research,1/5/2026,1/8/2026,2000,RV,44%,43%
+Generic Ballot,Generic Ballot,National,National,YouGov,1/2/2026,1/5/2026,1386,RV,45%,39%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,1/2/2026,1/4/2026,2201,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,The Bullfinch Group,12/30/2025,1/1/2026,1200,RV,44%,33%
+Generic Ballot,Generic Ballot,National,National,YouGov,12/26/2025,12/29/2025,1417,RV,42%,38%
+Generic Ballot,Generic Ballot,National,National,Big Data Poll,12/26/2025,12/28/2025,3412,LV,45%,42%
+Generic Ballot,Generic Ballot,National,National,YouGov,12/20/2025,12/22/2025,1424,RV,43%,40%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,12/19/2025,12/21/2025,2203,RV,47%,43%
+Generic Ballot,Generic Ballot,National,National,AtlasIntel,12/15/2025,12/19/2025,2315,A,54%,38%
+Generic Ballot,Generic Ballot,National,National,McLaughlin & Associates,12/12/2025,12/19/2025,1000,RV,46%,45%
+Generic Ballot,Generic Ballot,National,National,Fabrizio Ward,12/15/2025,12/17/2025,1000,RV,45%,38%
+Generic Ballot,Generic Ballot,National,National,Quantus Insights,12/15/2025,12/16/2025,1000,RV,43%,41%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,12/12/2025,12/15/2025,2201,RV,45%,44%
+Generic Ballot,Generic Ballot,National,National,YouGov,12/12/2025,12/15/2025,1451,RV,43%,39%
+Generic Ballot,Generic Ballot,National,National,Echelon Insights,12/11/2025,12/15/2025,1011,LV,48%,44%
+Generic Ballot,Generic Ballot,National,National,Ipsos,12/12/2025,12/15/2025,775,RV,40%,36%
+Generic Ballot,Generic Ballot,National,National,Emerson College,12/14/2025,12/15/2025,1000,RV,44%,42%
+Generic Ballot,Generic Ballot,National,National,Big Data Poll,12/10/2025,12/12/2025,3004,RV,44%,41%
+Generic Ballot,Generic Ballot,National,National,Clarity Campaign Labs,12/4/2025,12/11/2025,1000,LV,49%,44%
+Generic Ballot,Generic Ballot,National,National,The Argument,12/5/2025,12/11/2025,1521,RV,44%,42%
+Generic Ballot,Generic Ballot,National,National,YouGov,12/5/2025,12/8/2025,1379,RV,42%,37%
+Generic Ballot,Generic Ballot,National,National,Ipsos,12/3/2025,12/8/2025,3521,RV,40%,39%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,12/5/2025,12/7/2025,2201,RV,46%,43%
+Generic Ballot,Generic Ballot,National,National,Cygnal,12/5/2025,12/7/2025,1500,LV,48%,44%
+Generic Ballot,Generic Ballot,National,National,Quantus Insights,12/4/2025,12/5/2025,1000,RV,44%,40%
+Generic Ballot,Generic Ballot,National,National,RMG Research,12/1/2025,12/4/2025,2000,RV,41%,45%
+Generic Ballot,Generic Ballot,National,National,YouGov,11/28/2025,12/1/2025,1452,RV,45%,39%
+Generic Ballot,Generic Ballot,National,National,GBAO,11/19/2025,11/26/2025,2000,RV,44%,39%
+Generic Ballot,Generic Ballot,National,National,The Bullfinch Group,11/21/2025,11/25/2025,1000,RV,41%,35%
+Generic Ballot,Generic Ballot,National,National,J.L. Partners,11/19/2025,11/25/2025,797,LV,50%,46%
+Generic Ballot,Generic Ballot,National,National,YouGov,11/21/2025,11/24/2025,1511,RV,44%,39%
+Generic Ballot,Generic Ballot,National,National,McLaughlin & Associates,11/17/2025,11/24/2025,1000,RV,45%,44%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,11/21/2025,11/23/2025,2200,RV,45%,43%
+Generic Ballot,Generic Ballot,National,National,Rasmussen Reports,11/18/2025,11/23/2025,2410,LV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Echelon Insights,11/13/2025,11/17/2025,1051,LV,48%,45%
+Generic Ballot,Generic Ballot,National,National,YouGov,11/15/2025,11/17/2025,1380,RV,43%,40%
+Generic Ballot,Generic Ballot,National,National,The Argument,11/10/2025,11/17/2025,1508,RV,46%,42%
+Generic Ballot,Generic Ballot,National,National,Ipsos,11/14/2025,11/17/2025,818,RV,38%,36%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,11/14/2025,11/16/2025,2201,RV,46%,44%
+Generic Ballot,Generic Ballot,National,National,Verasight,11/12/2025,11/14/2025,1004,A,47%,42%
+Generic Ballot,Generic Ballot,National,National,High Point University Survey Research Center,11/10/2025,11/14/2025,837,RV,48%,39%
+Generic Ballot,Generic Ballot,National,National,Marist College,11/7/2025,11/12/2025,1291,RV,55%,41%
+Generic Ballot,Generic Ballot,National,National,Ipsos,11/7/2025,11/12/2025,938,RV,41%,40%
+Generic Ballot,Generic Ballot,National,National,Quantus Insights,11/11/2025,11/12/2025,1000,RV,44%,39%
+Generic Ballot,Generic Ballot,National,National,Marquette University Law School,11/5/2025,11/12/2025,602,LV,53%,44%
+Generic Ballot,Generic Ballot,National,National,YouGov,11/7/2025,11/10/2025,1499,RV,46%,39%
+Generic Ballot,Generic Ballot,National,National,Survey 160,11/6/2025,11/10/2025,1513,RV,46%,39%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,11/7/2025,11/9/2025,2201,RV,48%,43%
+Generic Ballot,Generic Ballot,National,National,Cygnal,11/5/2025,11/6/2025,1500,LV,50%,44%
+Senate,Nebraska,State,Nebraska,Lake Research Partners,12/11/2025,12/17/2025,900,LV,47%,48%
+Senate,Nebraska,State,Nebraska,Lake Research Partners,7/23/2025,7/29/2025,900,LV,47%,46%
+Senate,Nebraska,State,Nebraska,Change Research,3/28/2025,4/1/2025,524,LV,45%,46%
+House,North Carolina-01,Congressional District,North Carolina-01,Impact Research,12/15/2025,12/17/2025,500,LV,45%,44%
+House,Texas-15,Congressional District,Texas-15,Public Policy Polling,9/10/2025,9/11/2025,533,V,38%,41%
+Senate,Nebraska,State,Nebraska,Impact Research,2/2/2026,2/3/2026,600,LV,47%,48%
+Senate,North Carolina,State,North Carolina,Change Research,1/31/2026,2/4/2026,1069,V,50%,40%
+Senate,North Carolina,State,North Carolina,Change Research,1/5/2026,1/7/2026,1105,LV,47%,42%
+Senate,North Carolina,State,North Carolina,TIPP Insights,1/12/2026,1/15/2026,1512,RV,48%,24%
+Senate,North Carolina,State,North Carolina,Harper Polling,11/9/2025,11/10/2025,600,LV,47%,39%
+Senate,North Carolina,State,North Carolina,Harper Polling,9/14/2025,9/15/2025,600,LV,46%,42%
+Senate,Texas,State,Texas,YouGov,1/20/2026,1/31/2026,1502,LV,43%,44%
+Senate,Texas,State,Texas,Emerson College,1/10/2026,1/12/2026,1165,RV,44%,47%
+Senate,Texas,State,Texas,Ragnar Research Partners,11/12/2025,11/17/2025,1000,LV,40%,46%
+Gubernatorial,Texas,State,Texas,University of Texas at Tyler Center for Opinion Research,2/13/2026,2/22/2026,1117,RV,41%,49%
+Gubernatorial,Texas,State,Texas,GBAO,1/26/2026,2/3/2026,1000,LV,43%,46%
+Gubernatorial,Texas,State,Texas,YouGov,1/20/2026,1/31/2026,1502,LV,42%,49%
+Gubernatorial,Texas,State,Texas,Emerson College,1/10/2026,1/12/2026,1165,RV,42%,50%
+Senate,Arkansas,State,Arkansas,Grayhouse,2/7/2026,2/9/2026,550,LV,36%,58%
+Generic Ballot,Generic Ballot,National,National,Hart Research Associates,2/27/2026,3/3/2026,1000,RV,50%,44%
+Generic Ballot,Generic Ballot,National,National,Cygnal,2/24/2026,2/26/2026,1048,LV,48%,45%
+Generic Ballot,Generic Ballot,National,National,RMG Research,3/2/2026,3/5/2026,2000,RV,46%,46%
+House,North Carolina-01,Congressional District,North Carolina-01,GQR,1/29/2026,2/2/2026,500,LV,42%,39%
+House,Pennsylvania-08,Congressional District,Pennsylvania-08,Public Policy Polling,8/27/2025,8/28/2025,615,V,45%,43%
+Gubernatorial,Pennsylvania,State,Pennsylvania,Franklin & Marshall College Center for Opinion Research,2/18/2026,3/1/2026,834,RV,48%,28%
+Gubernatorial,Pennsylvania,State,Pennsylvania,Quinnipiac University,2/19/2026,2/23/2026,836,RV,55%,37%
+Gubernatorial,Pennsylvania,State,Pennsylvania,Susquehanna Polling & Research,9/22/2025,9/28/2025,704,LV,54%,36%
+Gubernatorial,Pennsylvania,State,Pennsylvania,Quinnipiac University,9/25/2025,9/29/2025,1579,RV,55%,39%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,2/23/2026,3/1/2026,1000,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,3/6/2026,3/8/2026,2202,RV,47%,43%
+House,Texas-23,Congressional District,Texas-23,Public Policy Polling,3/10/2026,3/11/2026,521,V,40%,42%
+Generic Ballot,Generic Ballot,National,National,Marist University,3/2/2026,3/4/2026,1392,RV,53%,44%
+Generic Ballot,Generic Ballot,National,National,YouGov,2/18/2026,2/23/2026,824,RV,42%,37%
+Generic Ballot,Generic Ballot,National,National,YouGov,3/6/2026,3/9/2026,1405,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Focaldata,3/6/2026,3/10/2026,1534,RV,48%,42%
+Generic Ballot,Generic Ballot,National,National,TIPP Insights,2/24/2026,2/27/2026,1264,RV,46%,44%
+Generic Ballot,Generic Ballot,National,National,McLaughlin & Associates,3/4/2026,3/9/2026,1000,LV,47%,43%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,3/2/2026,3/8/2026,25948,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Noble Predictive Insights,2/2/2026,2/5/2026,2659,RV,44%,43%
+Gubernatorial,Illinois,State,Illinois,Victory Research,11/20/2025,11/24/2025,1208,LV,54%,34%
+Generic Ballot,Generic Ballot,National,National,YouGov,3/13/2026,3/16/2026,1429,RV,43%,41%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,3/9/2026,3/15/2026,26634,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,3/13/2026,3/16/2026,2201,RV,48%,40%
+Generic Ballot,Generic Ballot,National,National,Echelon Insights,3/12/2026,3/16/2026,1033,LV,49%,44%
+Generic Ballot,Generic Ballot,National,National,Clarity Campaign Labs,2/26/2026,3/7/2026,1004,LV,47%,43%
+Senate,North Carolina,State,North Carolina,Public Policy Polling,3/13/2026,3/14/2026,556,V,47%,44%
+Generic Ballot,Generic Ballot,National,National,YouGov,3/12/2026,3/16/2026,1147,RV,44%,40%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,3/16/2026,3/22/2026,12505,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Ipsos,3/20/2026,3/23/2026,985,RV,40%,38%
+Generic Ballot,Generic Ballot,National,National,Survey 160,3/9/2026,3/15/2026,1546,RV,48%,38%
+Generic Ballot,Generic Ballot,National,National,YouGov,3/20/2026,3/23/2026,1502,RV,45%,42%
+Generic Ballot,Generic Ballot,National,National,Verasight,3/16/2026,3/18/2026,1370,RV,49%,43%
+Generic Ballot,Generic Ballot,National,National,John Zogby Strategies,3/17/2026,3/18/2026,1000,LV,46%,46%
+Generic Ballot,Generic Ballot,National,National,The Argument,3/12/2026,3/17/2026,1519,RV,54%,46%
+Generic Ballot,Generic Ballot,National,National,Ipsos,3/17/2026,3/19/2026,1206,RV,40%,37%
+Generic Ballot,Generic Ballot,National,National,Quantus Insights,3/17/2026,3/18/2026,1053,LV,47%,42%
+Generic Ballot,Generic Ballot,National,National,Emerson College,3/16/2026,3/17/2026,1000,LV,49%,42%
+Senate,Texas,State,Texas,Impact Research,3/12/2026,3/17/2026,900,LV,44%,43%
+Senate,North Carolina ,State,North Carolina,YouGov,3/9/2026,3/18/2026,871,LV,48%,34%
+Generic Ballot,Generic Ballot,National,National,YouGov,3/27/2026,3/30/2026,1505,RV,45%,39%
+Generic Ballot,Generic Ballot,National,National,HarrisX/Harris Poll,3/25/2026,3/26/2026,2009,RV,51%,49%
+Senate,North Carolina,State,North Carolina,Nexus Strategies/Strategic Partners Solution,3/8/2026,3/9/2026,800,LV,50%,32%
+Generic Ballot,Generic Ballot,National,National,Quantus Insights,3/25/2026,3/26/2026,1472,LV,47%,41%
+Generic Ballot,Generic Ballot,National,National,Big Data Poll,3/22/2026,3/24/2026,3003,RV,48%,40%
+Senate,North Carolina,State,North Carolina,Harper Polling,3/22/2026,3/23/2026,600,LV,49%,41%
+Generic Ballot,Generic Ballot,National,National,Quinnipiac University,3/19/2026,3/23/2026,1191,RV,51%,40%
+Generic Ballot,Generic Ballot,National,National,Ipsos,3/20/2026,3/23/2026,985,RV,40%,38%
+Generic Ballot,Generic Ballot,National,National,Morning Consult,3/16/2026,3/22/2026,26406,RV,45%,42%
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
