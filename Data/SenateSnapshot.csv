@@ -1,7 +1,7 @@
 GeographyName,ElectionName,DemCandidate,RepCandidate,DemEstimate,RepEstimate,DemChance,RepChance,Flip,DemLow95,DemHigh95,RepLow95,RepHigh95,DemIncumbent,RepIncumbent,DemParty,RepParty,DemConfirmed,RepConfirmed,Link
 Alabama,Alabama,TBD,TBD,0.3997,0.6003,0.0315,0.9685,0,0.311032460310486,0.488420969836093,0.511579030163907,0.688967539689514,0,0,D,R,1,1,https://seattally.com/#/senate/Alabama
 Alaska,Alaska,Peltola,Sullivan,0.4755,0.5245,0.2807,0.7193,0,0.406014591839647,0.544934033798061,0.455065966201939,0.593985408160353,0,1,D,R,0,0,https://seattally.com/#/senate/Alaska
-Arkansas,Arkansas,Shoffner,Cotton,0.3921,0.6079,0.0094,0.9906,0,0.316503098567623,0.467677963529691,0.532322036470309,0.683496901432377,0,1,D,R,1,1,https://seattally.com/#/senate/Arkansas
+Arkansas,Arkansas,Shoffner,Cotton,0.3921,0.6079,0.0094,0.9906,0,0.316503098567623,0.46767796352969,0.53232203647031,0.683496901432377,0,1,D,R,1,1,https://seattally.com/#/senate/Arkansas
 Colorado,Colorado,Hickenlooper,TBD,0.5977,0.4023,0.9799,0.0201,0,0.519325675555212,0.675976436626182,0.324023563373818,0.480674324444788,1,0,D,R,0,1,https://seattally.com/#/senate/Colorado
 Delaware,Delaware,Coons,TBD,0.6309,0.3691,0.996,0.004,0,0.549663173811565,0.712053160410373,0.287946839589627,0.450336826188435,1,0,D,R,0,1,https://seattally.com/#/senate/Delaware
 Georgia,Georgia,Ossoff,Collins,0.5354,0.4646,0.8089,0.1911,0,0.468744861495876,0.602087218715899,0.397912781284101,0.531255138504124,1,0,D,R,1,0,https://seattally.com/#/senate/Georgia
@@ -11,7 +11,7 @@ Iowa,Iowa,Turek,Hinson,0.4856,0.5144,0.3695,0.6305,0,0.414478608275931,0.5567204
 Kansas,Kansas,Schmidt,Marshall,0.4533,0.5467,0.1212,0.8788,0,0.387673426617348,0.51900490725398,0.48099509274602,0.612326573382652,0,1,D,R,0,0,https://seattally.com/#/senate/Kansas
 Kentucky,Kentucky,Booker,Barr,0.4088,0.5912,0.0222,0.9778,0,0.334129355146698,0.483403230106904,0.516596769893096,0.665870644853302,0,0,D,R,1,1,https://seattally.com/#/senate/Kentucky
 Louisiana,Louisiana,TBD,TBD,0.4425,0.5575,0.1438,0.8562,0,0.353616179251516,0.531427076150469,0.468572923849531,0.646383820748484,0,0,D,R,1,1,https://seattally.com/#/senate/Louisiana
-Maine,Maine,Platner,Collins,0.5177,0.4823,0.6735,0.3265,1,0.45297532769313,0.582407072833203,0.417592927166797,0.54702467230687,0,1,D,R,0,1,https://seattally.com/#/senate/Maine
+Maine,Maine,Platner,Collins,0.5177,0.4823,0.6735,0.3265,1,0.452975327693129,0.582407072833203,0.417592927166797,0.547024672306871,0,1,D,R,0,1,https://seattally.com/#/senate/Maine
 Massachusetts,Massachusetts,Markey,Deaton,0.6727,0.3273,1,0,0,0.607102478857544,0.738255342139149,0.261744657860851,0.392897521142456,1,0,D,R,0,1,https://seattally.com/#/senate/Massachusetts
 Michigan,Michigan,El-Sayed,Rogers,0.5173,0.4827,0.668,0.332,0,0.451859396163318,0.582684300439705,0.417315699560295,0.548140603836682,0,0,D,R,0,1,https://seattally.com/#/senate/Michigan
 Minnesota,Minnesota,Flanagan,Tafoya,0.5509,0.4491,0.8968,0.1032,0,0.484654450723882,0.617054353817106,0.382945646182894,0.515345549276118,0,0,D,R,0,0,https://seattally.com/#/senate/Minnesota
