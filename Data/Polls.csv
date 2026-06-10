@@ -1729,8 +1729,8 @@ Gubernatorial,Tennessee,State,Tennessee,Quantus Insights,,,0,,https://quantusins
 Gubernatorial,Tennessee,State,Tennessee,Quantus Insights,,,0,,https://quantusinsights.org/f/tennessee-2026-blackburn-in-command-of-gop%E2%80%99s-fortress-state,8/5/2025,8/27/2025,600,RV,2,D,Green,28%,1,4/11/2026
 Gubernatorial,Ohio,State,Ohio,Emerson College,,,0,,https://emersoncollegepolling.com/ohio-2026/,8/18/2025,8/19/2025,1000,RV,1,R,Ramaswamy,49%,1,4/11/2026
 Gubernatorial,Ohio,State,Ohio,Emerson College,,,0,,https://emersoncollegepolling.com/ohio-2026/,8/18/2025,8/19/2025,1000,RV,1,D,Acton,39%,1,4/11/2026
-Gubernatorial,Connecticut,State,Connecticut,OnMessage,Stewart,R,1,Stewart,https://www.wtnh.com/news/connecticut/strategists-weigh-in-on-connecticut-gubernatorial-survey/,8/11/2025,8/14/2025,600,LV,1,D,Lamont,50%,1,4/11/2026
-Gubernatorial,Connecticut,State,Connecticut,OnMessage,Stewart,R,1,Stewart,https://www.wtnh.com/news/connecticut/strategists-weigh-in-on-connecticut-gubernatorial-survey/,8/11/2025,8/14/2025,600,LV,1,R,Stewart,42%,1,4/11/2026
+Gubernatorial,Connecticut,State,Connecticut,OnMessage,Stewart,R,1,Stewart,https://www.wtnh.com/news/connecticut/strategists-weigh-in-on-connecticut-gubernatorial-survey/,8/11/2025,8/14/2025,600,LV,1,D,Lamont,50%,0,4/11/2026
+Gubernatorial,Connecticut,State,Connecticut,OnMessage,Stewart,R,1,Stewart,https://www.wtnh.com/news/connecticut/strategists-weigh-in-on-connecticut-gubernatorial-survey/,8/11/2025,8/14/2025,600,LV,1,R,Stewart,42%,0,4/11/2026
 Gubernatorial,Arizona,State,Arizona,Noble Predictive Insights,,,0,,https://www.noblepredictiveinsights.com/post/robson-rewrites-the-2022-playbook-as-she-opens-with-an-early-lead-in-arizona-gop-primary,8/11/2025,8/18/2025,948,RV,1,D,Hobbs,40%,0,4/11/2026
 Gubernatorial,Arizona,State,Arizona,Noble Predictive Insights,,,0,,https://www.noblepredictiveinsights.com/post/robson-rewrites-the-2022-playbook-as-she-opens-with-an-early-lead-in-arizona-gop-primary,8/11/2025,8/18/2025,948,RV,1,R,Taylor Robson,38%,0,4/11/2026
 Gubernatorial,Arizona,State,Arizona,Noble Predictive Insights,,,0,,https://www.noblepredictiveinsights.com/post/robson-rewrites-the-2022-playbook-as-she-opens-with-an-early-lead-in-arizona-gop-primary,8/11/2025,8/18/2025,948,RV,1,D,Hobbs,39%,1,4/11/2026
@@ -2691,3 +2691,24 @@ Senate,Maine,State,Maine,Tavern Research,,,0,,https://www.tavernresearch.com/res
 Senate,Maine,State,Maine,Tavern Research,,,0,,https://www.tavernresearch.com/research-and-writings/maine-senate-platner-primary-mills-generic-gap,6/5/2026,6/8/2026,1642,LV,1,R,Collins,49%,1,6/8/2026
 Senate,Maine,State,Maine,Tavern Research,,,0,,https://www.tavernresearch.com/research-and-writings/maine-senate-platner-primary-mills-generic-gap,6/5/2026,6/8/2026,1642,LV,2,D,Mills,52%,1,6/8/2026
 Senate,Maine,State,Maine,Tavern Research,,,0,,https://www.tavernresearch.com/research-and-writings/maine-senate-platner-primary-mills-generic-gap,6/5/2026,6/8/2026,1642,LV,2,R,Collins,48%,1,6/8/2026
+Generic Ballot,Generic Ballot,National,National,Ipsos,Reuters,,0,,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,6/3/2026,6/8/2026,3578,RV,1,D,,41%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,Ipsos,Reuters,,0,,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,6/3/2026,6/8/2026,3578,RV,1,R,,37%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,Ipsos,Reuters,,0,,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,6/3/2026,6/8/2026,4531,A,1,D,,35%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,Ipsos,Reuters,,0,,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,6/3/2026,6/8/2026,4531,A,1,R,,31%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,YouGov,The Economist,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,6/5/2026,6/8/2026,1568,A,1,D,,37%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,YouGov,The Economist,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,6/5/2026,6/8/2026,1568,A,1,R,,33%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,YouGov,The Economist,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,6/5/2026,6/8/2026,1438,RV,1,D,,45%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,YouGov,The Economist,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,6/5/2026,6/8/2026,1438,RV,1,R,,41%,1,6/9/2026
+Gubernatorial,Maine,State,Maine,The Public Sentiment Institute,,,0,,https://tpsiofficial.substack.com/p/tpsi-maine-poll-shows-tight-general,6/8/2026,6/8/2026,497,LV,1,D,Shah,47%,1,6/9/2026
+Gubernatorial,Maine,State,Maine,The Public Sentiment Institute,,,0,,https://tpsiofficial.substack.com/p/tpsi-maine-poll-shows-tight-general,6/8/2026,6/8/2026,497,LV,1,R,Charles,31%,1,6/9/2026
+Senate,Maine,State,Maine,The Public Sentiment Institute,,,0,,https://tpsiofficial.substack.com/p/tpsi-maine-poll-shows-tight-general,6/8/2026,6/8/2026,497,LV,1,R,Collins,44%,1,6/9/2026
+Senate,Maine,State,Maine,The Public Sentiment Institute,,,0,,https://tpsiofficial.substack.com/p/tpsi-maine-poll-shows-tight-general,6/8/2026,6/8/2026,497,LV,1,D,Platner,43%,1,6/9/2026
+Senate,Texas,State,Texas,ReconMR/Siena University,Texas A&M University Bush School of Government & Public Service,,0,,https://reconmr.com/texas-pulse/,6/1/2026,6/4/2026,807,LV,1,R,Paxton,46%,1,6/9/2026
+Senate,Texas,State,Texas,ReconMR/Siena University,Texas A&M University Bush School of Government & Public Service,,0,,https://reconmr.com/texas-pulse/,6/1/2026,6/4/2026,807,LV,1,D,Talarico,46%,1,6/9/2026
+Gubernatorial,Texas,State,Texas,ReconMR/Siena University,Texas A&M University Bush School of Government & Public Service,,0,,https://reconmr.com/texas-pulse/,6/1/2026,6/4/2026,807,LV,1,R,Abbott,49%,1,6/9/2026
+Gubernatorial,Texas,State,Texas,ReconMR/Siena University,Texas A&M University Bush School of Government & Public Service,,0,,https://reconmr.com/texas-pulse/,6/1/2026,6/4/2026,807,LV,1,D,Hinojosa,43%,1,6/9/2026
+Gubernatorial,Texas,State,Texas,ReconMR/Siena University,Texas A&M University Bush School of Government & Public Service,,0,,https://reconmr.com/texas-pulse/,6/1/2026,6/4/2026,807,LV,1,I,Dixon,0%,0,6/9/2026
+Generic Ballot,Generic Ballot,National,National,Morning Consult,,,0,,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,5/25/2026,5/31/2026,24849,RV,1,D,,45%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,Morning Consult,,,0,,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,5/25/2026,5/31/2026,24849,RV,1,R,,42%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,Morning Consult,,,0,,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,6/1/2026,6/7/2026,24849,RV,1,D,,46%,1,6/9/2026
+Generic Ballot,Generic Ballot,National,National,Morning Consult,,,0,,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,6/1/2026,6/7/2026,24849,RV,1,R,,42%,1,6/9/2026
