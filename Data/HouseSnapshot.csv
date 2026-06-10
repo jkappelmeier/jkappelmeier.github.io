@@ -26,14 +26,14 @@ California-03,CA-03,Bera,Tucker,0.5704,0.4296,0.9926,0.00739999999999996,1,0.522
 California-04,CA-04,Thompson,TBD,0.5915,0.4085,0.9993,0.000700000000000034,0,0.544137818333539,0.638819594912797,0.361180405087203,0.455862181666461,1,0,D,R,0,1,https://seattally.com/#/house/California-04
 California-05,CA-05,Masuda,McClintock,0.3917,0.6083,0.0001,0.9999,0,0.344212565318294,0.439216502156799,0.560783497843201,0.655787434681706,0,1,D,R,1,1,https://seattally.com/#/house/California-05
 California-06,CA-06,Pan,Kiley,0.5343,0.4657,0.8829,0.1171,0,0.486848466517617,0.581818894123714,0.418181105876286,0.513151533482384,0,1,D,I,1,1,https://seattally.com/#/house/California-06
-California-07,CA-07,Matsui or Vang,N/A,1,0,1,0,0,1,1,0,0,1,0,D,,1,1,https://seattally.com/#/house/California-07
+California-07,CA-07,Matsui/Vang,N/A,1,0,1,0,0,1,1,0,0,1,0,D,,1,1,https://seattally.com/#/house/California-07
 California-08,CA-08,Garamendi,Recile,0.6997,0.3003,1,0,0,0.652172935466593,0.747270926367052,0.252729073632948,0.347827064533407,1,0,D,R,1,1,https://seattally.com/#/house/California-08
 California-09,CA-09,Harder,McBride,0.5913,0.4087,0.9992,0.000800000000000023,0,0.5437967614663,0.638763798781764,0.361236201218236,0.4562032385337,1,0,D,R,1,1,https://seattally.com/#/house/California-09
 California-10,CA-10,DeSaulnier,TBD,0.6879,0.3121,1,0,0,0.640206091850895,0.7356819004256,0.2643180995744,0.359793908149105,1,0,D,R,0,1,https://seattally.com/#/house/California-10
-California-11,CA-11,Wiener or Chan,N/A,1,0,1,0,0,1,1,0,0,0,0,D,,1,1,https://seattally.com/#/house/California-11
-California-12,CA-12,Simon or Joyce,N/A,1,0,1,0,0,1,1,0,0,1,0,D,,1,1,https://seattally.com/#/house/California-12
+California-11,CA-11,Wiener/Chan,N/A,1,0,1,0,0,1,1,0,0,0,0,D,,1,1,https://seattally.com/#/house/California-11
+California-12,CA-12,Simon/Joyce,N/A,1,0,1,0,0,1,1,0,0,1,0,D,,1,1,https://seattally.com/#/house/California-12
 California-13,CA-13,Gray,Lincoln,0.5464,0.4536,0.9464,0.0536,0,0.499006461586598,0.593826564232517,0.406173435767483,0.500993538413402,1,0,D,R,1,1,https://seattally.com/#/house/California-13
-California-14,CA-14,Wahab or Hernandez,N/A,1,0,1,0,0,1,1,0,0,0,0,D,,1,1,https://seattally.com/#/house/California-14
+California-14,CA-14,Wahab/Hernandez,N/A,1,0,1,0,0,1,1,0,0,0,0,D,,1,1,https://seattally.com/#/house/California-14
 California-15,CA-15,Mullin,Hoelter,0.752,0.248,1,0,0,0.704081423428299,0.799854749887985,0.200145250112015,0.295918576571701,1,0,D,R,1,1,https://seattally.com/#/house/California-15
 California-16,CA-16,Liccardo,TBD,0.7863,0.2137,1,0,0,0.733336651909429,0.839287910835118,0.160712089164882,0.266663348090571,1,0,D,R,1,1,https://seattally.com/#/house/California-16
 California-17,CA-17,Khanna,Tandon,0.704,0.296,1,0,0,0.656181469175845,0.751846438558065,0.248153561441935,0.343818530824155,1,0,D,R,1,1,https://seattally.com/#/house/California-17
@@ -53,13 +53,13 @@ California-30,CA-30,Friedman,Meyers,0.7139,0.2861,1,0,0,0.66601687007502,0.76170
 California-31,CA-31,Cisneros,Ching,0.5883,0.4117,0.9989,0.00109999999999999,0,0.540863430865617,0.635731769783894,0.364268230216106,0.459136569134383,1,0,D,R,1,1,https://seattally.com/#/house/California-31
 California-32,CA-32,Sherman,Thompson,0.6534,0.3466,1,0,0,0.605718893616395,0.701118766866969,0.298881233133031,0.394281106383605,1,0,D,R,1,1,https://seattally.com/#/house/California-32
 California-33,CA-33,Aguilar,Vargas,0.5991,0.4009,0.9997,0.000299999999999967,0,0.551663530882039,0.646541359080823,0.353458640919177,0.448336469117961,1,0,D,R,1,1,https://seattally.com/#/house/California-33
-California-34,CA-34,Gomez or Gonzales-Torres,N/A,1,0,1,0,0,1,1,0,0,1,0,D,,1,1,https://seattally.com/#/house/California-34
+California-34,CA-34,Gomez/Gonzales-Torres,N/A,1,0,1,0,0,1,1,0,0,1,0,D,,1,1,https://seattally.com/#/house/California-34
 California-35,CA-35,Torres,Cargile,0.5784,0.4216,0.9967,0.00329999999999997,0,0.530944369910291,0.625837049949501,0.374162950050499,0.469055630089709,1,0,D,R,1,1,https://seattally.com/#/house/California-35
 California-36,CA-36,Lieu,Brignano,0.7176,0.2824,1,0,0,0.669719317350836,0.765451177305709,0.234548822694291,0.330280682649164,1,0,D,R,1,1,https://seattally.com/#/house/California-36
 California-37,CA-37,Kamlager-Dove,Fedalizo,0.8471,0.1529,1,0,0,0.794327552248661,0.89985239675063,0.10014760324937,0.205672447751339,1,0,D,R,0,0,https://seattally.com/#/house/California-37
 California-38,CA-38,Solis,Casas,0.5854,0.4146,0.9978,0.00219999999999998,0,0.536020097165939,0.634680324348244,0.365319675651756,0.463979902834061,0,0,D,R,1,1,https://seattally.com/#/house/California-38
 California-39,CA-39,Takano,Manos,0.5785,0.4215,0.9968,0.00319999999999998,0,0.531077488638055,0.625988287753814,0.374011712246186,0.468922511361945,1,0,D,R,1,1,https://seattally.com/#/house/California-39
-California-40,CA-40,N/A,Calvert or Kim,0,1,0,1,0,0,0,1,1,0,1,,R,1,1,https://seattally.com/#/house/California-40
+California-40,CA-40,N/A,Calvert/Kim,0,1,0,1,0,0,0,1,1,0,1,,R,1,1,https://seattally.com/#/house/California-40
 California-41,CA-41,Sánchez,Clemmons,0.6843,0.3157,1,0,1,0.636866299306533,0.731687010096827,0.268312989903173,0.363133700693467,1,0,D,R,1,1,https://seattally.com/#/house/California-41
 California-42,CA-42,Garcia,Burley,0.5968,0.4032,0.9996,0.000399999999999956,0,0.549145831096754,0.644449193208778,0.355550806791222,0.450854168903246,1,0,D,R,1,1,https://seattally.com/#/house/California-42
 California-43,CA-43,Waters,Morales,0.7692,0.2308,1,0,0,0.72169872610395,0.816651423557644,0.183348576442356,0.27830127389605,1,0,D,R,0,0,https://seattally.com/#/house/California-43
