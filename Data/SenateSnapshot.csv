@@ -1,7 +1,7 @@
 GeographyName,ElectionName,DemCandidate,RepCandidate,DemEstimate,RepEstimate,DemChance,RepChance,Flip,DemLow95,DemHigh95,RepLow95,RepHigh95,DemIncumbent,RepIncumbent,DemParty,RepParty,DemConfirmed,RepConfirmed,Link
 Alabama,Alabama,TBD,TBD,0.3982,0.6018,0.0296,0.9704,0,0.309400814088765,0.486936379420162,0.513063620579838,0.690599185911235,0,0,D,R,1,1,https://seattally.com/#/senate/Alabama
 Alaska,Alaska,Peltola,Sullivan,0.4719,0.5281,0.2523,0.7477,0,0.402464468153273,0.541250152016556,0.458749847983444,0.597535531846727,0,1,D,R,0,0,https://seattally.com/#/senate/Alaska
-Arkansas,Arkansas,Shoffner,Cotton,0.3888,0.6112,0.0077,0.9923,0,0.31326517390974,0.464287205102912,0.535712794897088,0.68673482609026,0,1,D,R,1,1,https://seattally.com/#/senate/Arkansas
+Arkansas,Arkansas,Shoffner,Cotton,0.3888,0.6112,0.0077,0.9923,0,0.31326517390974,0.464287205102912,0.535712794897088,0.686734826090259,0,1,D,R,1,1,https://seattally.com/#/senate/Arkansas
 Colorado,Colorado,Hickenlooper,TBD,0.5972,0.4028,0.9795,0.0205,0,0.518937417223429,0.675518842684711,0.324481157315289,0.481062582776571,1,0,D,R,0,1,https://seattally.com/#/senate/Colorado
 Delaware,Delaware,Coons,TBD,0.6304,0.3696,0.9959,0.00409999999999999,0,0.549251156590694,0.711574464748771,0.288425535251229,0.450748843409306,1,0,D,R,0,1,https://seattally.com/#/senate/Delaware
 Georgia,Georgia,Ossoff,Collins,0.535,0.465,0.8064,0.1936,0,0.468393643233157,0.601650014282713,0.398349985717287,0.531606356766843,1,0,D,R,1,0,https://seattally.com/#/senate/Georgia
