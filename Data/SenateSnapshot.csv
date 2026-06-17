@@ -1,5 +1,5 @@
 GeographyName,ElectionName,DemCandidate,RepCandidate,DemEstimate,RepEstimate,DemChance,RepChance,Flip,DemLow95,DemHigh95,RepLow95,RepHigh95,DemIncumbent,RepIncumbent,DemParty,RepParty,DemConfirmed,RepConfirmed,Link
-Alabama,Alabama,TBD,TBD,0.3987,0.6013,0.0302,0.9698,0,0.309927871447302,0.487418532917388,0.512581467082612,0.690072128552698,0,0,D,R,1,1,https://seattally.com/#/senate/Alabama
+Alabama,Alabama,Wess,Moore,0.3987,0.6013,0.0302,0.9698,0,0.309927871447302,0.487418532917388,0.512581467082612,0.690072128552698,0,0,D,R,1,1,https://seattally.com/#/senate/Alabama
 Alaska,Alaska,Peltola,Sullivan,0.4718,0.5282,0.2521,0.7479,0,0.402493304629865,0.541200429036478,0.458799570963522,0.597506695370135,0,1,D,R,0,0,https://seattally.com/#/senate/Alaska
 Arkansas,Arkansas,Shoffner,Cotton,0.3888,0.6112,0.0077,0.9923,0,0.313345754413656,0.464280330435457,0.535719669564543,0.686654245586344,0,1,D,R,1,1,https://seattally.com/#/senate/Arkansas
 Colorado,Colorado,Hickenlooper,TBD,0.5974,0.4026,0.9798,0.0202,0,0.519193469248742,0.675632032681209,0.324367967318791,0.480806530751258,1,0,D,R,0,1,https://seattally.com/#/senate/Colorado
