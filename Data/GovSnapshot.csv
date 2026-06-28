@@ -1,6 +1,6 @@
 GeographyName,ElectionName,DemCandidate,RepCandidate,DemEstimate,RepEstimate,DemChance,RepChance,Flip,DemLow95,DemHigh95,RepLow95,RepHigh95,DemIncumbent,RepIncumbent,DemParty,RepParty,DemConfirmed,RepConfirmed,Link
 Alabama,Alabama,Jones,Tuberville,0.3909,0.6091,0.0737,0.9263,0,0.267036554909432,0.514795103030216,0.485204896969784,0.732963445090568,0,0,D,R,1,1,https://seattally.com/#/gov/Alabama
-Alaska,Alaska,Begich,Wilson,0.5227,0.4773,0.6334,0.3666,1,0.413172947718328,0.632230992879218,0.367769007120782,0.586827052281672,0,0,D,R,0,0,https://seattally.com/#/gov/Alaska
+Alaska,Alaska,Begich,Wilson,0.5227,0.4773,0.6334,0.3666,1,0.413172947718328,0.632230992879217,0.367769007120783,0.586827052281672,0,0,D,R,0,0,https://seattally.com/#/gov/Alaska
 Arizona,Arizona,Hobbs,Biggs,0.5566,0.4434,0.8058,0.1942,0,0.448633631304173,0.664608386715831,0.335391613284169,0.551366368695827,1,0,D,R,1,0,https://seattally.com/#/gov/Arizona
 Arkansas,Arkansas,Love,Sanders,0.381,0.619,0.0937,0.9063,0,0.232557976339431,0.529471189785959,0.470528810214041,0.767442023660569,0,1,D,R,1,1,https://seattally.com/#/gov/Arkansas
 California,California,Becerra,Hilton,0.6493,0.3507,0.9937,0.00629999999999997,0,0.550833830173461,0.747856582881555,0.252143417118445,0.449166169826539,0,0,D,R,1,1,https://seattally.com/#/gov/California
