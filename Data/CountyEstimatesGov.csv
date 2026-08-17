@@ -22,12 +22,12 @@ Gubernatorial,Alabama,State,Alabama,Covington County,1039,0.196567319368956,1236
 Gubernatorial,Alabama,State,Alabama,Crenshaw County,1041,0.311387024124786,4699.4046,31.7315,-86.3136
 Gubernatorial,Alabama,State,Alabama,Cullman County,1043,0.139370260820148,31108.3554,34.1319,-86.8676
 Gubernatorial,Alabama,State,Alabama,Dale County,1045,0.324632980822681,13799.088,31.4318,-85.611
-Gubernatorial,Alabama,State,Alabama,Dallas County,1047,0.753727602167487,11227.0428,32.326,-87.1065
+Gubernatorial,Alabama,State,Alabama,Dallas County,1047,0.753727602167488,11227.0428,32.326,-87.1065
 Gubernatorial,Alabama,State,Alabama,DeKalb County,1049,0.18534011610418,21390.7698,34.4598,-85.8041
 Gubernatorial,Alabama,State,Alabama,Elmore County,1051,0.325888957667362,29947.5144,32.5966,-86.1492
 Gubernatorial,Alabama,State,Alabama,Escambia County,1053,0.361092708444728,10806.3744,31.1261,-87.1616
 Gubernatorial,Alabama,State,Alabama,Etowah County,1055,0.303827734308853,33245.904,34.0453,-86.0348
-Gubernatorial,Alabama,State,Alabama,Fayette County,1057,0.198446222568492,6040.74,33.7212,-87.7388
+Gubernatorial,Alabama,State,Alabama,Fayette County,1057,0.198446222568491,6040.74,33.7212,-87.7388
 Gubernatorial,Alabama,State,Alabama,Franklin County,1059,0.189352556540574,8722.683,34.4417,-87.8437
 Gubernatorial,Alabama,State,Alabama,Geneva County,1061,0.164931803992215,8966.496,31.095,-85.8391
 Gubernatorial,Alabama,State,Alabama,Greene County,1063,0.846000973017042,2924.3004,32.8531,-87.9522
@@ -64,7 +64,7 @@ Gubernatorial,Alabama,State,Alabama,Tallapoosa County,1123,0.34153845108876,1445
 Gubernatorial,Alabama,State,Alabama,Tuscaloosa County,1125,0.505385383668863,61224.7194,33.2896,-87.5251
 Gubernatorial,Alabama,State,Alabama,Walker County,1127,0.199987025993823,21518.1348,33.8033,-87.2973
 Gubernatorial,Alabama,State,Alabama,Washington County,1129,0.30673765747157,6111.3366,31.4076,-88.2079
-Gubernatorial,Alabama,State,Alabama,Wilcox County,1131,0.749060845605153,3815.1276,31.9893,-87.3082
+Gubernatorial,Alabama,State,Alabama,Wilcox County,1131,0.749060845605152,3815.1276,31.9893,-87.3082
 Gubernatorial,Alabama,State,Alabama,Winston County,1133,0.118638416557786,8060.385,34.1492,-87.3737
 Gubernatorial,Alaska,State,Alaska,Aleutians East Borough,2013,0.38412734675975,300.5814,55.3665,-161.981
 Gubernatorial,Alaska,State,Alaska,Aleutians West Borough,2016,0.592228413986219,686.3154,52.798,-106.606
@@ -315,7 +315,7 @@ Gubernatorial,Connecticut,State,Connecticut,Middlesex County,9007,0.604433355411
 Gubernatorial,Connecticut,State,Connecticut,New Haven County,9009,0.602797454622284,284144.7648,41.4106,-72.9321
 Gubernatorial,Connecticut,State,Connecticut,New London County,9011,0.605367783547724,98287.9344,41.4867,-72.1014
 Gubernatorial,Connecticut,State,Connecticut,Tolland County,9013,0.580657637734786,58285.1352,41.855,-72.3365
-Gubernatorial,Connecticut,State,Connecticut,Windham County,9015,0.508891534531304,40745.1552,41.83,-71.9874
+Gubernatorial,Connecticut,State,Connecticut,Windham County,9015,0.508891534531303,40745.1552,41.83,-71.9874
 Gubernatorial,Florida,State,Florida,Alachua County,12001,0.645513335212053,97901.4726,29.6747,-82.3577
 Gubernatorial,Florida,State,Florida,Baker County,12003,0.15340011925267,10850.0424,30.3311,-82.2846
 Gubernatorial,Florida,State,Florida,Bay County,12005,0.294045559386049,70376.8044,30.2652,-85.6203
@@ -551,7 +551,7 @@ Gubernatorial,Idaho,State,Idaho,Adams County,16003,0.253782798115731,1902.4692,4
 Gubernatorial,Idaho,State,Idaho,Bannock County,16005,0.445479600270385,28118.553,42.6685,-112.225
 Gubernatorial,Idaho,State,Idaho,Bear Lake County,16007,0.143926122521756,2368.2612,42.2848,-111.33
 Gubernatorial,Idaho,State,Idaho,Benewah County,16009,0.243055766771372,3660.1062,47.2176,-116.659
-Gubernatorial,Idaho,State,Idaho,Bingham County,16011,0.215153263000642,14604.0348,43.2166,-112.398
+Gubernatorial,Idaho,State,Idaho,Bingham County,16011,0.215153263000643,14604.0348,43.2166,-112.398
 Gubernatorial,Idaho,State,Idaho,Blaine County,16013,0.7015518738002,9246.699,43.4119,-113.98
 Gubernatorial,Idaho,State,Idaho,Boise County,16015,0.285077151307923,3487.6176,43.9891,-115.73
 Gubernatorial,Idaho,State,Idaho,Bonner County,16017,0.313558429354573,21107.6556,48.3,-116.601
@@ -582,14 +582,14 @@ Gubernatorial,Idaho,State,Idaho,Madison County,16065,0.180282349045483,12148.437
 Gubernatorial,Idaho,State,Idaho,Minidoka County,16067,0.191648929325576,5657.9172,42.8543,-113.638
 Gubernatorial,Idaho,State,Idaho,Nez Perce County,16069,0.343791109907068,14290.353,46.3268,-116.75
 Gubernatorial,Idaho,State,Idaho,Oneida County,16071,0.115617203598818,1726.3416,42.195,-112.539
-Gubernatorial,Idaho,State,Idaho,Owyhee County,16073,0.210793043721971,3534.9246,42.5814,-116.17
+Gubernatorial,Idaho,State,Idaho,Owyhee County,16073,0.210793043721972,3534.9246,42.5814,-116.17
 Gubernatorial,Idaho,State,Idaho,Payette County,16075,0.21158095994556,8385.7116,44.0068,-116.761
 Gubernatorial,Idaho,State,Idaho,Power County,16077,0.287416860470034,2133.1818,42.6936,-112.841
 Gubernatorial,Idaho,State,Idaho,Shoshone County,16079,0.326485832361456,4346.4216,47.3529,-115.892
 Gubernatorial,Idaho,State,Idaho,Teton County,16081,0.610880901732911,4707.4104,43.7594,-111.208
 Gubernatorial,Idaho,State,Idaho,Twin Falls County,16083,0.302373055031272,26468.6304,42.356,-114.667
 Gubernatorial,Idaho,State,Idaho,Valley County,16085,0.439342272018475,5155.0074,44.7666,-115.566
-Gubernatorial,Idaho,State,Idaho,Washington County,16087,0.211325964469817,3958.5042,44.4524,-116.785
+Gubernatorial,Idaho,State,Idaho,Washington County,16087,0.211325964469818,3958.5042,44.4524,-116.785
 Gubernatorial,Illinois,State,Illinois,Adams County,17001,0.257293372698719,22759.7616,39.9879,-91.1885
 Gubernatorial,Illinois,State,Illinois,Alexander County,17003,0.455021951732869,1633.911,37.1915,-89.3375
 Gubernatorial,Illinois,State,Illinois,Bond County,17005,0.306417114240938,5683.3902,38.8868,-89.4356
@@ -950,7 +950,7 @@ Gubernatorial,Massachusetts,State,Massachusetts,Norfolk County,25021,0.665205974
 Gubernatorial,Massachusetts,State,Massachusetts,Plymouth County,25023,0.560650898775634,213613.6668,41.9512,-70.8114
 Gubernatorial,Massachusetts,State,Massachusetts,Suffolk County,25025,0.801435068136127,210159.528,42.3333,-71.0719
 Gubernatorial,Massachusetts,State,Massachusetts,Worcester County,25027,0.575648397582032,298020.9996,42.3514,-71.9077
-Gubernatorial,Michigan,State,Michigan,Alcona County,26001,0.323534573639482,5383.5366,44.6854,-83.5937
+Gubernatorial,Michigan,State,Michigan,Alcona County,26001,0.323534573639483,5383.5366,44.6854,-83.5937
 Gubernatorial,Michigan,State,Michigan,Alger County,26003,0.438953663921118,3778.0098,46.4086,-86.604
 Gubernatorial,Michigan,State,Michigan,Allegan County,26005,0.399868305382447,51559.5354,42.5913,-85.8884
 Gubernatorial,Michigan,State,Michigan,Alpena County,26007,0.392780693448473,12376.239,45.0348,-83.6277
@@ -1012,17 +1012,17 @@ Gubernatorial,Michigan,State,Michigan,Montcalm County,26117,0.337177480627645,24
 Gubernatorial,Michigan,State,Michigan,Montmorency County,26119,0.303041623539939,4585.8678,45.0276,-84.1272
 Gubernatorial,Michigan,State,Michigan,Muskegon County,26121,0.531161126646633,68239.2558,43.2912,-86.152
 Gubernatorial,Michigan,State,Michigan,Newaygo County,26123,0.316504400075285,20932.2558,43.5542,-85.8009
-Gubernatorial,Michigan,State,Michigan,Oakland County,26125,0.593357048281103,551170.218,42.6604,-83.3858
+Gubernatorial,Michigan,State,Michigan,Oakland County,26125,0.593357048281104,551170.218,42.6604,-83.3858
 Gubernatorial,Michigan,State,Michigan,Oceana County,26127,0.384911527866319,10649.1696,43.6409,-86.2676
 Gubernatorial,Michigan,State,Michigan,Ogemaw County,26129,0.321321440586945,9066.2046,44.335,-84.1264
-Gubernatorial,Michigan,State,Michigan,Ontonagon County,26131,0.383584497858963,2759.8176,46.6644,-89.3148
+Gubernatorial,Michigan,State,Michigan,Ontonagon County,26131,0.383584497858964,2759.8176,46.6644,-89.3148
 Gubernatorial,Michigan,State,Michigan,Osceola County,26133,0.28846155048285,9435.927,43.9898,-85.3252
 Gubernatorial,Michigan,State,Michigan,Oscoda County,26135,0.308947183969839,3733.614,44.6818,-84.1298
 Gubernatorial,Michigan,State,Michigan,Otsego County,26137,0.356950225757437,11459.211,45.0214,-84.599
 Gubernatorial,Michigan,State,Michigan,Ottawa County,26139,0.435366678288314,127937.0508,42.9598,-85.9961
 Gubernatorial,Michigan,State,Michigan,Presque Isle County,26141,0.390475069050429,6261.9912,45.3401,-83.918
 Gubernatorial,Michigan,State,Michigan,Roscommon County,26143,0.370013974498977,11551.6416,44.3356,-84.6116
-Gubernatorial,Michigan,State,Michigan,Saginaw County,26145,0.52368846079976,74546.3706,43.335,-84.0532
+Gubernatorial,Michigan,State,Michigan,Saginaw County,26145,0.523688460799761,74546.3706,43.335,-84.0532
 Gubernatorial,Michigan,State,Michigan,St. Clair County,26151,0.360526367795343,69229.0638,42.9537,-84.1467
 Gubernatorial,Michigan,State,Michigan,St. Joseph County,26153,0.364005254415438,21000.669,42.9341,-82.6806
 Gubernatorial,Michigan,State,Michigan,Sanilac County,26155,0.290663898074029,16766.3286,41.9144,-85.5278
@@ -1742,7 +1742,7 @@ Gubernatorial,Tennessee,State,Tennessee,Davidson County,47037,0.652644437692257,
 Gubernatorial,Tennessee,State,Tennessee,Decatur County,47039,0.158431819194371,3941.037,35.603,-88.1088
 Gubernatorial,Tennessee,State,Tennessee,DeKalb County,47041,0.191707945376133,6772.179,35.9799,-85.8328
 Gubernatorial,Tennessee,State,Tennessee,Dickson County,47043,0.24740956264379,18133.137,36.149,-87.3567
-Gubernatorial,Tennessee,State,Tennessee,Dyer County,47045,0.197735541243793,10414.818,36.0592,-89.4137
+Gubernatorial,Tennessee,State,Tennessee,Dyer County,47045,0.197735541243794,10414.818,36.0592,-89.4137
 Gubernatorial,Tennessee,State,Tennessee,Fayette County,47047,0.29759986425244,17085.8328,35.1971,-89.4144
 Gubernatorial,Tennessee,State,Tennessee,Fentress County,47049,0.124258264329213,7062.5712,36.3805,-84.9324
 Gubernatorial,Tennessee,State,Tennessee,Franklin County,47051,0.241641633996872,14224.851,35.155,-86.0922
@@ -1775,7 +1775,7 @@ Gubernatorial,Tennessee,State,Tennessee,Lincoln County,47103,0.182017552571759,1
 Gubernatorial,Tennessee,State,Tennessee,Loudon County,47105,0.24203992398658,23908.9578,35.7348,-84.3119
 Gubernatorial,Tennessee,State,Tennessee,Macon County,47111,0.130889302982334,7449.033,35.1293,-85.622
 Gubernatorial,Tennessee,State,Tennessee,Madison County,47113,0.421302346264141,28748.1,35.4689,-86.765
-Gubernatorial,Tennessee,State,Tennessee,Marion County,47115,0.228592128942542,10053.8292,35.6169,-87.077
+Gubernatorial,Tennessee,State,Tennessee,Marion County,47115,0.228592128942543,10053.8292,35.6169,-87.077
 Gubernatorial,Tennessee,State,Tennessee,Marshall County,47117,0.223732459187178,11510.8848,35.4248,-84.6175
 Gubernatorial,Tennessee,State,Tennessee,Maury County,47119,0.285620011213469,37496.9838,35.1755,-88.5636
 Gubernatorial,Tennessee,State,Tennessee,McMinn County,47107,0.184284862307078,17379.864,36.532,-86.0073
@@ -1783,7 +1783,7 @@ Gubernatorial,Tennessee,State,Tennessee,McNairy County,47109,0.162011443356635,8
 Gubernatorial,Tennessee,State,Tennessee,Meigs County,47121,0.16743677307254,4405.3734,35.5129,-84.8133
 Gubernatorial,Tennessee,State,Tennessee,Monroe County,47123,0.170638804992275,16109.1252,35.4427,-84.2527
 Gubernatorial,Tennessee,State,Tennessee,Montgomery County,47125,0.419815511056484,58610.4618,36.4969,-87.3828
-Gubernatorial,Tennessee,State,Tennessee,Moore County,47127,0.157627277877642,2621.5356,35.2846,-86.3587
+Gubernatorial,Tennessee,State,Tennessee,Moore County,47127,0.157627277877643,2621.5356,35.2846,-86.3587
 Gubernatorial,Tennessee,State,Tennessee,Morgan County,47129,0.130378681649572,6172.4718,36.135,-84.6492
 Gubernatorial,Tennessee,State,Tennessee,Obion County,47131,0.18129412696994,9328.2126,36.3582,-89.1488
 Gubernatorial,Tennessee,State,Tennessee,Overton County,47133,0.184082754519988,7986.1494,36.345,-85.2881
