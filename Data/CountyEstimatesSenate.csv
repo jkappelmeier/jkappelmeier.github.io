@@ -687,7 +687,7 @@ Senate,Kansas,State,Kansas,Hodgeman County,20083,0.175810442027636,693.5934,38.0
 Senate,Kansas,State,Kansas,Jackson County,20085,0.331274891701821,4625.8968,39.4168,-95.7937
 Senate,Kansas,State,Kansas,Jefferson County,20087,0.362962754585252,7077.1272,39.2358,-95.3834
 Senate,Kansas,State,Kansas,Jewell County,20089,0.146384985743444,1125.1788,39.7847,-98.2183
-Senate,Kansas,State,Kansas,Johnson County,20091,0.574762522301931,245776.6044,38.8838,-94.8223
+Senate,Kansas,State,Kansas,Johnson County,20091,0.57476252230193,245776.6044,38.8838,-94.8223
 Senate,Kansas,State,Kansas,Kearny County,20093,0.191346526481344,927.2172,38.0003,-101.32
 Senate,Kansas,State,Kansas,Kingman County,20095,0.230185197185882,2818.0416,37.5589,-98.1363
 Senate,Kansas,State,Kansas,Kiowa County,20097,0.157212006024194,794.7576,37.5582,-99.2861
@@ -696,7 +696,7 @@ Senate,Kansas,State,Kansas,Lane County,20101,0.163124564931213,596.796,38.4813,-
 Senate,Kansas,State,Kansas,Leavenworth County,20103,0.426553277415631,26045.7786,39.1993,-95.038
 Senate,Kansas,State,Kansas,Lincoln County,20105,0.201026471626925,1079.3274,39.0453,-98.2077
 Senate,Kansas,State,Kansas,Linn County,20107,0.210615703927051,3600.4266,38.2123,-94.843
-Senate,Kansas,State,Kansas,Logan County,20109,0.160825441149098,996.3582,38.9173,-101.148
+Senate,Kansas,State,Kansas,Logan County,20109,0.160825441149097,996.3582,38.9173,-101.148
 Senate,Kansas,State,Kansas,Lyon County,20111,0.477231490776967,9444.6606,38.4562,-96.1526
 Senate,Kansas,State,Kansas,Marion County,20115,0.285174301022488,4178.2998,39.7836,-96.5229
 Senate,Kansas,State,Kansas,Marshall County,20117,0.287760671102293,3529.1022,38.3917,-97.648
@@ -730,7 +730,7 @@ Senate,Kansas,State,Kansas,Saline County,20169,0.383703057224185,16596.0234,38.7
 Senate,Kansas,State,Kansas,Scott County,20171,0.145202486774212,1521.8298,38.4822,-100.907
 Senate,Kansas,State,Kansas,Sedgwick County,20173,0.473115331713423,153292.1472,37.6848,-97.461
 Senate,Kansas,State,Kansas,Seward County,20175,0.360223064597646,3265.6386,37.1933,-100.851
-Senate,Kansas,State,Kansas,Shawnee County,20177,0.548497455834884,58376.1102,39.0415,-95.7565
+Senate,Kansas,State,Kansas,Shawnee County,20177,0.548497455834883,58376.1102,39.0415,-95.7565
 Senate,Kansas,State,Kansas,Sheridan County,20179,0.119019196667035,986.169,39.3503,-100.442
 Senate,Kansas,State,Kansas,Sherman County,20181,0.173556561720912,1848.612,39.3514,-101.72
 Senate,Kansas,State,Kansas,Smith County,20183,0.182529616634659,1437.405,39.7852,-98.7855
@@ -1286,7 +1286,7 @@ Senate,Nebraska,State,Nebraska,Cedar County,31027,0.200576528451344,3524.7354,42
 Senate,Nebraska,State,Nebraska,Chase County,31029,0.155192065161012,1347.8856,40.5242,-101.698
 Senate,Nebraska,State,Nebraska,Cherry County,31031,0.171217025489054,2209.6008,42.545,-101.119
 Senate,Nebraska,State,Nebraska,Cheyenne County,31033,0.248495715301269,3259.8162,41.2198,-102.995
-Senate,Nebraska,State,Nebraska,Clay County,31035,0.237147357040795,2368.2612,40.5244,-98.0513
+Senate,Nebraska,State,Nebraska,Clay County,31035,0.237147357040794,2368.2612,40.5244,-98.0513
 Senate,Nebraska,State,Nebraska,Colfax County,31037,0.327366940007916,2533.4718,41.574,-97.0865
 Senate,Nebraska,State,Nebraska,Cuming County,31039,0.240625227722144,3204.5034,41.9164,-96.7874
 Senate,Nebraska,State,Nebraska,Custer County,31041,0.176735078224636,4241.6184,41.3943,-99.7262
@@ -1311,7 +1311,7 @@ Senate,Nebraska,State,Nebraska,Greeley County,31077,0.225899660091693,889.3716,4
 Senate,Nebraska,State,Nebraska,Hall County,31079,0.386241871827096,16391.5116,40.8726,-98.5022
 Senate,Nebraska,State,Nebraska,Hamilton County,31081,0.253768938493267,3990.5274,40.873,-98.0229
 Senate,Nebraska,State,Nebraska,Harlan County,31083,0.208446621203,1299.8508,40.1765,-99.4046
-Senate,Nebraska,State,Nebraska,Hayes County,31085,0.0795332857591195,357.3498,40.5248,-101.062
+Senate,Nebraska,State,Nebraska,Hayes County,31085,0.0795332857591194,357.3498,40.5248,-101.062
 Senate,Nebraska,State,Nebraska,Hitchcock County,31087,0.163621836417349,1034.2038,40.1763,-101.042
 Senate,Nebraska,State,Nebraska,Holt County,31089,0.191695803553949,3922.1142,42.4557,-98.7838
 Senate,Nebraska,State,Nebraska,Hooker County,31091,0.188879871703385,308.5872,41.916,-101.135
@@ -1355,7 +1355,7 @@ Senate,Nebraska,State,Nebraska,Sioux County,31165,0.149091660727301,490.5372,42.
 Senate,Nebraska,State,Nebraska,Stanton County,31167,0.227721038130015,2203.7784,41.9169,-97.1939
 Senate,Nebraska,State,Nebraska,Thayer County,31169,0.244046189836787,2053.8516,40.1762,-97.595
 Senate,Nebraska,State,Nebraska,Thomas County,31171,0.162470576444841,285.2976,41.9137,-100.556
-Senate,Nebraska,State,Nebraska,Thurston County,31173,0.560425787610823,1530.5634,42.1582,-96.544
+Senate,Nebraska,State,Nebraska,Thurston County,31173,0.560425787610822,1530.5634,42.1582,-96.544
 Senate,Nebraska,State,Nebraska,Valley County,31175,0.231446792291745,1655.745,41.5673,-98.9819
 Senate,Nebraska,State,Nebraska,Washington County,31177,0.346735353052299,9019.6254,41.5311,-96.222
 Senate,Nebraska,State,Nebraska,Wayne County,31179,0.315774885258091,2923.5726,42.2093,-97.1193
@@ -2324,8 +2324,8 @@ Senate,Florida Special,State,Florida,Brevard County,12009,0.427686422818019,2603
 Senate,Florida Special,State,Florida,Broward County,12011,0.618221033016403,630478.584,26.1523,-80.4871
 Senate,Florida Special,State,Florida,Calhoun County,12013,0.178953847570121,4649.1864,30.4061,-85.1971
 Senate,Florida Special,State,Florida,Charlotte County,12015,0.359748929460136,89468.454,26.9055,-81.9123
-Senate,Florida Special,State,Florida,Citrus County,12017,0.296714967467917,71056.5696,28.8489,-82.4794
-Senate,Florida Special,State,Florida,Clay County,12019,0.331285813243675,91438.6086,29.9831,-81.8579
+Senate,Florida Special,State,Florida,Citrus County,12017,0.296714967467916,71056.5696,28.8489,-82.4794
+Senate,Florida Special,State,Florida,Clay County,12019,0.331285813243674,91438.6086,29.9831,-81.8579
 Senate,Florida Special,State,Florida,Collier County,12021,0.36449544475897,156467.5386,26.1108,-81.3475
 Senate,Florida Special,State,Florida,Columbia County,12023,0.273499743694854,24277.9524,30.2242,-82.6215
 Senate,Florida Special,State,Florida,DeSoto County,12027,0.312429302147938,9034.1814,27.1863,-81.8094
@@ -2373,9 +2373,9 @@ Senate,Florida Special,State,Florida,Putnam County,12107,0.286422238383465,26240
 Senate,Florida Special,State,Florida,Santa Rosa County,12113,0.268670098373958,81039.8022,28.717,-81.2363
 Senate,Florida Special,State,Florida,Sarasota County,12115,0.441614501792978,200790.5586,29.9016,-81.4407
 Senate,Florida Special,State,Florida,Seminole County,12117,0.515992099369517,182278.9656,27.3773,-80.472
-Senate,Florida Special,State,Florida,St. Johns County,12109,0.373021433078257,142372.9638,30.7004,-87.0219
+Senate,Florida Special,State,Florida,St. Johns County,12109,0.373021433078256,142372.9638,30.7004,-87.0219
 Senate,Florida Special,State,Florida,St. Lucie County,12111,0.488249531724897,133776.918,27.1845,-82.3315
-Senate,Florida Special,State,Florida,Sumter County,12119,0.340810995262329,76189.743,28.7048,-82.081
+Senate,Florida Special,State,Florida,Sumter County,12119,0.340810995262328,76189.743,28.7048,-82.081
 Senate,Florida Special,State,Florida,Suwannee County,12121,0.215764573163512,15850.0284,30.1956,-82.9915
 Senate,Florida Special,State,Florida,Taylor County,12123,0.222872814849184,7237.971,30.047,-83.6035
 Senate,Florida Special,State,Florida,Union County,12125,0.175569620919265,4508.721,30.0439,-82.3714
