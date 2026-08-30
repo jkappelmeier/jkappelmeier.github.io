@@ -402,7 +402,7 @@ Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Adams County,16003,0.2629953740
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bannock County,16005,0.424343395358253,28118.553,42.6686619,-112.2247491
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bear Lake County,16007,0.124724537062053,2368.2612,42.28476453,-111.3294847
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Benewah County,16009,0.230291132186019,3660.1062,47.21772961,-116.6586207
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bingham County,16011,0.233240287137199,14604.0348,43.21643996,-112.3976535
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bingham County,16011,0.2332402871372,14604.0348,43.21643996,-112.3976535
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Blaine County,16013,0.699889605970204,9246.699,43.41242641,-113.980642
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Boise County,16015,0.271883041425524,3487.6176,43.98909247,-115.730321
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bonner County,16017,0.314620298279183,21107.6556,48.2996896,-116.6009928
@@ -433,13 +433,13 @@ Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Madison County,16065,0.17876313
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Minidoka County,16067,0.215135372338746,5657.9172,42.85441649,-113.6374976
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Nez Perce County,16069,0.345077193160488,14290.353,46.32729495,-116.7498104
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Oneida County,16071,0.123863372969001,1726.3416,42.19490877,-112.5395749
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Owyhee County,16073,0.196322619794482,3534.9246,42.58161924,-116.1698327
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Owyhee County,16073,0.196322619794483,3534.9246,42.58161924,-116.1698327
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Payette County,16075,0.217962271661263,8385.7116,44.00714137,-116.7604309
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Power County,16077,0.31230107152256,2133.1818,42.69368252,-112.8410539
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Shoshone County,16079,0.30322592997614,4346.4216,47.35176251,-115.8911361
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Teton County,16081,0.571585574701537,4707.4104,43.7599238,-111.2078712
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Twin Falls County,16083,0.295037868681964,26468.6304,42.35608428,-114.6681729
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Valley County,16085,0.45510363768416,5155.0074,44.76650867,-115.5662454
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Valley County,16085,0.455103637684161,5155.0074,44.76650867,-115.5662454
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Washington County,16087,0.225305331123555,3958.5042,44.45250794,-116.7847747
 Senate,Illinois,State,Illinois,Stratton (D),Tracy (R),Adams County,17001,0.294404526197227,22759.7616,39.98808185,-91.18842478
 Senate,Illinois,State,Illinois,Stratton (D),Tracy (R),Alexander County,17003,0.445423267096062,1633.911,37.19162505,-89.33759146
@@ -1068,12 +1068,12 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Douglas County,27041,0.
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Faribault County,27043,0.331650405879388,5530.5522,43.67387282,-93.94781493
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Fillmore County,27045,0.394269638680189,8827.4862,43.6739576,-92.08990525
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Freeborn County,27047,0.416427929632846,11973.0378,43.67383179,-93.3488462
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Goodhue County,27049,0.441001492626914,20518.1376,44.40972913,-92.72266089
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Goodhue County,27049,0.441001492626913,20518.1376,44.40972913,-92.72266089
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Grant County,27051,0.367042286373361,2513.0934,45.93402352,-96.01216405
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Hennepin County,27053,0.738315645876454,509426.5212,45.00479678,-93.47715121
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Houston County,27055,0.441067702250308,8161.5492,43.67146528,-91.49277553
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Hubbard County,27057,0.363069130478489,9712.491,47.10785166,-94.91640615
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Isanti County,27059,0.311976604398663,18494.1258,45.56125565,-93.29470209
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Isanti County,27059,0.311976604398662,18494.1258,45.56125565,-93.29470209
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Itasca County,27061,0.422113948389398,19162.974,47.50907819,-93.63162349
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Jackson County,27063,0.307093175972676,4024.734,43.67418723,-95.15400031
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Kanabec County,27065,0.306186379829391,6940.3008,45.94534057,-93.29290464
@@ -1105,14 +1105,14 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Pine County,27115,0.343
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Pipestone County,27117,0.275503950707938,3458.5056,44.02300689,-96.258643
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Polk County,27119,0.351106560297135,11010.8862,47.77395991,-96.40222842
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Pope County,27121,0.362076852452748,5149.185,45.58611957,-95.44454861
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Ramsey County,27123,0.741590868420227,196834.9656,45.01747232,-93.09987304
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Ramsey County,27123,0.741590868420226,196834.9656,45.01747232,-93.09987304
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Red Lake County,27125,0.332771100784493,1504.3626,47.87197525,-96.09561104
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Redwood County,27127,0.301632744739572,5964.321,44.40365018,-95.25398841
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Renville County,27129,0.310300506301602,5742.342,44.72672673,-94.94679511
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Rice County,27131,0.512620815118254,25922.0526,44.35432778,-93.2965986
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Rock County,27133,0.322265133281503,3839.145,43.67485346,-96.25305709
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Rock County,27133,0.322265133281502,3839.145,43.67485346,-96.25305709
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Roseau County,27135,0.269541156718199,6093.1416,48.77485638,-95.81112475
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),St. Louis County,27137,0.594609959455943,84715.92,47.60334656,-92.46951183
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),St. Louis County,27137,0.594609959455942,84715.92,47.60334656,-92.46951183
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Scott County,27139,0.482026819396904,64083.5178,44.64850008,-93.53696693
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Sherburne County,27141,0.345183372203282,41353.596,45.44403172,-93.77496918
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Sibley County,27143,0.302042848900306,6088.047,44.5793954,-94.23165958
@@ -1126,7 +1126,7 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wabasha County,27157,0.
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wadena County,27159,0.258466530715415,5768.5428,46.5856535,-94.9700148
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Waseca County,27161,0.357443578856499,7403.1816,44.0220714,-93.58720505
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Washington County,27163,0.570518949719498,120520.041,45.03911139,-92.88374367
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Watonwan County,27165,0.381904524611791,3500.718,43.97823903,-94.61413846
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Watonwan County,27165,0.38190452461179,3500.718,43.97823903,-94.61413846
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wilkin County,27167,0.322787641616967,2384.2728,46.35705832,-96.46820682
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Winona County,27169,0.500428329761251,19808.5326,43.98683746,-91.77934467
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wright County,27171,0.374050279517149,64114.8132,45.1738141,-93.96334763
@@ -1306,9 +1306,9 @@ Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Gage County,31067,0.3778
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Garden County,31069,0.196426590604274,808.5858,41.61911486,-102.3353283
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Garfield County,31071,0.162704899836163,734.3502,41.91428955,-98.99111827
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Gosper County,31073,0.224755246908652,807.858,40.51481965,-99.83020279
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Grant County,31075,0.0732643809256633,266.3748,41.91528587,-101.740701
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Grant County,31075,0.0732643809256632,266.3748,41.91528587,-101.740701
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Greeley County,31077,0.229094630234125,889.3716,41.56747021,-98.52144222
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Hall County,31079,0.390581762007025,16391.5116,40.87261328,-98.50212614
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Hall County,31079,0.390581762007024,16391.5116,40.87261328,-98.50212614
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Hamilton County,31081,0.257245306848152,3990.5274,40.87318318,-98.02280046
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Harlan County,31083,0.211477955065741,1299.8508,40.17656663,-99.40436605
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Hayes County,31085,0.0808619635488489,357.3498,40.52447865,-101.0616334
@@ -1343,10 +1343,10 @@ Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Platte County,31141,0.26
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Polk County,31143,0.23741049371865,2035.6566,41.18687055,-97.56825226
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Red Willow County,31145,0.211821899353914,3836.9616,40.17604429,-100.477247
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Richardson County,31147,0.305847821220595,2835.5088,40.12499676,-95.71768995
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Rock County,31149,0.121557904600266,604.074,42.42142393,-99.44982378
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Rock County,31149,0.121557904600265,604.074,42.42142393,-99.44982378
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Saline County,31151,0.419780840041562,4067.6742,40.52415215,-97.14080062
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Sarpy County,31153,0.508976305598682,72337.4976,41.11287068,-96.11218009
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Saunders County,31155,0.330512202814341,9761.2536,41.22629371,-96.63733984
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Saunders County,31155,0.33051220281434,9761.2536,41.22629371,-96.63733984
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Scotts Bluff County,31157,0.342665198614241,10836.2142,41.85095717,-103.7084612
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Seward County,31159,0.329651323760446,6590.229,40.8724014,-97.13966029
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Sheridan County,31161,0.203327814590241,1793.2992,42.50454159,-102.4088866
@@ -1563,7 +1563,7 @@ Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Jefferson County,40067,0.1603
 Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Johnston County,40069,0.19280794775696,3017.4588,34.31652004,-96.66080537
 Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Kay County,40071,0.286005997385366,12095.3082,36.81795089,-97.1438723
 Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Kingfisher County,40073,0.162644870120359,4852.9704,35.94535722,-97.94153042
-Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Kiowa County,40075,0.236441257369401,2348.6106,34.91625162,-98.98054865
+Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Kiowa County,40075,0.2364412573694,2348.6106,34.91625162,-98.98054865
 Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Latimer County,40077,0.196997630801221,2938.1286,34.87639948,-95.25098995
 Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),LeFlore County,40079,0.20067317722631,13476.6726,34.90011477,-94.70338293
 Senate,Oklahoma,State,Oklahoma,Thomas (D),Hern (R),Lincoln County,40081,0.207861312764376,11067.6546,35.7027284,-96.88123961
@@ -1704,7 +1704,7 @@ Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Charles Mix County,
 Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Clark County,46025,0.309894642621507,1307.8566,44.8584651,-97.72949102
 Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Clay County,46027,0.608234184236678,4016.0004,42.91461976,-96.97560307
 Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Codington County,46029,0.366094906847633,9598.9542,44.97790512,-97.18860384
-Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Corson County,46031,0.541470435939399,819.5028,45.7085132,-101.1967817
+Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Corson County,46031,0.541470435939398,819.5028,45.7085132,-101.1967817
 Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Custer County,46033,0.347707812633779,4279.464,43.67736837,-103.4514908
 Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Davison County,46035,0.387934263682764,6514.5378,43.67475843,-98.14543668
 Senate,South Dakota,State,South Dakota,Bengs (I),Rounds* (R),Day County,46037,0.441997011625485,2093.1528,45.36728275,-97.60737593
@@ -2305,7 +2305,7 @@ Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Hot Springs,56017,0.2536566772
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Johnson,56019,0.237822522989564,3481.0674,44.03996832,-106.5849297
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Laramie,56021,0.42239226773519,30724.8048,41.30709358,-104.6892193
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Lincoln,56023,0.208070692199849,7700.124,42.26409375,-110.656067
-Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Natrona,56025,0.328856783065796,24023.2224,42.96194049,-106.7988764
+Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Natrona,56025,0.328856783065795,24023.2224,42.96194049,-106.7988764
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Niobrara,56027,0.127833893944568,887.916,43.05616954,-104.4755961
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Park,56029,0.26533822494944,11894.4354,44.52053528,-109.5885953
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Platte,56031,0.225974246855536,3387.1812,42.13239072,-104.9661319
@@ -2326,14 +2326,14 @@ Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Calhoun County,12013,0
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Charlotte County,12015,0.361686972032979,89468.454,26.90579274,-81.91185513
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Citrus County,12017,0.298471736718688,71056.5696,28.84873662,-82.47793438
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Clay County,12019,0.333150306806414,91438.6086,29.98317912,-81.85783045
-Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Collier County,12021,0.36644442267363,156467.5386,26.11069361,-81.34769003
+Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Collier County,12021,0.366444422673629,156467.5386,26.11069361,-81.34769003
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Columbia County,12023,0.275172842060966,24277.9524,30.22445638,-82.62162029
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),DeSoto County,12027,0.314237540017187,9034.1814,27.18691656,-81.80959835
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Dixie County,12029,0.164939880977266,5897.3634,29.60806814,-83.15870461
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Duval County,12031,0.528647448798173,338900.07,30.33214142,-81.67063889
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Escambia County,12033,0.436369530557376,117181.6224,30.66830369,-87.36273986
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Flagler County,12035,0.391697962376691,57820.071,29.46163468,-81.31358003
-Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Franklin County,12037,0.30902626462869,4876.9878,29.8613762,-84.82018866
+Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Franklin County,12037,0.309026264628689,4876.9878,29.8613762,-84.82018866
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Gadsden County,12039,0.68646765757912,15791.8044,30.57930999,-84.61383904
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Gilchrist County,12041,0.176962027812674,7709.5854,29.72600841,-82.80043459
 Senate,Florida Special,State,Florida,Nixon (D),Moody* (R),Glades County,12043,0.259257734251843,3825.3168,26.95642237,-81.1889838
@@ -2389,21 +2389,21 @@ Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Ashland County,39005,0.3035
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Ashtabula County,39007,0.423285086767745,31296.1278,41.70753004,-80.74863402
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Athens County,39009,0.621858417486701,18561.0834,39.3340326,-82.0451808
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Auglaize County,39011,0.218727856837477,18507.954,40.56085701,-84.22168058
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Belmont County,39013,0.319564481355587,22443.8964,40.01576203,-80.98861998
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Brown County,39015,0.23774731169807,15521.0628,38.93410315,-83.86741596
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Belmont County,39013,0.319564481355586,22443.8964,40.01576203,-80.98861998
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Brown County,39015,0.237747311698069,15521.0628,38.93410315,-83.86741596
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Butler County,39017,0.434550021210423,132127.7232,39.43897921,-84.57607723
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Carroll County,39019,0.276417472344381,9974.499,40.579572,-81.08973346
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Champaign County,39021,0.298982670505621,14758.3284,40.13766698,-83.76966912
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Clark County,39023,0.41700277339911,45305.55,39.91660044,-83.78354054
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Clermont County,39025,0.383087597316608,82309.8132,39.04742036,-84.15193439
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Clermont County,39025,0.383087597316607,82309.8132,39.04742036,-84.15193439
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Clinton County,39027,0.277152025640962,15005.0526,39.41489655,-83.80825529
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Columbiana County,39029,0.309476987122996,34694.9538,40.76853311,-80.77709087
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Coshocton County,39031,0.290963960197938,11788.1766,40.30215268,-81.91980212
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Crawford County,39033,0.28683461182936,14617.863,40.85061678,-82.91997484
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Crawford County,39033,0.286834611829359,14617.863,40.85061678,-82.91997484
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Cuyahoga County,39035,0.718395787872853,415974.09,41.42426021,-81.6587538
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Darke County,39037,0.21424615255668,19517.4126,40.13381861,-84.61945793
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Defiance County,39039,0.36042876912438,13805.6382,41.3239854,-84.49071987
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Delaware County,39041,0.536550382690199,96146.019,40.27841348,-83.00450275
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Delaware County,39041,0.536550382690198,96146.019,40.27841348,-83.00450275
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Erie County,39043,0.498035733258469,28649.1192,41.37421463,-82.63799692
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Fairfield County,39045,0.446378331021567,60912.4932,39.75164711,-82.63064275
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Fayette County,39047,0.274270280356644,9082.2162,39.56023827,-83.4560853
@@ -2418,7 +2418,7 @@ Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Hancock County,39063,0.3679
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Hardin County,39065,0.276473068478648,9296.9172,40.66129428,-83.65939867
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Harrison County,39067,0.273281002400142,5125.8954,40.29356193,-81.09149874
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Henry County,39069,0.32207024596313,10755.4284,41.3339642,-84.06830637
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Highland County,39071,0.226868278277074,14467.2084,39.18468334,-83.60078719
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Highland County,39071,0.226868278277073,14467.2084,39.18468334,-83.60078719
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Hocking County,39073,0.336084023212781,9740.1474,39.49712923,-82.47907934
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Holmes County,39075,0.191054963330157,8906.8164,40.5614819,-81.93067102
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Huron County,39077,0.337272385081049,19636.044,41.14651716,-82.59842269
@@ -2432,7 +2432,7 @@ Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Logan County,39091,0.267791
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Lorain County,39093,0.540957227526365,114631.4112,41.29557931,-82.1511144
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Lucas County,39095,0.630565393446602,137348.9604,41.62064794,-83.65545282
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Madison County,39097,0.338974801577444,14883.51,39.89429692,-83.40012747
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Mahoning County,39099,0.522351626525714,81429.903,41.01467607,-80.7763711
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Mahoning County,39099,0.522351626525713,81429.903,41.01467607,-80.7763711
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Marion County,39101,0.352279904139448,19738.6638,40.58744702,-83.1598587
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Medina County,39103,0.442401413451186,77204.2962,41.11770589,-81.8998621
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Meigs County,39105,0.263845765674944,7517.4462,39.08233336,-82.02295352
@@ -2441,7 +2441,7 @@ Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Miami County,39109,0.331089
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Monroe County,39111,0.24671180817456,4899.5496,39.72753365,-81.08267492
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Montgomery County,39113,0.571817434318365,183647.9574,39.75442102,-84.29037841
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Morgan County,39115,0.285355575523232,4896.6384,39.62071306,-81.85284727
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Morrow County,39117,0.270734360731842,13616.4102,40.52405935,-82.79458938
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Morrow County,39117,0.270734360731841,13616.4102,40.52405935,-82.79458938
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Muskingum County,39119,0.338202388498363,28399.4838,39.96581387,-81.94452332
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Noble County,39121,0.218758875783063,4453.4082,39.7660752,-81.45612561
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Ottawa County,39123,0.440901136954551,17276.5164,41.5370554,-83.10923872
@@ -2459,11 +2459,11 @@ Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Scioto County,39145,0.31589
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Seneca County,39147,0.373340387266556,18199.3668,41.12378254,-83.12759613
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Shelby County,39149,0.217186595669724,18260.502,40.33212183,-84.20440063
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Stark County,39151,0.457569864722495,132872.9904,40.8138382,-81.36571811
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Summit County,39153,0.60371096787161,197171.937,41.12587569,-81.53219101
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Summit County,39153,0.603710967871609,197171.937,41.12587569,-81.53219101
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Trumbull County,39155,0.484383549936291,69680.2998,41.31734436,-80.76110735
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Tuscarawas County,39157,0.34177880576953,31065.4152,40.44131431,-81.47450488
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Union County,39159,0.416369940977283,26867.4648,40.29926661,-83.37130174
-Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Van Wert County,39161,0.25463928663124,10637.5248,40.8555416,-84.58607604
+Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Van Wert County,39161,0.254639286631239,10637.5248,40.8555416,-84.58607604
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Vinton County,39163,0.254445207220964,4148.46,39.25106486,-82.48545415
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Warren County,39165,0.406201467265969,100625.628,39.42735056,-84.16728624
 Senate,Ohio Special,State,Ohio,Brown (D),Husted* (R),Washington County,39167,0.339209056575166,22387.8558,39.45557887,-81.49547648
