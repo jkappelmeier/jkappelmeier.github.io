@@ -1216,7 +1216,7 @@ Gubernatorial,Nebraska,State,Nebraska,Walz (D),Pillen* (R),York County,31185,0.2
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Carson City,32510,0.444138055766312,22014.4944,39.15108405,-119.7473502
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Churchill County,32001,0.24564342382478,9564.0198,39.58048345,-118.3362581
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Clark County,32003,0.530226911706903,737435.3442,36.21511541,-115.0146087
-Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Douglas County,32005,0.330356661460615,25320.162,38.91213378,-119.6162086
+Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Douglas County,32005,0.330356661460616,25320.162,38.91213378,-119.6162086
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Elko County,32007,0.203612686517322,15999.9552,41.14601583,-115.3578839
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Esmeralda County,32009,0.163810680393106,326.7822,37.78456446,-117.632191
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Eureka County,32011,0.091379253351685,737.9892,39.98327398,-116.2694709
@@ -1335,7 +1335,7 @@ Gubernatorial,New York,State,New York,Hochul* (D),Blakeman (R),Wayne County,3611
 Gubernatorial,New York,State,New York,Hochul* (D),Blakeman (R),Westchester County,36119,0.640185352350887,331315.6662,41.16176335,-73.75591281
 Gubernatorial,New York,State,New York,Hochul* (D),Blakeman (R),Wyoming County,36121,0.250881736605109,13858.0398,42.70226414,-78.2237766
 Gubernatorial,New York,State,New York,Hochul* (D),Blakeman (R),Yates County,36123,0.401252291263957,7641.1722,42.63362823,-77.10558958
-Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Adams County,39001,0.202545387156574,9000.7026,38.84544021,-83.47239908
+Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Adams County,39001,0.202545387156573,9000.7026,38.84544021,-83.47239908
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Allen County,39003,0.323211734758855,33446.049,40.77151716,-84.10584177
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Ashland County,39005,0.290568232733665,19219.0146,40.84592901,-82.27061922
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Ashtabula County,39007,0.408210312196744,31296.1278,41.70753004,-80.74863402
@@ -1347,18 +1347,18 @@ Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Butler County,39017,0.4193
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Carroll County,39019,0.264177253977433,9974.499,40.579572,-81.08973346
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Champaign County,39021,0.28613836807707,14758.3284,40.13766698,-83.76966912
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Clark County,39023,0.401995781195964,45305.55,39.91660044,-83.78354054
-Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Clermont County,39025,0.368529602735706,82309.8132,39.04742036,-84.15193439
+Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Clermont County,39025,0.368529602735705,82309.8132,39.04742036,-84.15193439
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Clinton County,39027,0.264891187711058,15005.0526,39.41489655,-83.80825529
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Columbiana County,39029,0.296372450738801,34694.9538,40.76853311,-80.77709087
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Coshocton County,39031,0.278327370066063,11788.1766,40.30215268,-81.91980212
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Crawford County,39033,0.274307978369645,14617.863,40.85061678,-82.91997484
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Cuyahoga County,39035,0.705671099630404,415974.09,41.42426021,-81.6587538
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Darke County,39037,0.203982878968743,19517.4126,40.13381861,-84.61945793
-Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Defiance County,39039,0.346248562097726,13805.6382,41.3239854,-84.49071987
+Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Defiance County,39039,0.346248562097725,13805.6382,41.3239854,-84.49071987
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Delaware County,39041,0.5210865181171,96146.019,40.27841348,-83.00450275
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Erie County,39043,0.482526177647778,28649.1192,41.37421463,-82.63799692
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Fairfield County,39045,0.431095893160652,60912.4932,39.75164711,-82.63064275
-Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Fayette County,39047,0.262090703567476,9082.2162,39.56023827,-83.4560853
+Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Fayette County,39047,0.262090703567475,9082.2162,39.56023827,-83.4560853
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Franklin County,39049,0.691718461407117,430383.0744,39.96927249,-83.0091231
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Fulton County,39051,0.332706927814233,16205.9226,41.60183312,-84.12943991
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Gallia County,39053,0.238052175957119,9392.9868,38.82476088,-82.31692618
@@ -1386,7 +1386,7 @@ Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Lucas County,39095,0.61599
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Madison County,39097,0.325209464084198,14883.51,39.89429692,-83.40012747
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Mahoning County,39099,0.506849440385478,81429.903,41.01467607,-80.7763711
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Marion County,39101,0.338250739900051,19738.6638,40.58744702,-83.1598587
-Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Medina County,39103,0.4271500795743,77204.2962,41.11770589,-81.8998621
+Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Medina County,39103,0.427150079574299,77204.2962,41.11770589,-81.8998621
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Meigs County,39105,0.251968388561917,7517.4462,39.08233336,-82.02295352
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Mercer County,39107,0.196000690748276,17157.885,40.54030771,-84.62929783
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Miami County,39109,0.31749092725213,42682.5588,40.05414393,-84.22868895
@@ -1415,7 +1415,7 @@ Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Summit County,39153,0.5887
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Trumbull County,39155,0.46890199708464,69680.2998,41.31734436,-80.76110735
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Tuscarawas County,39157,0.32795609436722,31065.4152,40.44131431,-81.47450488
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Union County,39159,0.401370043862238,26867.4648,40.29926661,-83.37130174
-Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Van Wert County,39161,0.243039524646793,10637.5248,40.8555416,-84.58607604
+Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Van Wert County,39161,0.243039524646792,10637.5248,40.8555416,-84.58607604
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Vinton County,39163,0.242851405709794,4148.46,39.25106486,-82.48545415
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Warren County,39165,0.391322274771155,100625.628,39.42735056,-84.16728624
 Gubernatorial,Ohio,State,Ohio,Acton (D),Ramaswamy (R),Washington County,39167,0.325438889666854,22387.8558,39.45557887,-81.49547648
