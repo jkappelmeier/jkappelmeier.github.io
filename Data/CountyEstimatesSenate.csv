@@ -166,7 +166,7 @@ Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Sharp County,5135,0.2511
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),St. Francis County,5123,0.607264637004778,4266.3636,35.02180511,-90.74840472
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Stone County,5137,0.256506710616529,4291.8366,35.86003074,-92.15689859
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Union County,5139,0.428506222365705,11073.477,33.17125929,-92.59770646
-Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Van Buren County,5141,0.266547293951119,5429.388,35.58054667,-92.51610324
+Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Van Buren County,5141,0.26654729395112,5429.388,35.58054667,-92.51610324
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Washington County,5143,0.570305932564897,68429.2116,35.97899668,-94.21571712
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),White County,5145,0.259538883993833,21946.809,35.25612459,-91.74548804
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Woodruff County,5147,0.43346818405335,1654.2894,35.18620495,-91.24302721
@@ -397,7 +397,7 @@ Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Wilcox County,13315,0.29191
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Wilkes County,13317,0.466245653590228,3699.4074,33.78219274,-82.74345686
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Wilkinson County,13319,0.469315407210418,3566.22,32.80234579,-83.17090856
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Worth County,13321,0.289769065774354,6761.9898,31.55124636,-83.8509648
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Ada County,16001,0.493364847669202,189137.025,43.45084054,-116.241035
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Ada County,16001,0.493364847669201,189137.025,43.45084054,-116.241035
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Adams County,16003,0.260250836353937,1902.4692,44.88931492,-116.4539483
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bannock County,16005,0.420876767596475,28118.553,42.6686619,-112.2247491
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bear Lake County,16007,0.123182559516446,2368.2612,42.28476453,-111.3294847
@@ -409,23 +409,23 @@ Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bonner County,16017,0.311564761
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Bonneville County,16019,0.297618671006763,39673.1058,43.38792191,-111.6147928
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Boundary County,16021,0.200999949671863,5050.2042,48.766998,-116.4627525
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Butte County,16023,0.160260059928728,1057.4934,43.72266581,-113.1719663
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Camas County,16025,0.253403674847509,509.46,43.46356926,-114.8053772
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Camas County,16025,0.253403674847508,509.46,43.46356926,-114.8053772
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Canyon County,16027,0.309847894022254,71632.9872,43.6251769,-116.7092162
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Caribou County,16029,0.155063309414326,2438.8578,42.77049766,-111.5621762
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Cassia County,16031,0.172935699124527,6781.6404,42.28381567,-113.6013217
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Clark County,16033,0.166059327420854,240.174,44.28409003,-112.3520136
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Clearwater County,16035,0.213053068243944,3147.0072,46.67349275,-115.656021
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Custer County,16037,0.25489549756055,1880.6352,44.24147306,-114.2816427
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Custer County,16037,0.254895497560549,1880.6352,44.24147306,-114.2816427
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Elmore County,16039,0.295978507898795,7570.5756,43.35417471,-115.4691486
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Franklin County,16041,0.110864298479003,5081.4996,42.18121994,-111.8131009
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Fremont County,16043,0.167886582804256,4802.7522,44.22898675,-111.4821032
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Gem County,16045,0.201749990014734,7573.4868,44.0602805,-116.3979457
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Gooding County,16047,0.23043962506131,4203.7728,42.97094353,-114.8116615
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Gooding County,16047,0.230439625061309,4203.7728,42.97094353,-114.8116615
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Idaho County,16049,0.177415523287725,6992.7024,45.84388002,-115.4671964
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Jefferson County,16051,0.139012407606503,11187.7416,43.82027224,-112.3114205
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Jerome County,16053,0.267758701921411,5643.3612,42.68974614,-114.2642648
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Kootenai County,16055,0.276875308746822,68538.3816,47.6744641,-116.7000308
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Latah County,16057,0.519775670338306,14343.4824,46.81645625,-116.7117113
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Latah County,16057,0.519775670338305,14343.4824,46.81645625,-116.7117113
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Lemhi County,16059,0.246105271164785,3459.9612,44.9436279,-113.9335998
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Lewis County,16061,0.203112634921722,1315.8624,46.2366682,-116.4267621
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Lincoln County,16063,0.254224711941077,1352.2524,43.00232711,-114.1383193
@@ -643,7 +643,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Woodbury County,19193,0.441585735574
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Worth County,19195,0.414002509294632,3073.4994,43.37747964,-93.26085274
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Wright County,19197,0.36881396032009,4092.4194,42.73305373,-93.73515113
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Allen County,20001,0.314267194448787,3983.9772,37.88555459,-95.30115478
-Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Anderson County,20003,0.242830960227894,2714.694,38.21396508,-95.29324204
+Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Anderson County,20003,0.242830960227893,2714.694,38.21396508,-95.29324204
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Atchison County,20005,0.36323603358827,5176.1136,39.53158751,-95.31456305
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Barber County,20007,0.160238693649163,1558.9476,37.22893536,-98.68457457
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Barton County,20009,0.248785014435791,7577.8536,38.478934,-98.75632156
@@ -678,14 +678,14 @@ Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Graham County,20065,0.2052
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Grant County,20067,0.226225236522939,1592.4264,37.56227336,-101.3079758
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Gray County,20069,0.177374670955861,1572.7758,37.73851836,-100.4379698
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Greeley County,20071,0.162160712857638,425.763,38.48078179,-101.8060294
-Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Greenwood County,20073,0.232735007276807,2066.952,37.87744513,-96.23264864
+Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Greenwood County,20073,0.232735007276806,2066.952,37.87744513,-96.23264864
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Hamilton County,20075,0.199127449197077,583.6956,37.9991797,-101.7915769
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Harper County,20077,0.217288340739069,1826.0502,37.1917471,-98.07579639
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Harvey County,20079,0.442808714604979,11494.1454,38.04321442,-97.42729333
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Haskell County,20081,0.215939465804628,921.3948,37.56200432,-100.8710456
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Hodgeman County,20083,0.179204249873706,693.5934,38.08784693,-99.89821264
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Jackson County,20085,0.336445734397545,4625.8968,39.41641542,-95.79433878
-Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Jefferson County,20087,0.368355046060158,7077.1272,39.23530705,-95.38360115
+Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Jefferson County,20087,0.368355046060157,7077.1272,39.23530705,-95.38360115
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Jewell County,20089,0.149310726360232,1125.1788,39.7847206,-98.21822331
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Johnson County,20091,0.580435185099491,245776.6044,38.88370015,-94.82256945
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Kearny County,20093,0.194964038003837,927.2172,38.00024973,-101.3203923
@@ -722,7 +722,7 @@ Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rawlins County,20153,0.160
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Reno County,20155,0.369487099974629,19214.6478,37.95303921,-98.08586348
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Republic County,20157,0.190761692528163,1744.5366,39.8279368,-97.65034285
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rice County,20159,0.259078424392968,2836.9644,38.34721983,-98.20053402
-Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Riley County,20161,0.556728227929468,17243.7654,39.29629774,-96.7350396
+Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Riley County,20161,0.556728227929467,17243.7654,39.29629774,-96.7350396
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rooks County,20163,0.163485323027537,1820.9556,39.35022485,-99.3248686
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rush County,20165,0.204479307274487,1149.1962,38.52275276,-99.30863983
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Russell County,20167,0.220188255044005,2358.072,38.91467637,-98.76247878
@@ -740,7 +740,7 @@ Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Stevens County,20189,0.144
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Sumner County,20191,0.288367376914336,7523.2686,37.2369258,-97.476759
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Thomas County,20193,0.198779239504075,2622.9912,39.35107575,-101.0553705
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Trego County,20195,0.183181546572722,1134.6402,38.91467218,-99.87284448
-Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Wabaunsee County,20197,0.294162190852861,2736.528,38.95324678,-96.20480435
+Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Wabaunsee County,20197,0.29416219085286,2736.528,38.95324678,-96.20480435
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Wallace County,20199,0.0803472471014016,537.1164,38.91690628,-101.7637347
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Washington County,20201,0.185604176070099,1935.2202,39.78417855,-97.08751558
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Wichita County,20203,0.162899433658312,616.4466,38.48178252,-101.3471509
@@ -2258,7 +2258,7 @@ Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Harrison,54033
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Jackson,54035,0.255762085164155,9174.6468,38.83443006,-81.674543
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Jefferson,54037,0.476233059123598,20771.412,39.30849565,-77.86242458
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Kanawha,54039,0.446643001402004,53553.7074,38.33643035,-81.52827161
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Lewis,54041,0.239920067572246,5037.8316,38.99603963,-80.50213826
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Lewis,54041,0.239920067572245,5037.8316,38.99603963,-80.50213826
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Lincoln,54043,0.241150039074335,5130.2622,38.17536985,-82.07055835
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Logan,54045,0.210991125796225,8259.0744,37.8319353,-81.9351906
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Marion,54049,0.383336989657032,17515.2348,39.51008055,-80.24323834
@@ -2267,9 +2267,9 @@ Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mason,54053,0.
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),McDowell,54047,0.252671798175119,3890.8188,37.378572,-81.65416089
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mercer,54055,0.256652286225401,16901.6994,37.40564762,-81.11147554
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mineral,54057,0.233091053577364,9264.894,39.41464251,-78.94327353
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mingo,54059,0.175167295134611,6103.3308,37.72729194,-82.13519084
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mingo,54059,0.17516729513461,6103.3308,37.72729194,-82.13519084
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Monongalia,54061,0.524023275274943,29366.0022,39.63024065,-80.04558938
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Monroe,54063,0.236733379804711,4544.3832,37.5604155,-80.55052779
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Monroe,54063,0.23673337980471,4544.3832,37.5604155,-80.55052779
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Morgan,54065,0.260589346472108,6518.1768,39.5606152,-78.25701555
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Nicholas,54067,0.246191252823377,7189.9362,38.2918799,-80.79999513
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Ohio,54069,0.396294884632762,13333.296,40.09682683,-80.61888538
