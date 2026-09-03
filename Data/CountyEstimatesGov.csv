@@ -68,14 +68,14 @@ Gubernatorial,Alabama,State,Alabama,Jones (D),Tuberville (R),Wilcox County,1131,
 Gubernatorial,Alabama,State,Alabama,Jones (D),Tuberville (R),Winston County,1133,0.118654452593645,8060.385,34.14959585,-87.37341176
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Aleutians East Borough,2013,0.332748333453894,300.5814,55.36032516,-161.9642606
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Aleutians West Borough,2016,0.5372981993776,686.3154,52.79430361,-110.2449123
-Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Anchorage Municipality,2020,0.541885287403359,92944.4268,61.15068906,-149.1118883
+Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Anchorage Municipality,2020,0.541885287403358,92944.4268,61.15068906,-149.1118883
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Bethel Census Area,2050,0.607064468478707,2767.8234,60.91342739,-159.8255997
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Bristol Bay Borough,2060,0.386038663317142,286.0254,58.74220214,-156.7026695
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Chugach Census Area,2063,0.44204572553253,2221.9734,60.4885,-146.2031
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Copper River Census Area,2066,0.293062897893602,985.4412,62.03,-143.92
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Denali Borough,2068,0.424472068692724,901.0164,63.67343339,-150.0094238
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Dillingham Census Area,2070,0.502221382104153,1042.9374,59.79832305,-158.2141634
-Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Fairbanks North Star Borough,2090,0.440560885005249,30490.4532,64.8083752,-146.5623662
+Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Fairbanks North Star Borough,2090,0.440560885005248,30490.4532,64.8083752,-146.5623662
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Haines Borough,2100,0.568764548259097,1236.5322,59.11793896,-135.5024208
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Hoonah-Angoon Census Area,2105,0.647474559178485,1036.3872,58.28575804,-135.6386611
 Gubernatorial,Alaska,State,Alaska,Kreiss-Tomkins (D),TBD (R),Juneau City and Borough,2110,0.665844419185163,11824.5666,58.45091866,-134.1764399
@@ -552,9 +552,9 @@ Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Bannock County,16005,0.4
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Bear Lake County,16007,0.141445772484567,2368.2612,42.28476453,-111.3294847
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Benewah County,16009,0.239347571790426,3660.1062,47.21772961,-116.6586207
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Bingham County,16011,0.211743757555337,14604.0348,43.21643996,-112.3976535
-Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Blaine County,16013,0.697281873170886,9246.699,43.41242641,-113.980642
+Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Blaine County,16013,0.697281873170887,9246.699,43.41242641,-113.980642
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Boise County,16015,0.280966116267105,3487.6176,43.98909247,-115.730321
-Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Bonner County,16017,0.309205643108149,21107.6556,48.2996896,-116.6009928
+Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Bonner County,16017,0.30920564310815,21107.6556,48.2996896,-116.6009928
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Bonneville County,16019,0.286051771889558,39673.1058,43.38792191,-111.6147928
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Boundary County,16021,0.19793663272117,5050.2042,48.766998,-116.4627525
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Butte County,16023,0.163960097334636,1057.4934,43.72266581,-113.1719663
@@ -579,7 +579,7 @@ Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Lemhi County,16059,0.238
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Lewis County,16061,0.183616064042199,1315.8624,46.2366682,-116.4267621
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Lincoln County,16063,0.242999589785268,1352.2524,43.00232711,-114.1383193
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Madison County,16065,0.177301426112043,12148.4376,43.78411982,-111.6592182
-Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Minidoka County,16067,0.188523398164378,5657.9172,42.85441649,-113.6374976
+Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Minidoka County,16067,0.188523398164379,5657.9172,42.85441649,-113.6374976
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Nez Perce County,16069,0.339223787395631,14290.353,46.32729495,-116.7498104
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Oneida County,16071,0.113557324888768,1726.3416,42.19490877,-112.5395749
 Gubernatorial,Idaho,State,Idaho,Pickens (D),Little* (R),Owyhee County,16073,0.207443986567682,3534.9246,42.58161924,-116.1698327
@@ -706,11 +706,11 @@ Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Buena Vista County,19021,0.41278
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Butler County,19023,0.344326807830012,5769.9984,42.73172833,-92.79015971
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Calhoun County,19025,0.336603402384054,3665.2008,42.38521079,-94.64046046
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Carroll County,19027,0.363729893538273,7981.7826,42.03617207,-94.86032705
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cass County,19029,0.370152790004161,5155.7352,41.33152905,-94.92806328
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cass County,19029,0.37015279000416,5155.7352,41.33152905,-94.92806328
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cedar County,19031,0.474643637342708,7616.427,41.77233777,-91.13246684
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cerro Gordo County,19033,0.527618994704009,16435.1796,43.08177563,-93.2612239
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cherokee County,19035,0.341651368512524,4373.3502,42.73538914,-95.62389402
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Chickasaw County,19037,0.391028274780807,4478.1534,43.06009652,-92.31766909
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cherokee County,19035,0.341651368512523,4373.3502,42.73538914,-95.62389402
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Chickasaw County,19037,0.391028274780806,4478.1534,43.06009652,-92.31766909
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Clarke County,19039,0.3633624472929,3205.959,41.02892087,-93.78516215
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Clay County,19041,0.356729400515502,6123.7092,43.08247182,-95.15096481
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Clayton County,19043,0.405941872273879,6748.1616,42.84452651,-91.34106377
@@ -719,10 +719,10 @@ Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Crawford County,19047,0.35564883
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Dallas County,19049,0.562682993715303,44960.5728,41.68489264,-94.03970701
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Davis County,19051,0.291248167671351,2842.059,40.74775139,-92.41006563
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Decatur County,19053,0.333384159974774,2669.5704,40.73762219,-93.78630885
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Delaware County,19055,0.37659667926455,7250.3436,42.4713865,-91.36741055
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Delaware County,19055,0.376596679264549,7250.3436,42.4713865,-91.36741055
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Des Moines County,19057,0.510159581072887,13630.9662,40.92294179,-91.18142629
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Dickinson County,19059,0.375299137936898,8058.2016,43.37782493,-95.15099401
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Dubuque County,19061,0.543356912342071,37793.9262,42.46858503,-90.88262627
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Dubuque County,19061,0.54335691234207,37793.9262,42.46858503,-90.88262627
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Emmet County,19063,0.352506995733577,3447.5886,43.37782281,-94.67861391
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Fayette County,19065,0.427517667023176,7029.8202,42.8627134,-91.84419994
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Floyd County,19067,0.45379233034523,5477.4228,43.0600053,-92.78940097
@@ -763,16 +763,16 @@ Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Monroe County,19135,0.3138152195
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Montgomery County,19137,0.379983163334703,3634.6332,41.03018714,-95.15642896
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Muscatine County,19139,0.510580578715252,14093.1192,41.48388139,-91.11279575
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),O'Brien County,19141,0.252221295112486,5404.6428,43.0836202,-95.62474725
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Osceola County,19143,0.230630430450415,2312.9484,43.37868127,-95.62422758
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Osceola County,19143,0.230630430450414,2312.9484,43.37868127,-95.62422758
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Page County,19145,0.361577912937953,5249.6214,40.73917437,-95.15010031
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Palo Alto County,19147,0.346441537784912,3576.4092,43.08193849,-94.67824621
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Plymouth County,19149,0.292029080219267,10018.167,42.73735704,-96.21424951
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Pocahontas County,19151,0.292554999265174,2564.0394,42.73420133,-94.67862564
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Pocahontas County,19151,0.292554999265173,2564.0394,42.73420133,-94.67862564
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Polk County,19153,0.638737688146141,183634.857,41.68547042,-93.57365396
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Pottawattamie County,19155,0.484460698768079,31879.8234,41.33661346,-95.54290277
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Poweshiek County,19157,0.500166605841305,7150.635,41.68657418,-92.53097077
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Ringgold County,19159,0.309665153197162,1930.8534,40.7351498,-94.24367465
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Sac County,19161,0.308152820687964,3922.1142,42.38624071,-95.10547892
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Sac County,19161,0.308152820687963,3922.1142,42.38624071,-95.10547892
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Scott County,19163,0.566906636636649,64377.549,41.63706131,-90.62318822
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Shelby County,19165,0.35805267583886,4665.9258,41.6850066,-95.31015553
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Sioux County,19167,0.188148945042171,13594.5762,43.08294203,-96.17809424
@@ -1217,7 +1217,7 @@ Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Carson City,32510,0.444
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Churchill County,32001,0.245688890325373,9564.0198,39.58048345,-118.3362581
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Clark County,32003,0.530288024783214,737435.3442,36.21511541,-115.0146087
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Douglas County,32005,0.330410924762631,25320.162,38.91213378,-119.6162086
-Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Elko County,32007,0.203652447891929,15999.9552,41.14601583,-115.3578839
+Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Elko County,32007,0.203652447891928,15999.9552,41.14601583,-115.3578839
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Esmeralda County,32009,0.163844288948145,326.7822,37.78456446,-117.632191
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Eureka County,32011,0.0913995968736716,737.9892,39.98327398,-116.2694709
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Humboldt County,32013,0.217778776850079,5714.6856,41.4063802,-118.1118195
@@ -1261,7 +1261,7 @@ Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),McKinley County,3
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Mora County,35033,0.614006170719098,1782.3822,36.00972846,-104.944561
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Otero County,35035,0.387942890794088,17248.1322,32.61323163,-105.7417441
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Quay County,35037,0.314281172130266,2638.275,35.10459783,-103.5493944
-Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Rio Arriba County,35039,0.625406731702644,11383.5198,36.50984697,-106.6929637
+Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Rio Arriba County,35039,0.625406731702643,11383.5198,36.50984697,-106.6929637
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Roosevelt County,35041,0.302426266241142,4735.7946,34.02127232,-103.4801987
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),San Juan County,35045,0.3626760378532,37647.6384,36.50824605,-108.3206012
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),San Miguel County,35047,0.667369774743152,7912.6416,35.48004639,-104.8156292
@@ -1439,7 +1439,7 @@ Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Cimarron County,4002
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Cleveland County,40027,0.480978704233279,84902.9646,35.20346872,-97.3267069
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Coal County,40029,0.167887115155922,1819.5,34.58840127,-96.29798747
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Comanche County,40031,0.436964083850171,24487.5588,34.6620099,-98.47164344
-Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Cotton County,40033,0.192901437248794,1789.6602,34.2900592,-98.37225719
+Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Cotton County,40033,0.192901437248793,1789.6602,34.2900592,-98.37225719
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Craig County,40035,0.243711097332755,4331.8656,36.76178038,-95.20866115
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Creek County,40037,0.257837269317132,22373.2998,35.90233119,-96.37089402
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Custer County,40039,0.271851553509643,7257.6216,35.63856198,-99.0014123
@@ -1455,10 +1455,10 @@ Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Harmon County,40057,
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Harper County,40059,0.126090424823081,1041.4818,36.78871253,-99.66696611
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Haskell County,40061,0.178797846620046,3547.2972,35.22501645,-95.11606392
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Hughes County,40063,0.218581016165073,3329.685,35.04854478,-96.25062134
-Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Jackson County,40065,0.242838947826385,5747.4366,34.58800041,-99.41545292
+Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Jackson County,40065,0.242838947826384,5747.4366,34.58800041,-99.41545292
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Jefferson County,40067,0.165987432620316,1702.3242,34.11052408,-97.83608709
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Johnston County,40069,0.19935691130857,3017.4588,34.31652004,-96.66080537
-Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Kay County,40071,0.294565344003899,12095.3082,36.81795089,-97.1438723
+Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Kay County,40071,0.294565344003898,12095.3082,36.81795089,-97.1438723
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Kingfisher County,40073,0.168383026727614,4852.9704,35.94535722,-97.94153042
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Kiowa County,40075,0.24402423570472,2348.6106,34.91625162,-98.98054865
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Latimer County,40077,0.203652998195229,2938.1286,34.87639948,-95.25098995
@@ -1466,7 +1466,7 @@ Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),LeFlore County,40079
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Lincoln County,40081,0.214785529329338,11067.6546,35.7027284,-96.88123961
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Logan County,40083,0.295290569317068,17211.7422,35.91913897,-97.44308101
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Love County,40085,0.198323638893995,3056.0322,33.95005271,-97.24422829
-Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),McClain County,40093,0.230025426621414,15310.0008,36.31174656,-98.53456924
+Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),McClain County,40093,0.230025426621413,15310.0008,36.31174656,-98.53456924
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),McCurtain County,40095,0.183904651619014,8137.5318,34.02458841,-96.76917298
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),McIntosh County,40097,0.276518150681053,6058.2072,36.30176119,-95.23132466
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Major County,40087,0.117775160248432,2484.7092,35.00888538,-97.44298086
@@ -1487,7 +1487,7 @@ Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Pittsburg County,401
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Pontotoc County,40123,0.309197915324402,10816.5636,34.72795889,-96.68450952
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Pottawatomie County,40125,0.304505198808461,20510.1318,35.20684527,-96.94828061
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Pushmataha County,40127,0.161689879005166,3377.7198,34.41635817,-95.37595261
-Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Roger Mills County,40129,0.115248112940989,1243.0824,35.68852706,-99.69538847
+Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Roger Mills County,40129,0.115248112940988,1243.0824,35.68852706,-99.69538847
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Rogers County,40131,0.262405791168375,33542.8464,36.37196654,-95.60476511
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Seminole County,40133,0.292371927950754,5751.0756,35.1672074,-96.61546183
 Gubernatorial,Oklahoma,State,Oklahoma,Munson (D),Mazzei (R),Sequoyah County,40135,0.226783815749073,11206.6644,35.49549888,-94.75507825
@@ -1641,7 +1641,7 @@ Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Laurens
 Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Lee County,45061,0.624217633809139,5518.9074,34.16360573,-80.25465278
 Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Lexington County,45063,0.358833741964173,105370.884,33.90217281,-81.27229853
 Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Marion County,45067,0.584354724195218,9622.9716,34.08038363,-79.36252998
-Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Marlboro County,45069,0.543547328965839,7302.0174,34.60180925,-79.67845191
+Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Marlboro County,45069,0.543547328965838,7302.0174,34.60180925,-79.67845191
 Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),McCormick County,45065,0.444453782135116,4423.5684,33.89941841,-82.30961363
 Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Newberry County,45071,0.35457448459894,13033.4424,34.28974754,-81.59990705
 Gubernatorial,South Carolina,State,South Carolina,Johnson (D),Wilson (R),Oconee County,45073,0.262944523528217,30392.2002,34.75329772,-83.06576373
@@ -1854,10 +1854,10 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Chambers County,48071,0
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Cherokee County,48073,0.190219018379462,14801.2686,31.83752856,-95.16565693
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Childress County,48075,0.115459433953632,1640.4612,34.52929885,-100.2077744
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Clay County,48077,0.104667063810162,4273.6416,33.78558981,-98.20837415
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Cochran County,48079,0.181157658867528,642.6474,33.60426094,-102.8285179
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Cochran County,48079,0.181157658867529,642.6474,33.60426094,-102.8285179
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Coke County,48081,0.100680987476281,1311.4956,31.88933528,-100.5295971
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Coleman County,48083,0.102861041712778,3013.092,31.77319682,-99.45287706
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Collin County,48085,0.481585402615975,365100.1422,33.18822716,-96.57266803
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Collin County,48085,0.481585402615976,365100.1422,33.18822716,-96.57266803
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Collingsworth County,48087,0.10478276231268,874.0878,34.96489439,-100.2700105
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Colorado County,48089,0.218330418300498,7228.5096,29.62080587,-96.52613796
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Comal County,48091,0.291732135498788,74552.9208,29.80840142,-98.2785174
@@ -1866,7 +1866,7 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Concho County,48095,0.1
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Cooke County,48097,0.1755708508804,14763.423,33.63940669,-97.21276751
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Coryell County,48099,0.311603809528596,17210.2866,31.39078397,-97.79936155
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Cottle County,48101,0.13208259361576,475.9812,34.07767347,-100.2787087
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Crane County,48103,0.150105966116494,1005.0918,31.4287137,-102.5151699
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Crane County,48103,0.150105966116495,1005.0918,31.4287137,-102.5151699
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Crockett County,48105,0.250015905666517,1026.198,30.72293884,-101.4121116
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Crosby County,48107,0.242240999954373,1358.8026,33.61431553,-101.3000364
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Culberson County,48109,0.476215224255024,560.406,31.44657839,-104.5179143
@@ -1888,7 +1888,7 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Ellis County,48139,0.35
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),El Paso County,48141,0.654505502624845,180698.184,31.76884214,-106.2352418
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Erath County,48143,0.173541587442415,13260.516,32.23614282,-98.21770884
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Falls County,48145,0.28707463516263,4536.3774,31.25354356,-96.93634455
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Fannin County,48147,0.178943286125805,11830.389,33.59387579,-96.10669521
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Fannin County,48147,0.178943286125806,11830.389,33.59387579,-96.10669521
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Fayette County,48149,0.196995561450921,9617.1492,29.87663549,-96.91986981
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Fisher County,48151,0.182180917671408,1322.4126,32.74281316,-100.4019302
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Floyd County,48153,0.169188445860388,1508.7294,34.07227468,-101.3031546
@@ -1896,7 +1896,7 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Foard County,48155,0.16
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Fort Bend County,48157,0.553132296551074,256842.0756,29.52747353,-95.77093789
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Franklin County,48159,0.157191820150297,3847.1508,33.17532732,-95.21903806
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Freestone County,48161,0.175271894130674,6549.4722,31.7044343,-96.14897872
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Frio County,48163,0.484487579508095,3572.0424,28.86751206,-99.10804207
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Frio County,48163,0.484487579508096,3572.0424,28.86751206,-99.10804207
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Gaines County,48165,0.0899695667020406,4641.9084,32.74057746,-102.6353739
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Galveston County,48167,0.399076357279104,114284.2506,29.3895025,-94.95985195
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Garza County,48169,0.136273605792816,1155.0186,33.17969345,-101.2984114
@@ -1939,16 +1939,16 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Jasper County,48241,0.1
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Jeff Davis County,48243,0.409577590330998,836.2422,30.71489092,-104.1401726
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Jefferson County,48245,0.474585316830052,62250.1896,29.88337578,-94.16307113
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Jim Hogg County,48247,0.59672260632852,1150.6518,27.04354651,-98.69730012
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Jim Wells County,48249,0.483814449741048,9616.4214,27.73123346,-98.08997801
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Jim Wells County,48249,0.483814449741049,9616.4214,27.73123346,-98.08997801
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Johnson County,48251,0.254015912224365,58223.2722,32.3788142,-97.36618817
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Jones County,48253,0.138463622031492,5018.181,32.7400927,-99.87871324
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Karnes County,48255,0.229841671620968,3676.8456,28.90564205,-97.85944813
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Karnes County,48255,0.229841671620969,3676.8456,28.90564205,-97.85944813
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kaufman County,48257,0.372898342596201,50064.6342,32.59905385,-96.2877972
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kendall County,48259,0.232296227547516,21122.9394,29.94473189,-98.7114161
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kenedy County,48261,0.3012330127246,113.5368,26.92975017,-97.69810806
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kent County,48263,0.117365470964333,320.232,33.18104889,-100.7780898
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kerr County,48265,0.239823563327393,20327.454,30.06116361,-99.34928454
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kimble County,48267,0.117938450286447,1737.2586,30.48678918,-99.74856473
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kimble County,48267,0.117938450286448,1737.2586,30.48678918,-99.74856473
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),King County,48269,0.0395349363520999,98.253,33.61643847,-100.2558057
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kinney County,48271,0.255405327186627,1025.4702,29.35014052,-100.4179055
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Kleberg County,48273,0.485958058220789,7241.61,27.43132443,-97.72430027
@@ -1962,7 +1962,7 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Lee County,48287,0.2051
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Leon County,48289,0.133528468350396,6561.117,31.29628413,-95.9957025
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Liberty County,48291,0.204349395266508,22702.2654,30.15161146,-94.81225285
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Limestone County,48293,0.229804862264967,6551.6556,31.5454767,-96.58095444
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Lipscomb County,48295,0.0921703397737809,908.2944,36.27778375,-100.2732972
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Lipscomb County,48295,0.092170339773781,908.2944,36.27778375,-100.2732972
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Live Oak County,48297,0.159633671375337,3688.4904,28.35137771,-98.12498408
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Llano County,48299,0.203859222391754,9836.217,30.70581617,-98.68429358
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Loving County,48301,0.0996751209903638,69.8688,31.8491553,-103.5798367
@@ -1994,7 +1994,7 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Newton County,48351,0.1
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Nolan County,48353,0.204606140523562,3688.4904,32.30390399,-100.4060382
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Nueces County,48355,0.488242696294756,87662.7822,27.72543779,-97.61091925
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Ochiltree County,48357,0.083174135378278,2177.5776,36.27830534,-100.8158413
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Oldham County,48359,0.0791076091663937,705.2382,35.40425708,-102.6027421
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Oldham County,48359,0.0791076091663938,705.2382,35.40425708,-102.6027421
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Orange County,48361,0.173961492035704,26299.7808,30.12099964,-93.89437408
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Palo Pinto County,48363,0.171079646002929,9633.1608,32.75310985,-98.31319001
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Panola County,48365,0.173053318625037,8300.559,32.16239924,-94.30558387
@@ -2010,7 +2010,7 @@ Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Reagan County,48383,0.1
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Real County,48385,0.16640750045229,1411.932,29.8324893,-99.82222259
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Red River County,48387,0.205484183460863,4210.323,33.62099176,-95.04966416
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Reeves County,48389,0.385353613393944,2481.798,31.32283311,-103.6930786
-Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Refugio County,48391,0.315327740462,2221.9734,28.32554745,-97.16001089
+Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Refugio County,48391,0.315327740462001,2221.9734,28.32554745,-97.16001089
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Roberts County,48393,0.0261973303110419,412.6626,35.83809685,-100.813175
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Robertson County,48395,0.249915290116893,5897.3634,31.02665136,-96.51322902
 Gubernatorial,Texas,State,Texas,Hinojosa (D),Abbott* (R),Rockwall County,48397,0.318335174335059,44857.2252,32.89785884,-96.40769484
