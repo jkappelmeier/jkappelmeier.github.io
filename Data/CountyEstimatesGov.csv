@@ -121,7 +121,7 @@ Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Calhoun County,5013,
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Carroll County,5015,0.444409332960883,8211.0396,36.34107901,-93.53832319
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Chicot County,5017,0.629344367231744,2513.8212,33.2673446,-91.29365079
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Clark County,5019,0.506116716239697,5447.583,34.05108285,-93.17667235
-Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Clay County,5021,0.263778797092453,3548.025,36.36822542,-90.41718919
+Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Clay County,5021,0.263778797092452,3548.025,36.36822542,-90.41718919
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Cleburne County,5023,0.223094438419981,9123.7008,35.53853919,-92.02725586
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Cleveland County,5025,0.226557018042223,2422.1184,33.89823609,-92.18489948
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Columbia County,5027,0.418674656623202,5700.8574,33.2142428,-93.22737493
@@ -129,7 +129,7 @@ Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Conway County,5029,0
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Craighead County,5031,0.411280126176899,26464.2636,35.8310138,-90.63270647
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Crawford County,5033,0.285827417840009,17007.2304,35.588841,-94.24296995
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Crittenden County,5035,0.62149173981822,10473.042,35.20762172,-90.30924635
-Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Cross County,5037,0.351282697491034,4654.281,35.29547453,-90.77181286
+Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Cross County,5037,0.351282697491033,4654.281,35.29547453,-90.77181286
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Dallas County,5039,0.457705325908622,1659.384,33.96953994,-92.65420664
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Desha County,5041,0.587192337816765,2505.8154,33.83346926,-91.2539449
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Drew County,5043,0.433274519574294,4550.9334,33.58957425,-91.71972855
@@ -175,7 +175,7 @@ Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Randolph County,5121
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Saline County,5125,0.39583315386096,41007.891,34.64661779,-92.67655329
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Scott County,5127,0.186124086853847,2429.3964,34.86103868,-94.06315729
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Searcy County,5129,0.195074702084384,2777.2848,35.91115674,-92.69933958
-Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Sebastian County,5131,0.410586810769711,32293.2138,35.19943145,-94.27397371
+Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Sebastian County,5131,0.41058681076971,32293.2138,35.19943145,-94.27397371
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Sevier County,5133,0.263734064729786,3372.6252,33.9971421,-94.24072249
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Sharp County,5135,0.256539312511456,5308.5732,36.16124847,-91.47928351
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),St. Francis County,5123,0.614073450625575,4266.3636,35.02180511,-90.74840472
@@ -184,8 +184,8 @@ Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Union County,5139,0.
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Van Buren County,5141,0.272183475681192,5429.388,35.58054667,-92.51610324
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Washington County,5143,0.577309497782368,68429.2116,35.97899668,-94.21571712
 Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),White County,5145,0.265080431271835,21946.809,35.25612459,-91.74548804
-Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Woodruff County,5147,0.44051406335513,1654.2894,35.18620495,-91.24302721
-Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Yell County,5149,0.26975575314677,4628.808,35.00270728,-93.41105962
+Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Woodruff County,5147,0.440514063355129,1654.2894,35.18620495,-91.24302721
+Gubernatorial,Arkansas,State,Arkansas,Love (D),Sanders* (R),Yell County,5149,0.269755753146769,4628.808,35.00270728,-93.41105962
 Gubernatorial,California,State,California,Becerra (D),Hilton (R),Alameda County,6001,0.783577520598215,466039.452,37.64642367,-121.888612
 Gubernatorial,California,State,California,Becerra (D),Hilton (R),Alpine County,6003,0.667928173479686,525.4716,38.59721624,-119.8206263
 Gubernatorial,California,State,California,Becerra (D),Hilton (R),Amador County,6005,0.361649925517011,15866.7678,38.44638702,-120.651296
@@ -706,10 +706,10 @@ Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Buena Vista County,19021,0.40882
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Butler County,19023,0.340645040799597,5769.9984,42.73172833,-92.79015971
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Calhoun County,19025,0.332962281607319,3665.2008,42.38521079,-94.64046046
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Carroll County,19027,0.359954554157143,7981.7826,42.03617207,-94.86032705
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cass County,19029,0.366349169087979,5155.7352,41.33152905,-94.92806328
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cass County,19029,0.366349169087978,5155.7352,41.33152905,-94.92806328
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cedar County,19031,0.47056848693517,7616.427,41.77233777,-91.13246684
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cerro Gordo County,19033,0.523542273736774,16435.1796,43.08177563,-93.2612239
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cherokee County,19035,0.337983462538189,4373.3502,42.73538914,-95.62389402
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Cherokee County,19035,0.337983462538188,4373.3502,42.73538914,-95.62389402
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Chickasaw County,19037,0.387141993623092,4478.1534,43.06009652,-92.31766909
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Clarke County,19039,0.359588766387681,3205.959,41.02892087,-93.78516215
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Clay County,19041,0.352986411983782,6123.7092,43.08247182,-95.15096481
@@ -736,10 +736,10 @@ Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Hancock County,19081,0.328656240
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Hardin County,19083,0.380633093654703,6072.0354,42.38393029,-93.24040527
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Harrison County,19085,0.359860440388747,5684.8458,41.68336174,-95.81703481
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Henry County,19087,0.393308102601204,6866.0652,40.98760854,-91.54434433
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Howard County,19089,0.416827072674599,3475.9728,43.35677003,-92.31710205
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Howard County,19089,0.416827072674598,3475.9728,43.35677003,-92.31710205
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Humboldt County,19091,0.313632038460895,3643.3668,42.7764426,-94.20722537
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Ida County,19093,0.293516176166338,2617.8966,42.38696136,-95.51355387
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Iowa County,19095,0.43849988935933,6890.8104,41.68621637,-92.06369553
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Iowa County,19095,0.438499889359329,6890.8104,41.68621637,-92.06369553
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Jackson County,19097,0.412727839776624,7744.5198,42.17178419,-90.57403934
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Jasper County,19099,0.439343539770389,14441.0076,41.6860352,-93.05376026
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Jefferson County,19101,0.548094376337699,5925.0198,41.03165465,-91.94862204
@@ -754,7 +754,7 @@ Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Lucas County,19117,0.32396145937
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Lyon County,19119,0.19465497746742,5037.8316,43.38111289,-96.2102221
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Madison County,19121,0.379183865437177,7184.8416,41.33081904,-94.01554631
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Mahaska County,19123,0.304415215399092,7848.5952,41.33521502,-92.64083907
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Marion County,19125,0.383374744193271,13986.1326,41.33445101,-93.09934783
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Marion County,19125,0.38337474419327,13986.1326,41.33445101,-93.09934783
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Marshall County,19127,0.503240323971897,12335.4822,42.03586837,-92.9990819
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Mills County,19129,0.376406217566626,5914.8306,41.03348848,-95.62136125
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Mitchell County,19131,0.420241733809602,4133.1762,43.35639379,-92.78887576
@@ -779,13 +779,13 @@ Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Sioux County,19167,0.18566425926
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Story County,19169,0.632602577201209,35247.354,42.03621213,-93.46499005
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Tama County,19171,0.443042383927812,6149.1822,42.07991767,-92.53266945
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Taylor County,19173,0.280499564787021,2217.6066,40.73748072,-94.69599224
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Union County,19175,0.392418392956283,4307.1204,41.0277278,-94.24234847
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Union County,19175,0.392418392956282,4307.1204,41.0277278,-94.24234847
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Van Buren County,19177,0.280239200071506,2593.1514,40.75308722,-91.95043301
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Wapello County,19179,0.41856692972507,10462.125,41.03064984,-92.40954728
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Warren County,19181,0.47623077679659,23433.7044,41.33431116,-93.56121354
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Washington County,19183,0.456895030526008,8308.5648,41.33548743,-91.71758189
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Wayne County,19185,0.269757522920925,2233.6182,40.73965649,-93.32744042
-Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Webster County,19187,0.420163436393352,12002.1498,42.42794934,-94.18176099
+Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Webster County,19187,0.420163436393351,12002.1498,42.42794934,-94.18176099
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Winnebago County,19189,0.422552601579254,4035.651,43.3775066,-93.73407175
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Winneshiek County,19191,0.535727658042741,8550.1944,43.29085957,-91.84475831
 Gubernatorial,Iowa,State,Iowa,Sand (D),Lahn (R),Woodbury County,19193,0.464238195055841,30650.5692,42.38966116,-96.04432637
@@ -931,7 +931,7 @@ Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Montgomery County,24031
 Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Prince George's County,24033,0.910249321953085,285331.0788,38.8299677,-76.84739072
 Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Queen Anne's County,24035,0.40377072622732,22906.0494,39.06631908,-76.0237387
 Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),St. Mary's County,24039,0.430146150650293,41566.8414,38.11381821,-75.75887041
-Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Somerset County,24037,0.403661133515793,7175.3802,38.3016848,-76.60613989
+Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Somerset County,24037,0.403661133515792,7175.3802,38.3016848,-76.60613989
 Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Talbot County,24041,0.538656401192324,16189.1832,38.77026257,-76.10341962
 Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Washington County,24043,0.406695008167093,51902.3292,39.60413752,-77.81329014
 Gubernatorial,Maryland,State,Maryland,Moore* (D),Cox (R),Wicomico County,24045,0.489632571016641,33171.6684,38.37287229,-75.62218411
@@ -1230,16 +1230,16 @@ Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Pershing County,32027,0
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Storey County,32029,0.292063248011814,2198.6838,39.44660847,-119.5289865
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),Washoe County,32031,0.512392317164432,187418.6892,40.66566815,-119.6643222
 Gubernatorial,Nevada,State,Nevada,Ford (D),Lombardo* (R),White Pine County,32033,0.202544478974834,3090.9666,39.44238145,-114.9015438
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Belknap County,33001,0.376021188279124,29282.3052,43.51832231,-71.4226598
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Carroll County,33003,0.431901341884852,24925.6944,43.87378859,-71.20268868
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Cheshire County,33005,0.503964837961894,32505.0036,42.91955278,-72.25111371
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Coos County,33007,0.383780194173771,12446.1078,44.68948989,-71.30563958
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Grafton County,33009,0.546330870677166,39957.6756,43.94073661,-71.82064764
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Hillsborough County,33011,0.448859445332988,168000.2574,42.9153307,-71.71602867
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Merrimack County,33013,0.468978021349949,66626.451,43.2975734,-71.68059329
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Rockingham County,33015,0.424261953230272,145669.17,42.98749699,-71.12556353
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Strafford County,33017,0.509008717314107,54974.373,43.29717653,-71.02927319
-Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte* (R),Sullivan County,33019,0.447210931671895,18050.1678,43.36150987,-72.22243767
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Belknap County,33001,0.376021188279124,29282.3052,43.51832231,-71.4226598
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Carroll County,33003,0.431901341884852,24925.6944,43.87378859,-71.20268868
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Cheshire County,33005,0.503964837961894,32505.0036,42.91955278,-72.25111371
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Coos County,33007,0.383780194173771,12446.1078,44.68948989,-71.30563958
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Grafton County,33009,0.546330870677166,39957.6756,43.94073661,-71.82064764
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Hillsborough County,33011,0.448859445332988,168000.2574,42.9153307,-71.71602867
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Merrimack County,33013,0.468978021349949,66626.451,43.2975734,-71.68059329
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Rockingham County,33015,0.424261953230272,145669.17,42.98749699,-71.12556353
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Strafford County,33017,0.509008717314107,54974.373,43.29717653,-71.02927319
+Gubernatorial,New Hampshire,State,New Hampshire,Warmington (D),Ayotte*? (R),Sullivan County,33019,0.447210931671895,18050.1678,43.36150987,-72.22243767
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Bernalillo County,35001,0.634820162731787,220435.3362,35.05121905,-106.6705759
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Catron County,35003,0.267641415055396,1690.6794,33.91502948,-108.4054839
 Gubernatorial,New Mexico,State,New Mexico,Haaland (D),Hull (R),Chaves County,35005,0.295345379893625,15891.513,33.36323485,-104.4668372
