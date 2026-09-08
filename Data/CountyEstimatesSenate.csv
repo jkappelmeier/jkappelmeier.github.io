@@ -423,15 +423,15 @@ Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Gem County,16045,0.200808378094
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Gooding County,16047,0.229402417035426,4203.7728,42.97094353,-114.8116615
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Idaho County,16049,0.176562443868417,6992.7024,45.84388002,-115.4671964
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Jefferson County,16051,0.138313555999104,11187.7416,43.82027224,-112.3114205
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Jerome County,16053,0.266611664401021,5643.3612,42.68974614,-114.2642648
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Kootenai County,16055,0.275703912776018,68538.3816,47.6744641,-116.7000308
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Jerome County,16053,0.26661166440102,5643.3612,42.68974614,-114.2642648
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Kootenai County,16055,0.275703912776017,68538.3816,47.6744641,-116.7000308
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Latah County,16057,0.518313381471528,14343.4824,46.81645625,-116.7117113
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Lemhi County,16059,0.245021274847051,3459.9612,44.9436279,-113.9335998
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Lewis County,16061,0.202166061078239,1315.8624,46.2366682,-116.4267621
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Lincoln County,16063,0.253115677242882,1352.2524,43.00232711,-114.1383193
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Madison County,16065,0.175849808194581,12148.4376,43.78411982,-111.6592182
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Minidoka County,16067,0.211766546170968,5657.9172,42.85441649,-113.6374976
-Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Nez Perce County,16069,0.340558898726962,14290.353,46.32729495,-116.7498104
+Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Nez Perce County,16069,0.340558898726961,14290.353,46.32729495,-116.7498104
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Oneida County,16071,0.121703764008058,1726.3416,42.19490877,-112.5395749
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Owyhee County,16073,0.193176949283932,3534.9246,42.58161924,-116.1698327
 Senate,Idaho,State,Idaho,Achilles (I),Risch* (R),Payette County,16075,0.214561275960598,8385.7116,44.00714137,-116.7604309
@@ -573,7 +573,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Decatur County,19053,0.3043243137385
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Delaware County,19055,0.345723650798603,7250.3436,42.4713865,-91.36741055
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Des Moines County,19057,0.476710055510133,13630.9662,40.92294179,-91.18142629
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Dickinson County,19059,0.344473703170707,8058.2016,43.37782493,-95.15099401
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Dubuque County,19061,0.509996953844588,37793.9262,42.46858503,-90.88262627
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Dubuque County,19061,0.509996953844587,37793.9262,42.46858503,-90.88262627
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Emmet County,19063,0.322586908804173,3447.5886,43.37782281,-94.67861391
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Fayette County,19065,0.395115973647634,7029.8202,42.8627134,-91.84419994
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Floyd County,19067,0.420863233935437,5477.4228,43.0600053,-92.78940097
@@ -627,7 +627,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Sac County,19161,0.280367298496186,3
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Scott County,19163,0.533790949830982,64377.549,41.63706131,-90.62318822
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Shelby County,19165,0.327900255448667,4665.9258,41.6850066,-95.31015553
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Sioux County,19167,0.168547838943841,13594.5762,43.08294203,-96.17809424
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Story County,19169,0.604888666645272,35247.354,42.03621213,-93.46499005
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Story County,19169,0.604888666645271,35247.354,42.03621213,-93.46499005
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Tama County,19171,0.414269006171452,6149.1822,42.07991767,-92.53266945
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Taylor County,19173,0.257403803660026,2217.6066,40.73748072,-94.69599224
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Union County,19175,0.364779461190499,4307.1204,41.0277278,-94.24234847
@@ -1133,13 +1133,13 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wright County,27171,0.3
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Yellow Medicine County,27173,0.312400043628349,3847.1508,44.71626059,-95.86888348
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Adams County,28001,0.612285932951829,8605.5072,31.48172857,-91.35355624
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Alcorn County,28003,0.207326071972351,10906.083,34.88083218,-88.57997736
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Amite County,28005,0.384159720980877,4898.094,31.17425244,-90.80453378
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Amite County,28005,0.384159720980878,4898.094,31.17425244,-90.80453378
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Attala County,28007,0.435673775933631,5569.8534,33.08676427,-89.58086337
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Benton County,28009,0.414236160167361,2804.2134,34.8172204,-89.18844118
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Bolivar County,28011,0.674381836008704,7541.4636,33.79549267,-90.8802491
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Calhoun County,28013,0.312857613089367,4359.522,33.9364711,-89.33648515
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Carroll County,28015,0.329517248906461,3756.1758,33.44884455,-89.92031051
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Chickasaw County,28017,0.49609339361166,5217.5982,33.92084863,-88.94784369
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Chickasaw County,28017,0.496093393611661,5217.5982,33.92084863,-88.94784369
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Choctaw County,28019,0.303767675848539,2799.1188,33.34764715,-89.24846009
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Claiborne County,28021,0.870706762120667,2553.1224,31.9736924,-90.91182829
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Clarke County,28023,0.370735162948478,5475.2394,32.04139674,-88.68928948
@@ -1166,7 +1166,7 @@ Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jefferson County,
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jefferson Davis County,28065,0.734226361892361,3888.6354,31.56973198,-89.82311087
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jones County,28067,0.312803187653658,20041.4286,31.62257767,-89.168969
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Kemper County,28069,0.633585100010796,2963.6016,32.75459457,-88.64097868
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lafayette County,28071,0.453329403812112,16743.7668,34.35673647,-89.48471446
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lafayette County,28071,0.453329403812113,16743.7668,34.35673647,-89.48471446
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lamar County,28073,0.29436111633288,20242.3014,31.20573333,-89.50870961
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lauderdale County,28075,0.443075775372167,19769.9592,32.40429857,-88.66247435
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lawrence County,28077,0.359184657003066,4375.5336,31.54996744,-90.10693379
@@ -1183,7 +1183,7 @@ Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Montgomery County
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Neshoba County,28099,0.297428498511607,7842.7728,32.7532893,-89.11732685
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Newton County,28101,0.327853129861679,6727.7832,32.40013897,-89.11871108
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Noxubee County,28103,0.777886782714782,3216.876,33.1101406,-88.56962273
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Oktibbeha County,28105,0.553969228058966,12919.9056,33.42493738,-88.8794268
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Oktibbeha County,28105,0.553969228058967,12919.9056,33.42493738,-88.8794268
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Panola County,28107,0.494052172545694,10380.6114,34.3639856,-89.95079634
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Pearl River County,28109,0.205101042488856,17772.876,30.76882496,-89.58952146
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Perry County,28111,0.24736038043231,4005.0834,31.17209382,-88.9925273
@@ -1201,7 +1201,7 @@ Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Sunflower County,
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Tallahatchie County,28135,0.584849304226827,3612.0714,33.95061391,-90.17334129
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Tate County,28137,0.341950920217108,9272.172,34.65069529,-89.94520436
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Tippah County,28139,0.215692341697754,6936.6618,34.76830318,-88.90883067
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Tishomingo County,28141,0.147291763081995,6539.283,34.74037117,-88.23908046
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Tishomingo County,28141,0.147291763081996,6539.283,34.74037117,-88.23908046
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Tunica County,28143,0.752445255155151,1918.4808,34.65198616,-90.37532903
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Union County,28145,0.192270770896947,8999.9748,34.49025133,-89.00393228
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Walthall County,28147,0.419636822777366,4708.1382,31.14823915,-90.10601376
@@ -1269,7 +1269,7 @@ Senate,Montana,State,Montana,Bodnar? (I),Alme (R),Valley County,30105,0.23954222
 Senate,Montana,State,Montana,Bodnar? (I),Alme (R),Wheatland County,30107,0.201380379556646,765.6456,46.46630385,-109.8444012
 Senate,Montana,State,Montana,Bodnar? (I),Alme (R),Wibaux County,30109,0.134924236797372,388.6452,46.96556514,-104.2490289
 Senate,Montana,State,Montana,Bodnar? (I),Alme (R),Yellowstone County,30111,0.363980245126942,57388.4856,45.93715306,-108.2742553
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Adams County,31001,0.358866765571573,10318.0206,40.5244942,-98.50117804
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Adams County,31001,0.358866765571574,10318.0206,40.5244942,-98.50117804
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Antelope County,31003,0.171504389063242,2494.8984,42.17696571,-98.06660249
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Arthur County,31005,0.108591541587618,204.5118,41.56896142,-101.6959559
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Banner County,31007,0.146039945032823,278.0196,41.54616353,-103.7109624
@@ -1281,7 +1281,7 @@ Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Brown County,31017,0.157
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Buffalo County,31019,0.33595183141501,17066.91,40.85504881,-99.07510068
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Burt County,31021,0.338009444614205,2630.997,41.85154682,-96.32857388
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Butler County,31023,0.253307817126027,3310.0344,41.22599383,-97.13156172
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Cass County,31025,0.375940520782573,11287.4502,40.90976087,-96.14069252
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Cass County,31025,0.375940520782574,11287.4502,40.90976087,-96.14069252
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Cedar County,31027,0.199885171992919,3524.7354,42.59931244,-97.25275919
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Chase County,31029,0.154626649132935,1347.8856,40.52371008,-101.6979407
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Cherry County,31031,0.170607221565953,2209.6008,42.54499866,-101.1185272
@@ -1294,7 +1294,7 @@ Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dakota County,31043,0.46
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dawes County,31045,0.337368950342763,2768.5512,42.72007965,-103.1354423
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dawson County,31047,0.330463124522699,6122.9814,40.86987625,-99.81946635
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Deuel County,31049,0.193776240097986,723.4332,41.111546,-102.3338627
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dixon County,31051,0.279777236523694,2069.8632,42.49349461,-96.86826909
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dixon County,31051,0.279777236523695,2069.8632,42.49349461,-96.86826909
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dodge County,31053,0.398235545144486,11811.4662,41.57781563,-96.6539044
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Douglas County,31055,0.616263238446822,196252.7256,41.29533784,-96.15494428
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dundy County,31057,0.14493098107093,673.215,40.17625316,-101.6878043
@@ -1331,7 +1331,7 @@ Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Madison County,31119,0.2
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),McPherson County,31117,0.0717255769431531,203.0562,41.56796544,-101.0603939
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Merrick County,31121,0.226395463061998,3115.7118,41.16916952,-98.03760529
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Morrill County,31123,0.219261612414857,1740.8976,41.7164533,-103.0105871
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Nance County,31125,0.255117473772014,1320.2292,41.3972847,-97.99248173
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Nance County,31125,0.255117473772015,1320.2292,41.3972847,-97.99248173
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Nemaha County,31127,0.323431709974845,2443.9524,40.38784773,-95.84990553
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Nuckolls County,31129,0.222798732285808,1626.633,40.17636285,-98.04739392
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Otoe County,31131,0.358698251415,5905.3692,40.64856103,-96.1350641
@@ -1356,7 +1356,7 @@ Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Stanton County,31167,0.2
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Thayer County,31169,0.243248585256044,2053.8516,40.17621044,-97.59506372
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Thomas County,31171,0.161884604256546,285.2976,41.91358968,-100.5556632
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Thurston County,31173,0.559363164644028,1530.5634,42.15819496,-96.54400362
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Valley County,31175,0.230678309562031,1655.745,41.56723462,-98.98208511
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Valley County,31175,0.230678309562032,1655.745,41.56723462,-98.98208511
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Washington County,31177,0.345755496804695,9019.6254,41.53110052,-96.22188779
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Wayne County,31179,0.314840930399317,2923.5726,42.20934475,-97.11926964
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Webster County,31181,0.230859997067733,1270.011,40.17643706,-98.50021623
@@ -2111,7 +2111,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Alexandria,51510,0.82420
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Alleghany County,51005,0.339670368323202,5973.0546,37.78778327,-80.00761323
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Amelia County,51007,0.340033822993275,5815.122,37.33550025,-77.9752747
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Amherst County,51009,0.383998130881026,12497.0538,37.60543548,-79.14517223
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Appomattox County,51011,0.307622343195099,6962.8626,37.37242345,-78.81172877
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Appomattox County,51011,0.307622343195098,6962.8626,37.37242345,-78.81172877
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Arlington County,51013,0.826431483423896,91461.8982,38.87844605,-77.10098204
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Augusta County,51015,0.313081622856326,31900.9296,38.16483645,-79.13408568
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Bath County,51017,0.300276741875599,1866.0792,38.05836054,-79.74123354
@@ -2128,16 +2128,16 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Caroline County,51033,0.
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Carroll County,51035,0.23773463352394,11700.8406,36.73130704,-80.73317673
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Charles City County,51036,0.625938468187342,3130.2678,37.35669644,-77.06179476
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Charlotte County,51037,0.413296769921099,4345.6938,37.0117581,-78.66167401
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Charlottesville,51540,0.876174385246034,16639.6914,38.03742163,-78.48233004
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Charlottesville,51540,0.876174385246033,16639.6914,38.03742163,-78.48233004
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Chesapeake,51550,0.57562924569503,91665.6822,36.67787032,-76.30244008
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Chesterfield County,51041,0.589157846706575,150581.0922,37.37880418,-77.58654268
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Clarke County,51043,0.471917184654633,7011.6252,39.11236047,-77.99656139
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Colonial Heights,51570,0.387713264380628,6451.947,37.26480119,-77.39716266
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Colonial Heights,51570,0.387713264380627,6451.947,37.26480119,-77.39716266
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Covington,51580,0.430788942148525,1790.388,37.77830014,-79.98671944
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Craig County,51045,0.235216957927941,2259.0912,37.48141832,-80.21218409
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Culpeper County,51047,0.438774324101524,20554.5276,38.48620048,-77.95541958
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Cumberland County,51049,0.457786527922096,3967.9656,37.51182231,-78.24455011
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Danville,51590,0.670160948429083,12743.0502,36.58309677,-79.40912354
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Cumberland County,51049,0.457786527922095,3967.9656,37.51182231,-78.24455011
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Danville,51590,0.670160948429082,12743.0502,36.58309677,-79.40912354
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Dickenson County,51051,0.263830758975592,5106.9726,37.12613493,-82.35094586
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Dinwiddie County,51053,0.452188150351221,11274.3498,37.07597757,-77.63238876
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Emporia,51595,0.713787848407305,1574.2314,36.69543863,-77.53622483
@@ -2146,7 +2146,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Fairfax,51600,0.71982191
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Fairfax County,51059,0.728349205315825,413632.7574,38.83620791,-77.27651017
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Falls Church,51610,0.836993136634885,6419.196,38.88441803,-77.17519332
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Fauquier County,51061,0.446667551524099,32026.839,38.7387071,-77.80950815
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Floyd County,51063,0.378868588563799,6927.9282,36.93162812,-80.36184172
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Floyd County,51063,0.378868588563798,6927.9282,36.93162812,-80.36184172
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Fluvanna County,51065,0.529438067571959,12014.5224,37.84216441,-78.27765024
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Franklin,51620,0.671469688789579,2791.113,36.68306879,-76.93848875
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Franklin County,51067,0.340977855671885,22299.792,36.99189661,-79.88106371
@@ -2189,10 +2189,10 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Middlesex County,51119,0
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Montgomery County,51121,0.579918725557605,33471.522,37.17483569,-80.38642559
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Nelson County,51125,0.529983787321977,6769.9956,37.7874546,-78.88692463
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),New Kent County,51127,0.382122771130306,12092.397,37.50499104,-76.9971687
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Newport News,51700,0.701406788808555,54260.4012,37.10553608,-76.5199628
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Newport News,51700,0.701406788808554,54260.4012,37.10553608,-76.5199628
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Norfolk,51710,0.761053336126817,61366.6404,36.89479704,-76.25967731
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Northampton County,51131,0.600025626431563,4938.8508,37.34305358,-75.87764606
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Northumberland County,51133,0.460797132985375,5924.292,37.8876167,-76.41950915
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Northumberland County,51133,0.460797132985374,5924.292,37.8876167,-76.41950915
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Norton,51720,0.363362282340853,1187.7696,36.9310873,-82.62648895
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Nottoway County,51135,0.46054668692495,4951.9512,37.14201365,-78.05127364
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Orange County,51137,0.436118468827458,16039.2564,38.24635826,-78.01298345
@@ -2204,10 +2204,10 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Poquoson,51735,0.3143304
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Portsmouth,51740,0.744883016464314,29603.9928,36.84646209,-76.35396761
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Powhatan County,51145,0.32288101677243,15030.5256,37.55029696,-77.915315
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Prince Edward County,51147,0.561039775141458,6783.8238,37.22409267,-78.44090565
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Prince George County,51149,0.452519223698928,12687.0096,37.18648609,-77.22446275
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Prince George County,51149,0.452519223698927,12687.0096,37.18648609,-77.22446275
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Prince William County,51153,0.658994699058627,161084.7018,38.70276099,-77.48028729
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Pulaski County,51155,0.347485460186588,12781.6236,37.0632927,-80.71348404
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Radford,51750,0.57887858765338,4678.2984,37.12313924,-80.55838396
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Radford,51750,0.578878587653379,4678.2984,37.12313924,-80.55838396
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Rappahannock County,51157,0.47369212657335,3627.3552,38.68461794,-78.15943614
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Richmond,51760,0.861044444038983,76965.5778,37.53041663,-77.47493293
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Richmond County,51159,0.424047464567961,3010.1808,37.94301072,-76.7268014
@@ -2222,7 +2222,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Shenandoah County,51171,
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Smyth County,51173,0.268693274489591,10426.4628,36.84393147,-81.53692387
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Southampton County,51175,0.442879583721692,7102.6002,36.72019409,-77.10566044
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Spotsylvania County,51177,0.512971270849107,56970.7284,38.18453467,-77.65615344
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Stafford County,51179,0.559004122767008,59564.6076,38.4206167,-77.45796206
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Stafford County,51179,0.559004122767007,59564.6076,38.4206167,-77.45796206
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Staunton,51790,0.614328847978493,9730.686,38.15909322,-79.05960219
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Suffolk,51800,0.632435616906901,38361.6102,36.69549937,-76.63944938
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Surry County,51181,0.569498786388725,3188.4918,37.10963661,-76.90027517
@@ -2230,7 +2230,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Sussex County,51183,0.59
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Tazewell County,51185,0.216283889180725,14367.4998,37.12490124,-81.56046571
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Virginia Beach,51810,0.572431097444141,163599.9786,36.73349545,-76.04367462
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Warren County,51187,0.36507506237357,16237.218,38.90870136,-78.20860922
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Washington County,51191,0.286702477208087,21271.4106,36.72455999,-81.95959909
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Washington County,51191,0.286702477208086,21271.4106,36.72455999,-81.95959909
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Waynesboro,51820,0.530731014957424,8094.5916,38.06830271,-78.90109101
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Westmoreland County,51193,0.502825093884122,7637.5332,38.11166934,-76.80178124
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Williamsburg,51830,0.753616039818258,5627.3496,37.26927809,-76.70721344
@@ -2252,7 +2252,7 @@ Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Gilmer,54021,0
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Grant,54023,0.126033732604964,4003.6278,39.10496268,-79.19584305
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Greenbrier,54025,0.332646002840493,10708.1214,37.94721189,-80.45282888
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Hampshire,54027,0.22128447568633,7535.6412,39.31712105,-78.61389875
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Hancock,54029,0.311701813186966,9331.8516,40.52189394,-80.57390126
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Hancock,54029,0.311701813186965,9331.8516,40.52189394,-80.57390126
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Hardy,54031,0.242256904980526,4580.7732,39.00759684,-78.85797558
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Harrison,54033,0.330863437350057,21020.3196,39.28363307,-80.37983086
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Jackson,54035,0.254430294259458,9174.6468,38.83443006,-81.674543
@@ -2265,10 +2265,10 @@ Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Marion,54049,0
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Marshall,54051,0.275859512008961,9457.0332,39.86038842,-80.66340417
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mason,54053,0.251021779948484,7527.6354,38.7698088,-82.02651429
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),McDowell,54047,0.251355612498481,3890.8188,37.378572,-81.65416089
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mercer,54055,0.255318330000996,16901.6994,37.40564762,-81.11147554
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mercer,54055,0.255318330000995,16901.6994,37.40564762,-81.11147554
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mineral,54057,0.231840476517021,9264.894,39.41464251,-78.94327353
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Mingo,54059,0.174161821489449,6103.3308,37.72729194,-82.13519084
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Monongalia,54061,0.522275099706937,29366.0022,39.63024065,-80.04558938
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Monongalia,54061,0.522275099706936,29366.0022,39.63024065,-80.04558938
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Monroe,54063,0.235472031908759,4544.3832,37.5604155,-80.55052779
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Morgan,54065,0.259241263890787,6518.1768,39.5606152,-78.25701555
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Nicholas,54067,0.24489527714204,7189.9362,38.2918799,-80.79999513
@@ -2280,7 +2280,7 @@ Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Preston,54077,
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Putnam,54079,0.302879060524227,19644.7776,38.5085024,-81.90915525
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Raleigh,54081,0.28316242092119,22168.788,37.77126746,-81.24873953
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Randolph,54083,0.302592250635149,8270.7192,38.77500824,-79.87549565
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Ritchie,54085,0.164067512825485,2903.922,39.17806062,-81.06312621
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Ritchie,54085,0.164067512825484,2903.922,39.17806062,-81.06312621
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Roane,54087,0.272915032586806,3935.2146,38.71393058,-81.34822568
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Summers,54089,0.301349427602497,3753.2646,37.65596695,-80.85840283
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Taylor,54091,0.277240977320298,5179.0248,39.33588922,-80.04598163
@@ -2289,10 +2289,10 @@ Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Tyler,54095,0.
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Upshur,54097,0.24678006222845,7034.9148,38.8978057,-80.23353247
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Wayne,54099,0.279883811398729,11256.1548,38.14585251,-82.42685819
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Webster,54101,0.211307365084657,2152.1046,38.49472856,-80.4218655
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Wetzel,54103,0.264797584008035,4375.5336,39.60550303,-80.63834457
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Wetzel,54103,0.264797584008034,4375.5336,39.60550303,-80.63834457
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Wirt,54105,0.198912164402102,1840.6062,39.02235059,-81.37885705
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Wood,54107,0.316686470771581,26708.0766,39.21127634,-81.51490057
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Wyoming,54109,0.187502447816681,5446.1274,37.60951977,-81.54940333
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Wyoming,54109,0.18750244781668,5446.1274,37.60951977,-81.54940333
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Albany,56001,0.572657239681537,12591.6678,41.65453797,-105.7236684
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Big Horn,56003,0.178940860133059,4082.2302,44.52636084,-107.9948912
 Senate,Wyoming,State,Wyoming,Byrd (D),Hageman (R),Campbell,56005,0.151810057483858,13107.678,44.24806602,-105.5484733
