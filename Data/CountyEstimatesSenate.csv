@@ -135,7 +135,7 @@ Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Johnson County,5071,0.32
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Lafayette County,5073,0.399675613761842,1664.4786,33.24091819,-93.60684679
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Lawrence County,5075,0.240928285894937,4056.0294,36.04103952,-91.1070497
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Lee County,5077,0.619748182330736,1783.8378,34.78064921,-90.78211015
-Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Lincoln County,5079,0.329976705292656,2412.657,33.95753882,-91.73333878
+Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Lincoln County,5079,0.329976705292657,2412.657,33.95753882,-91.73333878
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Little River County,5081,0.304984648305746,3513.8184,33.70228691,-94.2339787
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Logan County,5083,0.252549553796261,5844.9618,35.21550403,-93.71630518
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Lonoke County,5085,0.307048524660243,21844.917,34.75441172,-91.88791683
@@ -1639,11 +1639,11 @@ Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Wasco County,41065,0.514188137
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Washington County,41067,0.69966150347147,207861.8634,45.55989124,-123.0985728
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Wheeler County,41069,0.291701070065648,602.6184,44.72584844,-120.0273912
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Yamhill County,41071,0.505698135640106,40427.1066,45.23269019,-123.3078799
-Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay? (R),Bristol County,44001,0.681601373103174,20018.8668,41.71169465,-71.28385194
-Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay? (R),Kent County,44003,0.573116455333615,66080.601,41.6720081,-71.59305645
-Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay? (R),Newport County,44005,0.67659562442201,31556.6802,41.55667416,-71.23906841
-Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay? (R),Providence County,44007,0.640434224023075,191080.251,41.8721229,-71.58004041
-Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay? (R),Washington County,44009,0.625481005684168,53737.8408,41.46943509,-71.62328128
+Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay (R),Bristol County,44001,0.681601373103174,20018.8668,41.71169465,-71.28385194
+Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay (R),Kent County,44003,0.573116455333615,66080.601,41.6720081,-71.59305645
+Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay (R),Newport County,44005,0.67659562442201,31556.6802,41.55667416,-71.23906841
+Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay (R),Providence County,44007,0.640434224023075,191080.251,41.8721229,-71.58004041
+Senate,Rhode Island,State,Rhode Island,Reed*? (D),McKay (R),Washington County,44009,0.625481005684168,53737.8408,41.46943509,-71.62328128
 Senate,South Carolina,State,South Carolina,Andrews (D),Graham* (R),Abbeville County,45001,0.347458658798193,8666.6424,34.22269468,-82.45872709
 Senate,South Carolina,State,South Carolina,Andrews (D),Graham* (R),Aiken County,45003,0.437717355598968,61782.942,33.544095,-81.63493042
 Senate,South Carolina,State,South Carolina,Andrews (D),Graham* (R),Allendale County,45005,0.780204566180325,2167.3884,32.98833364,-81.35758839
