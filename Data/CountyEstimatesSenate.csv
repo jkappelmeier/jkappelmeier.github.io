@@ -143,7 +143,7 @@ Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Madison County,5087,0.28
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Marion County,5089,0.278249567786095,5626.6218,36.26842934,-92.68397295
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Miller County,5091,0.337432036964356,11361.6858,33.31200171,-93.89142003
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Mississippi County,5093,0.450947980573206,7668.8286,35.76420127,-90.05430077
-Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Monroe County,5095,0.536530209403682,1737.2586,34.67772323,-91.20394825
+Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Monroe County,5095,0.536530209403681,1737.2586,34.67772323,-91.20394825
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Montgomery County,5097,0.256795593946614,2643.3696,34.53888136,-93.65944523
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Nevada County,5099,0.404256898299711,2074.9578,33.66338522,-93.30697684
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Newton County,5101,0.25173738569348,2697.9546,35.91979049,-93.2178649
@@ -163,7 +163,7 @@ Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Searcy County,5129,0.198
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Sebastian County,5131,0.415588073742187,32293.2138,35.19943145,-94.27397371
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Sevier County,5133,0.267759156662852,3372.6252,33.9971421,-94.24072249
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Sharp County,5135,0.260493448295999,5308.5732,36.16124847,-91.47928351
-Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),St. Francis County,5123,0.618950502119754,4266.3636,35.02180511,-90.74840472
+Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),St. Francis County,5123,0.618950502119753,4266.3636,35.02180511,-90.74840472
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Stone County,5137,0.266014675995845,4291.8366,35.86003074,-92.15689859
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Union County,5139,0.440611428957703,11073.477,33.17125929,-92.59770646
 Senate,Arkansas,State,Arkansas,Shoffner (D),Cotton* (R),Van Buren County,5141,0.276289130911662,5429.388,35.58054667,-92.51610324
@@ -543,7 +543,7 @@ Senate,Illinois,State,Illinois,Stratton (D),Tracy (R),Will County,17197,0.554937
 Senate,Illinois,State,Illinois,Stratton (D),Tracy (R),Williamson County,17199,0.344785014583276,23708.8128,37.73040742,-88.93009646
 Senate,Illinois,State,Illinois,Stratton (D),Tracy (R),Winnebago County,17201,0.549753561268869,86753.0322,42.33630888,-89.16084223
 Senate,Illinois,State,Illinois,Stratton (D),Tracy (R),Woodford County,17203,0.326467095756512,15134.601,40.78829846,-89.21080819
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Adair County,19001,0.329785312847738,2912.6556,41.33075609,-94.47105874
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Adair County,19001,0.329785312847737,2912.6556,41.33075609,-94.47105874
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Adams County,19003,0.334071572403596,1523.2854,41.02903567,-94.69932645
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Allamakee County,19005,0.389967161127266,5245.2546,43.28400613,-91.37915589
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Appanoose County,19007,0.321366506256148,4650.642,40.74323979,-92.86861174
@@ -571,7 +571,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Dallas County,19049,0.54543988993129
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Davis County,19051,0.27705335119707,2842.059,40.74775139,-92.41006563
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Decatur County,19053,0.318057300446304,2669.5704,40.73762219,-93.78630885
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Delaware County,19055,0.360357114285283,7250.3436,42.4713865,-91.36741055
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Des Moines County,19057,0.492712593173935,13630.9662,40.92294179,-91.18142629
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Des Moines County,19057,0.492712593173934,13630.9662,40.92294179,-91.18142629
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Dickinson County,19059,0.359083296528444,8058.2016,43.37782493,-95.15099401
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Dubuque County,19061,0.525993718053156,37793.9262,42.46858503,-90.88262627
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Emmet County,19063,0.336745096715564,3447.5886,43.37782281,-94.67861391
@@ -598,7 +598,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Johnson County,19103,0.7487660737876
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Jones County,19105,0.433001397255859,7832.5836,42.12118609,-91.13139641
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Keokuk County,19107,0.293922298919374,3703.0464,41.33649833,-92.1785067
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Kossuth County,19109,0.335271408906666,6016.7226,43.20413984,-94.20689787
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Lee County,19111,0.424123594751605,11507.2458,40.64219925,-91.47949968
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Lee County,19111,0.424123594751604,11507.2458,40.64219925,-91.47949968
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Linn County,19113,0.617808411568063,87769.041,42.07923082,-91.59809485
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Louisa County,19115,0.3529991341344,3685.5792,41.21843405,-91.25958262
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Lucas County,19117,0.312368098945134,3325.3182,41.02958964,-93.32780803
@@ -615,7 +615,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Montgomery County,19137,0.3636827590
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Muscatine County,19139,0.493133687614353,14093.1192,41.48388139,-91.11279575
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),O'Brien County,19141,0.239286389341316,5404.6428,43.0836202,-95.62474725
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Osceola County,19143,0.218479278882273,2312.9484,43.37868127,-95.62422758
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Page County,19145,0.345626922753812,5249.6214,40.73917437,-95.15010031
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Page County,19145,0.345626922753811,5249.6214,40.73917437,-95.15010031
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Palo Alto County,19147,0.330812283784125,3576.4092,43.08193849,-94.67824621
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Plymouth County,19149,0.277811122202158,10018.167,42.73735704,-96.21424951
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Pocahontas County,19151,0.278321502041705,2564.0394,42.73420133,-94.67862564
@@ -623,7 +623,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Polk County,19153,0.62248140631993,1
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Pottawattamie County,19155,0.467054593496251,31879.8234,41.33661346,-95.54290277
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Poweshiek County,19157,0.482724582500046,7150.635,41.68657418,-92.53097077
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Ringgold County,19159,0.294946269187443,1930.8534,40.7351498,-94.24367465
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Sac County,19161,0.2934752611121,3922.1142,42.38624071,-95.10547892
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Sac County,19161,0.293475261112099,3922.1142,42.38624071,-95.10547892
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Scott County,19163,0.549696793499128,64377.549,41.63706131,-90.62318822
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Shelby County,19165,0.3421738498806,4665.9258,41.6850066,-95.31015553
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Sioux County,19167,0.1777189913868,13594.5762,43.08294203,-96.17809424
@@ -638,7 +638,7 @@ Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Washington County,19183,0.4436664994
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Wayne County,19185,0.259359737340928,2233.6182,40.73965649,-93.32744042
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Webster County,19187,0.407201028827941,12002.1498,42.42794934,-94.18176099
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Winnebago County,19189,0.40956854983739,4035.651,43.3775066,-93.73407175
-Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Winneshiek County,19191,0.522412163513324,8550.1944,43.29085957,-91.84475831
+Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Winneshiek County,19191,0.522412163513323,8550.1944,43.29085957,-91.84475831
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Woodbury County,19193,0.450973597632672,30650.5692,42.38966116,-96.04432637
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Worth County,19195,0.423248430585264,3073.4994,43.37747964,-93.26085274
 Senate,Iowa,State,Iowa,Turek (D),Hinson (R),Wright County,19197,0.377701156742423,4092.4194,42.73305373,-93.73515113
@@ -946,7 +946,7 @@ Senate,Maine,State,Maine,Jackson (D),Collins* (R),Sagadahoc County,23023,0.55893
 Senate,Maine,State,Maine,Jackson (D),Collins* (R),Somerset County,23025,0.346954668944641,20349.288,45.51360259,-69.95882156
 Senate,Maine,State,Maine,Jackson (D),Collins* (R),Waldo County,23027,0.500761721753572,17813.6328,44.50136648,-69.14427892
 Senate,Maine,State,Maine,Jackson (D),Collins* (R),Washington County,23029,0.370117707031649,12928.6392,45.02177186,-67.62910779
-Senate,Maine,State,Maine,Jackson (D),Collins* (R),York County,23031,0.536926889079942,94517.2026,43.47829059,-70.7143165
+Senate,Maine,State,Maine,Jackson (D),Collins* (R),York County,23031,0.536926889079941,94517.2026,43.47829059,-70.7143165
 Senate,Massachusetts,State,Massachusetts,Markey* (D),Deaton (R),Barnstable County,25001,0.61399630772723,105953.124,41.7232979,-70.2898624
 Senate,Massachusetts,State,Massachusetts,Markey* (D),Deaton (R),Berkshire County,25003,0.727597493318671,48689.0922,42.37045737,-73.2062907
 Senate,Massachusetts,State,Massachusetts,Markey* (D),Deaton (R),Bristol County,25005,0.545436544327209,197948.4996,41.79709525,-71.11419448
@@ -963,7 +963,7 @@ Senate,Massachusetts,State,Massachusetts,Markey* (D),Deaton (R),Suffolk County,2
 Senate,Massachusetts,State,Massachusetts,Markey* (D),Deaton (R),Worcester County,25027,0.576070701581093,298020.9996,42.35111931,-71.90780992
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Alcona County,26001,0.314901505584522,5383.5366,44.68477825,-83.59385271
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Alger County,26003,0.429194827632957,3778.0098,46.40902031,-86.60408109
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Allegan County,26005,0.39037380633325,51559.5354,42.59147142,-85.88845897
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Allegan County,26005,0.390373806333249,51559.5354,42.59147142,-85.88845897
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Alpena County,26007,0.38334698509127,12376.239,45.03457851,-83.62606894
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Antrim County,26009,0.408694625122728,12133.1538,44.99904124,-85.14135875
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Arenac County,26011,0.320280804803366,6580.0398,44.0651223,-83.89498203
@@ -989,39 +989,39 @@ Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Genesee County,26049,0.55
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Gladwin County,26051,0.319813820298289,11142.618,43.99062122,-84.38860114
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Gogebic County,26053,0.44313834295235,5959.2264,46.40885281,-89.69437271
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Grand Traverse County,26055,0.521573071140241,44950.3836,44.66916098,-85.56013503
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Gratiot County,26057,0.369143548030899,14247.4128,43.29296993,-84.60482908
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Gratiot County,26057,0.369143548030898,14247.4128,43.29296993,-84.60482908
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Hillsdale County,26059,0.262567026278657,17835.4668,41.88768696,-84.59305475
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Houghton County,26061,0.443169363364848,13873.3236,46.89801075,-88.68742993
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Houghton County,26061,0.443169363364847,13873.3236,46.89801075,-88.68742993
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Huron County,26063,0.320420231843077,13643.3388,43.83293286,-83.03116796
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Ingham County,26065,0.678580568366032,105608.1468,42.59737278,-84.37346607
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Ionia County,26067,0.365972533004922,24393.6726,42.94502238,-85.07413319
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Ionia County,26067,0.365972533004921,24393.6726,42.94502238,-85.07413319
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Iosco County,26069,0.372726025572033,11280.1722,44.35578542,-83.63669002
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Iron County,26071,0.37978996366406,5052.3876,46.20865908,-88.53028044
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Isabella County,26073,0.492226469534511,22074.9018,43.64060976,-84.84664923
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Isabella County,26073,0.49222646953451,22074.9018,43.64060976,-84.84664923
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Jackson County,26075,0.421165452876096,60077.7066,42.24852059,-84.42251355
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Kalamazoo County,26077,0.619227296866557,104200.5816,42.24536002,-85.53044157
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Kalkaska County,26079,0.307588159629596,8264.169,44.68488514,-85.0904614
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Kent County,26081,0.557432568154341,265929.3864,43.03204611,-85.54918115
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Keweenaw County,26083,0.465107599944678,1154.2908,47.62662557,-88.43593439
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Kent County,26081,0.55743256815434,265929.3864,43.03204611,-85.54918115
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Keweenaw County,26083,0.465107599944677,1154.2908,47.62662557,-88.43593439
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Lake County,26085,0.364546610609295,4964.3238,43.99041242,-85.80209274
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Lapeer County,26087,0.324523655592545,39836.8608,43.09052506,-83.22153148
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Leelanau County,26089,0.569299271050478,12693.5598,44.93943424,-85.81220561
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Lenawee County,26091,0.412252702402027,39483.15,41.89469406,-84.06641246
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Livingston County,26093,0.40766192606177,95138.016,42.60389287,-83.9117077
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Luce County,26095,0.285785973048348,2139.0042,46.4704998,-85.54389048
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Mackinac County,26097,0.402916307952776,5204.4978,46.07858665,-85.07704103
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Macomb County,26099,0.460255911395739,363635.8086,42.69584067,-82.93255517
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Mackinac County,26097,0.402916307952775,5204.4978,46.07858665,-85.07704103
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Macomb County,26099,0.460255911395738,363635.8086,42.69584067,-82.93255517
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Manistee County,26101,0.448830782678369,10958.4846,44.33345321,-86.05635345
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Marquette County,26103,0.574373517419412,27892.935,46.43139896,-87.64138782
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Mason County,26105,0.420962734031453,12957.0234,43.99535369,-86.25017381
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Mecosta County,26107,0.375372718099711,16108.3974,43.64070731,-85.32464875
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Menominee County,26109,0.357224587639441,9390.8034,45.58036988,-87.55660994
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Menominee County,26109,0.35722458763944,9390.8034,45.58036988,-87.55660994
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Midland County,26111,0.452655308434222,36023.9166,43.64674881,-84.38804837
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Missaukee County,26113,0.237111645991823,6558.2058,44.33770935,-85.09471001
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Monroe County,26115,0.390861469780259,65521.6506,41.92832154,-83.53769332
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Montcalm County,26117,0.32835707701372,24973.7292,43.31058414,-85.15230226
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Montcalm County,26117,0.328357077013719,24973.7292,43.31058414,-85.15230226
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Montmorency County,26119,0.29471714448132,4585.8678,45.02758285,-84.12740152
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Muskegon County,26121,0.521256907098884,68239.2558,43.2913812,-86.1519783
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Muskegon County,26121,0.521256907098883,68239.2558,43.2913812,-86.1519783
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Newaygo County,26123,0.307973518365133,20932.2558,43.5544124,-85.80070154
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Oakland County,26125,0.583737042675561,551170.218,42.66090645,-83.38594391
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Oceana County,26127,0.375549927610398,10649.1696,43.64097781,-86.26734566
@@ -1029,14 +1029,14 @@ Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Ogemaw County,26129,0.312
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Ontonagon County,26131,0.374235535775451,2759.8176,46.66430808,-89.31491201
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Osceola County,26133,0.280376462551645,9435.927,43.98998373,-85.32556471
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Oscoda County,26135,0.300530432192412,3733.614,44.68170135,-84.12938765
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Otsego County,26137,0.347884054153792,11459.211,45.02079452,-84.59972828
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Otsego County,26137,0.347884054153791,11459.211,45.02079452,-84.59972828
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Ottawa County,26139,0.425627090223597,127937.0508,42.95990607,-85.9964531
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Presque Isle County,26141,0.381061985313078,6261.9912,45.34035915,-83.91721501
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Roscommon County,26143,0.360802166549834,11551.6416,44.33547916,-84.61141537
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Saginaw County,26145,0.513770887545974,74546.3706,43.33526107,-84.0526996
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),St. Clair County,26151,0.351419003536232,69229.0638,43.4237632,-82.82063341
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),St. Joseph County,26153,0.354858776278748,21000.669,46.19666734,-86.19985664
-Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Sanilac County,26155,0.282541593395483,16766.3286,42.95402135,-84.14662058
+Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Sanilac County,26155,0.282541593395482,16766.3286,42.95402135,-84.14662058
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Schoolcraft County,26147,0.365573353937361,3513.0906,42.93188855,-82.68083292
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Shiawassee County,26149,0.411942261820407,29150.5734,41.91439741,-85.52810068
 Senate,Michigan,State,Michigan,El-Sayed (D),Rogers (R),Tuscola County,26157,0.307577030645835,22071.2628,43.46515989,-83.41747147
@@ -1072,16 +1072,16 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Goodhue County,27049,0.
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Grant County,27051,0.356979389966134,2513.0934,45.93402352,-96.01216405
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Hennepin County,27053,0.729810282026102,509426.5212,45.00479678,-93.47715121
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Houston County,27055,0.430355188046209,8161.5492,43.67146528,-91.49277553
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Hubbard County,27057,0.353054403982164,9712.491,47.10785166,-94.91640615
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Hubbard County,27057,0.353054403982165,9712.491,47.10785166,-94.91640615
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Isanti County,27059,0.302701414322069,18494.1258,45.56125565,-93.29470209
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Itasca County,27061,0.411522842247153,19162.974,47.50907819,-93.63162349
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Itasca County,27061,0.411522842247154,19162.974,47.50907819,-93.63162349
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Jackson County,27063,0.297900309441011,4024.734,43.67418723,-95.15400031
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Kanabec County,27065,0.297009022830128,6940.3008,45.94534057,-93.29290464
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Kanabec County,27065,0.297009022830129,6940.3008,45.94534057,-93.29290464
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Kandiyohi County,27067,0.355493536528045,16614.2184,45.15252304,-95.00576302
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Kittson County,27069,0.38611924714499,1780.1988,48.77698427,-96.78256113
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Koochiching County,27071,0.38325470645449,4853.6982,48.24510754,-93.78362729
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Lac qui Parle County,27073,0.348793394144421,2848.6092,44.99583443,-96.1738058
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Lake County,27075,0.534260959740584,4948.3122,47.64037177,-91.44445826
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Lake County,27075,0.534260959740585,4948.3122,47.64037177,-91.44445826
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Lake of the Woods County,27077,0.272378939975685,1684.1292,48.77043756,-94.90489792
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Le Sueur County,27079,0.341786076167423,12473.7642,44.37144158,-93.72984216
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Lincoln County,27081,0.319904068487812,2301.3036,44.4123209,-96.26720134
@@ -1094,8 +1094,8 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Meeker County,27093,0.2
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Mille Lacs County,27095,0.304861494235014,10876.2432,45.9373852,-93.62993103
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Morrison County,27097,0.225587766645019,14535.6216,46.01207437,-94.26690418
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Mower County,27099,0.461062992604579,13543.6302,43.67138759,-92.75235164
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Murray County,27101,0.2962435335204,3402.465,44.02216709,-95.76328482
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Nicollet County,27103,0.511911930723875,13814.3718,44.34987456,-94.24751207
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Murray County,27101,0.296243533520401,3402.465,44.02216709,-95.76328482
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Nicollet County,27103,0.511911930723876,13814.3718,44.34987456,-94.24751207
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Nobles County,27105,0.332042868396154,5924.292,43.67428858,-95.75326093
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Norman County,27107,0.399647188635272,2326.0488,47.32618622,-96.45566228
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Olmsted County,27109,0.568788527031562,64474.3464,44.00380771,-92.40209709
@@ -1103,7 +1103,7 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Otter Tail County,27111
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Pennington County,27113,0.35212066775971,5236.521,48.0666771,-96.03627453
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Pine County,27115,0.334172678083883,12090.9414,46.12071071,-92.74140502
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Pipestone County,27117,0.266892476309601,3458.5056,44.02300689,-96.258643
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Polk County,27119,0.341245017486152,11010.8862,47.77395991,-96.40222842
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Polk County,27119,0.341245017486153,11010.8862,47.77395991,-96.40222842
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Pope County,27121,0.352074366958786,5149.185,45.58611957,-95.44454861
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Ramsey County,27123,0.733153482375787,196834.9656,45.01747232,-93.09987304
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Red Lake County,27125,0.32316806712654,1504.3626,47.87197525,-96.09561104
@@ -1113,7 +1113,7 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Rice County,27131,0.501
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Rock County,27133,0.312823136310721,3839.145,43.67485346,-96.25305709
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Roseau County,27135,0.261048906316568,6093.1416,48.77485638,-95.81112475
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),St. Louis County,27137,0.584065131064306,84715.92,47.60334656,-92.46951183
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Scott County,27139,0.471158082366446,64083.5178,44.64850008,-93.53696693
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Scott County,27139,0.471158082366447,64083.5178,44.64850008,-93.53696693
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Sherburne County,27141,0.335402203000595,41353.596,45.44403172,-93.77496918
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Sibley County,27143,0.292937249843813,6088.047,44.5793954,-94.23165958
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Stearns County,27145,0.377263435270961,61689.0558,45.55199481,-94.61299658
@@ -1121,14 +1121,14 @@ Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Steele County,27147,0.3
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Stevens County,27149,0.376028094644946,3668.112,45.58615985,-96.00022786
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Swift County,27151,0.339238026776078,3608.4324,45.28288933,-95.68142474
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Todd County,27153,0.238554801517708,9799.0992,46.07014445,-94.89728962
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Traverse County,27155,0.351951779139951,1282.3836,45.77230328,-96.47144652
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Traverse County,27155,0.351951779139952,1282.3836,45.77230328,-96.47144652
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wabasha County,27157,0.369896831920348,9638.9832,44.28428259,-92.23023021
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wadena County,27159,0.25020368540858,5768.5428,46.5856535,-94.9700148
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Waseca County,27161,0.347499365229297,7403.1816,44.0220714,-93.58720505
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Washington County,27163,0.559811380477126,120520.041,45.03911139,-92.88374367
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Watonwan County,27165,0.371673426762431,3500.718,43.97823903,-94.61413846
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wilkin County,27167,0.313337413519929,2384.2728,46.35705832,-96.46820682
-Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Winona County,27169,0.489536814070437,19808.5326,43.98683746,-91.77934467
+Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Winona County,27169,0.489536814070438,19808.5326,43.98683746,-91.77934467
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Wright County,27171,0.363905713196124,64114.8132,45.1738141,-93.96334763
 Senate,Minnesota,State,Minnesota,Flanagan (D),Tafoya (R),Yellow Medicine County,27173,0.30502150620958,3847.1508,44.71626059,-95.86888348
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Adams County,28001,0.624096436381931,8605.5072,31.48172857,-91.35355624
@@ -1366,10 +1366,10 @@ Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Belknap County,33
 Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Carroll County,33003,0.515730834099491,24925.6944,43.87378859,-71.20268868
 Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Cheshire County,33005,0.574500851852556,32505.0036,42.91955278,-72.25111371
 Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Coos County,33007,0.455023292955692,12446.1078,44.68948989,-71.30563958
-Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Grafton County,33009,0.624247866938093,39957.6756,43.94073661,-71.82064764
+Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Grafton County,33009,0.624247866938092,39957.6756,43.94073661,-71.82064764
 Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Hillsborough County,33011,0.539033312977371,168000.2574,42.9153307,-71.71602867
 Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Merrimack County,33013,0.550713774054868,66626.451,43.2975734,-71.68059329
-Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Rockingham County,33015,0.512239274094731,145669.17,42.98749699,-71.12556353
+Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Rockingham County,33015,0.51223927409473,145669.17,42.98749699,-71.12556353
 Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Strafford County,33017,0.584998372956245,54974.373,43.29717653,-71.02927319
 Senate,New Hampshire,State,New Hampshire,Pappas (D),Sununu (R),Sullivan County,33019,0.521175450727592,18050.1678,43.36150987,-72.22243767
 Senate,New Jersey,State,New Jersey,Booker* (D),Murphy (R),Atlantic County,34001,0.531403976708306,92937.1488,39.47790545,-74.66040811
@@ -1765,18 +1765,18 @@ Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Bradley County,47011,
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Campbell County,47013,0.176172658677569,11222.676,36.40334413,-84.14937651
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Cannon County,47015,0.199261554111376,4959.2292,35.80842943,-86.06179619
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Carroll County,47017,0.223854517725724,8573.484,35.97307462,-88.45060499
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Carter County,47019,0.207708361358964,17919.1638,36.29228876,-82.12769739
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Carter County,47019,0.207708361358965,17919.1638,36.29228876,-82.12769739
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Cheatham County,47021,0.298424379434457,14884.2378,36.26140435,-87.08648326
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Chester County,47023,0.200926856454936,5452.6776,35.42206909,-88.61425832
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Claiborne County,47025,0.176630442346254,9777.2652,36.48575666,-83.66072369
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Clay County,47027,0.203963806619366,2715.4218,36.55111287,-85.5429723
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Cocke County,47029,0.183520091796763,11295.456,35.92555143,-83.12121537
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Coffee County,47031,0.254993481727549,17914.0692,35.49021487,-86.07559709
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Coffee County,47031,0.25499348172755,17914.0692,35.49021487,-86.07559709
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Crockett County,47033,0.23587406471813,4272.186,35.81376271,-89.13938582
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Cumberland County,47035,0.228230730199995,25032.681,35.95070017,-84.9986148
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Davidson County,47037,0.675579583067231,206781.0804,36.16932462,-86.78502875
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Decatur County,47039,0.181718289444483,3941.037,35.60350601,-88.10830091
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),DeKalb County,47041,0.217040877552862,6772.179,35.98021146,-85.83288678
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),DeKalb County,47041,0.217040877552863,6772.179,35.98021146,-85.83288678
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Dickson County,47043,0.272386728743227,18133.137,36.14932156,-87.35658415
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Dyer County,47045,0.219558111474138,10414.818,36.05918296,-89.4139363
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Fayette County,47047,0.316457016788682,17085.8328,35.19709994,-89.41493045
@@ -1793,7 +1793,7 @@ Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Hancock County,47067,
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Hardeman County,47069,0.424508896883894,6783.096,35.2067611,-88.99308826
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Hardin County,47071,0.166670060724116,8731.4166,35.19856007,-88.1845967
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Hawkins County,47073,0.179694697110586,18961.3734,36.4410474,-82.94554982
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Haywood County,47075,0.555454261312791,4801.2966,35.58313405,-89.28418692
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Haywood County,47075,0.555454261312792,4801.2966,35.58313405,-89.28418692
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Henderson County,47077,0.182112067261704,8722.683,35.65381663,-88.38771258
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Henry County,47079,0.250209309815424,10855.137,36.33178059,-88.30116646
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Hickman County,47081,0.227739687868536,7447.5774,35.80374486,-87.47317001
@@ -1811,7 +1811,7 @@ Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Lincoln County,47103,
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Loudon County,47105,0.25657089191128,23908.9578,35.73514674,-84.31125324
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Macon County,47111,0.146001090942692,7449.033,36.53211833,-86.00775763
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Madison County,47113,0.450616317542479,28748.1,35.60806385,-88.83867386
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Marion County,47115,0.257674764939576,10053.8292,35.1294263,-85.62192494
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Marion County,47115,0.257674764939577,10053.8292,35.1294263,-85.62192494
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Marshall County,47117,0.25077211633979,11510.8848,35.46843385,-86.76591028
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Maury County,47119,0.321432713976635,37496.9838,35.6177569,-87.0771147
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),McMinn County,47107,0.204004973418216,17379.864,35.4243615,-84.61781822
@@ -1830,15 +1830,15 @@ Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Putnam County,47141,0
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Rhea County,47143,0.187669556430637,10397.3508,35.60911854,-84.92418399
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Roane County,47145,0.254384404360835,19711.7352,35.84762955,-84.52335538
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Robertson County,47147,0.27395517090647,25245.9264,36.52536378,-86.87047841
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Rutherford County,47149,0.435084699988304,105870.8826,35.84260355,-86.41692683
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Scott County,47151,0.11705643771457,6950.49,36.42885328,-84.50369331
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Rutherford County,47149,0.435084699988305,105870.8826,35.84260355,-86.41692683
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Scott County,47151,0.117056437714571,6950.49,36.42885328,-84.50369331
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Sequatchie County,47153,0.192615780420742,5687.0292,35.37103725,-85.4102441
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Sevier County,47155,0.218814909420458,31680.4062,35.78475751,-83.52376973
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Shelby County,47157,0.667274656484688,233387.9928,35.18412715,-89.89620223
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Smith County,47159,0.20349044284936,6732.15,36.25023609,-85.95654414
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Stewart County,47161,0.207437362556532,4766.3622,36.50150068,-87.83755715
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Sullivan County,47163,0.252151793794099,54423.4284,36.51291546,-82.30419555
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Sumner County,47165,0.318124417505885,70335.3198,36.46938867,-86.46074089
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Sumner County,47165,0.318124417505886,70335.3198,36.46938867,-86.46074089
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Tipton County,47167,0.26260851350286,19272.8718,35.49692909,-89.75925274
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Trousdale County,47169,0.24346707061129,3067.677,36.39236244,-86.15630295
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Unicoi County,47171,0.214266033142722,6152.8212,36.11077416,-82.43228458
@@ -1848,7 +1848,7 @@ Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Warren County,47177,0
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Washington County,47179,0.337185297055506,43980.954,36.293414,-82.49711101
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Wayne County,47181,0.130134000031678,4933.0284,35.24027258,-87.78755065
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Weakley County,47183,0.236353973915232,9654.9948,36.29822836,-88.71817942
-Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),White County,47185,0.193232111443574,9331.8516,35.92662264,-85.45476978
+Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),White County,47185,0.193232111443575,9331.8516,35.92662264,-85.45476978
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Williamson County,47187,0.368305538287371,103534.6446,35.89405608,-86.89830897
 Senate,Tennessee,State,Tennessee,Bradshaw (D),Hagerty* (R),Wilson County,47189,0.327628788274885,58427.784,36.15428192,-86.29778739
 Senate,Texas,State,Texas,Talarico (D),Paxton (R),Anderson County,48001,0.240718939871475,13997.0496,31.81341571,-95.65255946
@@ -2112,7 +2112,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Alleghany County,51005,0
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Amelia County,51007,0.338059666402712,5815.122,37.33550025,-77.9752747
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Amherst County,51009,0.381916754819377,12497.0538,37.60543548,-79.14517223
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Appomattox County,51011,0.30575115239897,6962.8626,37.37242345,-78.81172877
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Arlington County,51013,0.825164036747961,91461.8982,38.87844605,-77.10098204
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Arlington County,51013,0.82516403674796,91461.8982,38.87844605,-77.10098204
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Augusta County,51015,0.311188731491232,31900.9296,38.16483645,-79.13408568
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Bath County,51017,0.298434954697337,1866.0792,38.05836054,-79.74123354
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Bedford County,51019,0.300733956279479,36703.6818,37.31502696,-79.52391814
@@ -2121,7 +2121,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Botetourt County,51023,0
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Bristol,51520,0.368509003382556,5406.0984,36.61826378,-82.1590697
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Brunswick County,51025,0.610839669904398,5609.1546,36.76457633,-77.85881453
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Buchanan County,51027,0.222877719788033,6764.1732,37.26641332,-82.03580207
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Buckingham County,51029,0.457645351977821,5702.313,37.57196671,-78.52851211
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Buckingham County,51029,0.45764535197782,5702.313,37.57196671,-78.52851211
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Buena Vista,51530,0.355893428391686,2039.2956,37.73052263,-79.35459481
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Campbell County,51031,0.31813490296928,22505.0316,37.20561193,-79.09657032
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Caroline County,51033,0.521791093263067,12713.2104,38.02701807,-77.34662195
@@ -2138,7 +2138,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Craig County,51045,0.233
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Culpeper County,51047,0.43660486938195,20554.5276,38.48620048,-77.95541958
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Cumberland County,51049,0.455600168735923,3967.9656,37.51182231,-78.24455011
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Danville,51590,0.668209811936495,12743.0502,36.58309677,-79.40912354
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Dickenson County,51051,0.262137348274458,5106.9726,37.12613493,-82.35094586
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Dickenson County,51051,0.262137348274457,5106.9726,37.12613493,-82.35094586
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Dinwiddie County,51053,0.450006176568946,11274.3498,37.07597757,-77.63238876
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Emporia,51595,0.711983542986238,1574.2314,36.69543863,-77.53622483
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Essex County,51057,0.533455419643358,4381.356,37.94303646,-76.9520416
@@ -2157,13 +2157,13 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Giles County,51071,0.293
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Gloucester County,51073,0.362011196183288,16704.4656,37.41403941,-76.54142204
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Goochland County,51075,0.449713060999206,14116.4088,37.72200089,-77.91594304
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Grayson County,51077,0.243670427583323,5856.6066,36.65661781,-81.22507847
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Greene County,51079,0.432094924606424,8652.0864,38.29731238,-78.46704277
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Greene County,51079,0.432094924606423,8652.0864,38.29731238,-78.46704277
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Greensville County,51081,0.613548628654455,3107.706,36.67571583,-77.55962422
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Halifax County,51083,0.466178351569947,12900.255,36.76689258,-78.93659955
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Halifax County,51083,0.466178351569946,12900.255,36.76689258,-78.93659955
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Hampton,51650,0.747973767294345,44934.372,37.05573241,-76.36333533
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Hanover County,51085,0.414055834047742,52621.3956,37.76033617,-77.49131526
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Hanover County,51085,0.414055834047741,52621.3956,37.76033617,-77.49131526
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Harrisonburg,51660,0.685292228489246,12304.9146,38.43833151,-78.87397667
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Henrico County,51087,0.689319888177676,129491.6316,37.53796421,-77.40505652
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Henrico County,51087,0.689319888177675,129491.6316,37.53796421,-77.40505652
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Henry County,51089,0.411978729879645,18382.0446,36.68267428,-79.87418576
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Highland County,51091,0.338597538196248,1099.7058,38.36239367,-79.56866954
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Hopewell,51670,0.625367492175416,6489.0648,37.29122918,-77.2969381
@@ -2200,7 +2200,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Page County,51139,0.2835
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Patrick County,51141,0.252161594972125,7010.1696,36.67809987,-80.28481637
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Petersburg,51730,0.897091262755139,9403.9038,37.20404153,-77.3926205
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Pittsylvania County,51143,0.349171344376878,24678.9702,36.82128716,-79.39718973
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Poquoson,51735,0.312433380111795,5763.4482,37.1307115,-76.35566972
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Poquoson,51735,0.312433380111794,5763.4482,37.1307115,-76.35566972
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Portsmouth,51740,0.743203897012155,29603.9928,36.84646209,-76.35396761
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Powhatan County,51145,0.320956777493307,15030.5256,37.55029696,-77.915315
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Prince Edward County,51147,0.558869434178621,6783.8238,37.22409267,-78.44090565
@@ -2234,7 +2234,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Washington County,51191,
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Waynesboro,51820,0.528534529126028,8094.5916,38.06830271,-78.90109101
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Westmoreland County,51193,0.500623466338662,7637.5332,38.11166934,-76.80178124
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Williamsburg,51830,0.751978935349613,5627.3496,37.26927809,-76.70721344
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Winchester,51840,0.605708541208007,8485.4202,39.17278399,-78.17299993
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Winchester,51840,0.605708541208006,8485.4202,39.17278399,-78.17299993
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Wise County,51195,0.244443837119974,12147.7098,36.97556152,-82.62118772
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Wythe County,51197,0.264784898472923,11165.9076,36.91686677,-81.07803317
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),York County,51199,0.514267135350303,28397.3004,37.24271166,-76.56191748
@@ -2255,7 +2255,7 @@ Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Hampshire,5402
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Hancock,54029,0.326920399894774,9331.8516,40.52189394,-80.57390126
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Hardy,54031,0.255348033784417,4580.7732,39.00759684,-78.85797558
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Harrison,54033,0.346551224795824,21020.3196,39.28363307,-80.37983086
-Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Jackson,54035,0.267945317821016,9174.6468,38.83443006,-81.674543
+Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Jackson,54035,0.267945317821015,9174.6468,38.83443006,-81.674543
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Jefferson,54037,0.4919759014023,20771.412,39.30849565,-77.86242458
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Kanawha,54039,0.462250047708171,53553.7074,38.33643035,-81.52827161
 Senate,West Virginia,State,West Virginia,Anderson (D),Capito* (R),Lewis,54041,0.251602050292458,5037.8316,38.99603963,-80.50213826
