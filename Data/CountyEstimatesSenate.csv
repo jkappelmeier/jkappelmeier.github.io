@@ -182,7 +182,7 @@ Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Broomfield County,8
 Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Chaffee County,8015,0.58545871613581,10208.1228,38.74728839,-106.1940269
 Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Cheyenne County,8017,0.119914803695887,755.4564,38.82780723,-102.6036365
 Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Clear Creek County,8019,0.606606184072686,4305.6648,39.68922182,-105.6447627
-Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Conejos County,8021,0.470392783287396,2900.283,37.20059578,-106.1911108
+Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Conejos County,8021,0.470392783287395,2900.283,37.20059578,-106.1911108
 Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Costilla County,8023,0.641206423385982,1459.239,37.27823118,-105.4278551
 Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Crowley County,8025,0.291234094587706,1203.0534,38.32685938,-103.7838298
 Senate,Colorado,State,Colorado,Hickenlooper* (D),Baisley (R),Custer County,8027,0.341249435635898,2744.5338,38.10882281,-105.3670379
@@ -320,7 +320,7 @@ Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Jasper County,13159,0.24749
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Jeff Davis County,13161,0.194349327867926,4264.1802,31.8053696,-82.63685771
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Jefferson County,13163,0.551848570110426,5414.1042,33.05432827,-82.41823729
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Jenkins County,13165,0.392963359417747,2471.6088,32.79247176,-81.96350449
-Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Johnson County,13167,0.315809075225893,2895.9162,32.70148912,-82.66017474
+Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Johnson County,13167,0.315809075225894,2895.9162,32.70148912,-82.66017474
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Jones County,13169,0.35465874337953,11672.4564,33.0254599,-83.56057299
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Lamar County,13171,0.313717973609663,7548.7416,33.07619286,-84.13960587
 Senate,Georgia,State,Georgia,Ossoff* (D),Collins (R),Lanier County,13173,0.307685413663978,2708.1438,31.03799605,-83.06330638
@@ -722,7 +722,7 @@ Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rawlins County,20153,0.170
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Reno County,20155,0.385988849494621,19214.6478,37.95303921,-98.08586348
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Republic County,20157,0.201835120141259,1744.5366,39.8279368,-97.65034285
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rice County,20159,0.272767910144837,2836.9644,38.34721983,-98.20053402
-Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Riley County,20161,0.57397942945258,17243.7654,39.29629774,-96.7350396
+Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Riley County,20161,0.573979429452579,17243.7654,39.29629774,-96.7350396
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rooks County,20163,0.173315486389714,1820.9556,39.35022485,-99.3248686
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Rush County,20165,0.216132072627777,1149.1962,38.52275276,-99.30863983
 Senate,Kansas,State,Kansas,Hamilton (D),Marshall* (R),Russell County,20167,0.232480694966154,2358.072,38.91467637,-98.76247878
@@ -1153,7 +1153,7 @@ Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Franklin County,2
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),George County,28039,0.151402118028886,8002.8888,30.86260363,-88.64422567
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Greene County,28041,0.201008170743304,4083.6858,31.21420839,-88.63921416
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Grenada County,28043,0.485247684431746,7067.6658,33.76997916,-89.80171673
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Hancock County,28045,0.266759703433255,15244.4988,30.41595395,-89.48847814
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Hancock County,28045,0.266759703433254,15244.4988,30.41595395,-89.48847814
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Harrison County,28047,0.42007028513418,54622.8456,30.50439082,-89.11140872
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Hinds County,28049,0.776659496677101,62340.4368,32.26628404,-90.44251629
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Holmes County,28051,0.851459783515834,4849.3314,33.12367405,-90.09171669
@@ -1163,9 +1163,9 @@ Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Itawamba County,2
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jackson County,28059,0.365183137561823,37732.791,30.53467952,-88.6353787
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jasper County,28061,0.539774778997611,5705.952,32.01901366,-89.11866575
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jefferson County,28063,0.758755649345367,2378.4504,31.73403632,-91.03631739
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jefferson Davis County,28065,0.743748269740882,3888.6354,31.56973198,-89.82311087
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jefferson Davis County,28065,0.743748269740881,3888.6354,31.56973198,-89.82311087
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Jones County,28067,0.324354897836719,20041.4286,31.62257767,-89.168969
-Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Kemper County,28069,0.645842065970739,2963.6016,32.75459457,-88.64097868
+Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Kemper County,28069,0.645842065970738,2963.6016,32.75459457,-88.64097868
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lafayette County,28071,0.466547915462878,16743.7668,34.35673647,-89.48471446
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lamar County,28073,0.305528864516135,20242.3014,31.20573333,-89.50870961
 Senate,Mississippi,State,Mississippi,Colom (D),Hyde-Smith* (R),Lauderdale County,28075,0.456235487387838,19769.9592,32.40429857,-88.66247435
@@ -1301,7 +1301,7 @@ Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Dundy County,31057,0.153
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Fillmore County,31059,0.290987042151195,2166.6606,40.52458567,-97.59646937
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Franklin County,31061,0.21319678238984,1155.0186,40.17637323,-98.95299529
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Frontier County,31063,0.184824044249426,1017.4644,40.53024724,-100.3936643
-Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Furnas County,31065,0.208768067454895,1747.4478,40.17646227,-99.91249504
+Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Furnas County,31065,0.208768067454896,1747.4478,40.17646227,-99.91249504
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Gage County,31067,0.388302144841561,7834.767,40.26183622,-96.68942195
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Garden County,31069,0.203533447939922,808.5858,41.61911486,-102.3353283
 Senate,Nebraska,State,Nebraska,Osborn (I),Ricketts* (R),Garfield County,31071,0.168840876782985,734.3502,41.91428955,-98.99111827
@@ -1414,7 +1414,7 @@ Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),McKinley County,35031,0
 Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),Mora County,35033,0.648031907872603,1782.3822,36.00972846,-104.944561
 Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),Otero County,35035,0.398060489572507,17248.1322,32.61323163,-105.7417441
 Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),Quay County,35037,0.341861646907194,2638.275,35.10459783,-103.5493944
-Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),Rio Arriba County,35039,0.660456297179534,11383.5198,36.50984697,-106.6929637
+Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),Rio Arriba County,35039,0.660456297179535,11383.5198,36.50984697,-106.6929637
 Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),Roosevelt County,35041,0.316359040335351,4735.7946,34.02127232,-103.4801987
 Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),San Juan County,35045,0.451220184160541,37647.6384,36.50824605,-108.3206012
 Senate,New Mexico,State,New Mexico,Lujan* (D),Marker (R),San Miguel County,35047,0.551293411236734,7912.6416,35.48004639,-104.8156292
@@ -1608,7 +1608,7 @@ Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Benton County,41003,0.72832404
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Clackamas County,41005,0.583347461155304,172464.5826,45.18820387,-122.2205544
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Clatsop County,41007,0.594969694141722,16336.1988,45.99500314,-123.6560294
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Columbia County,41009,0.477602014302912,21922.7916,45.94376691,-123.0888664
-Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Coos County,41011,0.438756212031805,25167.324,43.17396579,-124.0595871
+Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Coos County,41011,0.438756212031804,25167.324,43.17396579,-124.0595871
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Crook County,41013,0.281766131676862,11534.1744,44.14229491,-120.3567062
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Curry County,41015,0.454869677571908,9997.7886,42.45776177,-124.1560919
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Deschutes County,41017,0.58180172810483,89488.8324,43.91469217,-121.227881
@@ -1636,9 +1636,9 @@ Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Umatilla County,41059,0.356685
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Union County,41061,0.329901576054665,10224.8622,45.31039084,-118.0093556
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Wallowa County,41063,0.355708477043908,3594.6042,45.57979758,-117.1810198
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Wasco County,41065,0.515322875857032,9392.9868,45.16003768,-121.1678419
-Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Washington County,41067,0.700615435342062,207861.8634,45.55989124,-123.0985728
+Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Washington County,41067,0.700615435342063,207861.8634,45.55989124,-123.0985728
 Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Wheeler County,41069,0.292640292898878,602.6184,44.72584844,-120.0273912
-Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Yamhill County,41071,0.506834123049309,40427.1066,45.23269019,-123.3078799
+Senate,Oregon,State,Oregon,Merkley* (D),Smith (R),Yamhill County,41071,0.506834123049308,40427.1066,45.23269019,-123.3078799
 Senate,Rhode Island,State,Rhode Island,Reed* (D),McKay (R),Bristol County,44001,0.678741195087413,20018.8668,41.71169465,-71.28385194
 Senate,Rhode Island,State,Rhode Island,Reed* (D),McKay (R),Kent County,44003,0.569898283571914,66080.601,41.6720081,-71.59305645
 Senate,Rhode Island,State,Rhode Island,Reed* (D),McKay (R),Newport County,44005,0.673712077788418,31556.6802,41.55667416,-71.23906841
@@ -2111,7 +2111,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Alexandria,51510,0.82253
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Alleghany County,51005,0.337127986171251,5973.0546,37.78778327,-80.00761323
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Amelia County,51007,0.337475746780299,5815.122,37.33550025,-77.9752747
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Amherst County,51009,0.381300812958757,12497.0538,37.60543548,-79.14517223
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Appomattox County,51011,0.305197889873403,6962.8626,37.37242345,-78.81172877
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Appomattox County,51011,0.305197889873402,6962.8626,37.37242345,-78.81172877
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Arlington County,51013,0.8247870603393,91461.8982,38.87844605,-77.10098204
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Augusta County,51015,0.310629022271058,31900.9296,38.16483645,-79.13408568
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Bath County,51017,0.297890426191855,1866.0792,38.05836054,-79.74123354
@@ -2134,7 +2134,7 @@ Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Chesterfield County,5104
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Clarke County,51043,0.469069799982452,7011.6252,39.11236047,-77.99656139
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Colonial Heights,51570,0.385003780782069,6451.947,37.26480119,-77.39716266
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Covington,51580,0.428015785460168,1790.388,37.77830014,-79.98671944
-Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Craig County,51045,0.233174973257291,2259.0912,37.48141832,-80.21218409
+Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Craig County,51045,0.23317497325729,2259.0912,37.48141832,-80.21218409
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Culpeper County,51047,0.435962462205999,20554.5276,38.48620048,-77.95541958
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Cumberland County,51049,0.454952615129277,3967.9656,37.51182231,-78.24455011
 Senate,Virginia,State,Virginia,Warner* (D),Mizusawa (R),Danville,51590,0.667630522066636,12743.0502,36.58309677,-79.40912354
