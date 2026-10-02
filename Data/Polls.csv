@@ -5213,8 +5213,8 @@ House,Kentucky-06,Congressional District,Kentucky-06,GQR,Dembo,D,1,Dembo,https:/
 House,Kentucky-06,Congressional District,Kentucky-06,GQR,Dembo,D,1,Dembo,https://kentuckylantern.com/2026/10/02/internal-poll-shows-democrat-dembo-leads-gops-alvarado-in-central-kentucky-house-race/,9/25/2026,9/30/2026,401,LV,1,R,Alvarado,37%,1,10/2/2026
 House,Kentucky-06,Congressional District,Kentucky-06,GQR,Dembo,D,1,Dembo,https://kentuckylantern.com/2026/10/02/internal-poll-shows-democrat-dembo-leads-gops-alvarado-in-central-kentucky-house-race/,9/25/2026,9/30/2026,401,LV,1,I,Bowman,8%,0,10/2/2026
 House,Kentucky-06,Congressional District,Kentucky-06,GQR,Dembo,D,1,Dembo,https://kentuckylantern.com/2026/10/02/internal-poll-shows-democrat-dembo-leads-gops-alvarado-in-central-kentucky-house-race/,9/25/2026,9/30/2026,401,LV,1,G,Lynch,3%,0,10/2/2026
-House,Virginia-06,Congressional District,Virginia-06,co/efficient,,R,0,,https://coefficient.org/our-work/virginia-6th-congressional-district-sep-2026/,9/28/2026,9/30/2026,791,LV,1,R,Cline,59%,1,10/2/2026
-House,Virginia-06,Congressional District,Virginia-06,co/efficient,,R,0,,https://coefficient.org/our-work/virginia-6th-congressional-district-sep-2026/,9/28/2026,9/30/2026,791,LV,1,D,Macy,29%,1,10/2/2026
+House,Virginia-06,Congressional District,Virginia-06,co/efficient,Cline,R,1,Cline,https://coefficient.org/our-work/virginia-6th-congressional-district-sep-2026/,9/28/2026,9/30/2026,791,LV,1,R,Cline,59%,1,10/2/2026
+House,Virginia-06,Congressional District,Virginia-06,co/efficient,Cline,R,1,Cline,https://coefficient.org/our-work/virginia-6th-congressional-district-sep-2026/,9/28/2026,9/30/2026,791,LV,1,D,Macy,29%,1,10/2/2026
 Gubernatorial,Nebraska,State,Nebraska,co/efficient,,R,0,,https://battlegrounds.coefficient.org/ne/,9/28/2026,9/30/2026,1113,LV,1,R,Pillen,43%,1,10/2/2026
 Gubernatorial,Nebraska,State,Nebraska,co/efficient,,R,0,,https://battlegrounds.coefficient.org/ne/,9/28/2026,9/30/2026,1113,LV,1,D,Walz,38%,1,10/2/2026
 Gubernatorial,Nebraska,State,Nebraska,co/efficient,,R,0,,https://battlegrounds.coefficient.org/ne/,9/28/2026,9/30/2026,1113,LV,1,O,Lindstrom,5%,0,10/2/2026
@@ -5226,9 +5226,9 @@ Senate,Nebraska,State,Nebraska,co/efficient,,R,0,,https://battlegrounds.coeffici
 Senate,Nebraska,State,Nebraska,co/efficient,,R,0,,https://battlegrounds.coefficient.org/ne/,9/28/2026,9/30/2026,1113,LV,1,O,Conboy,1%,0,10/2/2026
 Senate,Nebraska,State,Nebraska,co/efficient,,R,0,,https://battlegrounds.coefficient.org/ne/,9/28/2026,9/30/2026,1113,LV,2,R,Ricketts,48%,0,10/2/2026
 Senate,Nebraska,State,Nebraska,co/efficient,,R,0,,https://battlegrounds.coefficient.org/ne/,9/28/2026,9/30/2026,1113,LV,2,I,Osborn,43%,0,10/2/2026
-House,South Carolina-01,Congressional District,South Carolina-01,co/efficient,,R,0,,https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/,9/30/2026,10/1/2026,837,LV,1,R,Honeycutt,46%,1,10/2/2026
-House,South Carolina-01,Congressional District,South Carolina-01,co/efficient,,R,0,,https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/,9/30/2026,10/1/2026,837,LV,1,D,Lacore,40%,1,10/2/2026
-House,South Carolina-01,Congressional District,South Carolina-01,co/efficient,,R,0,,https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/,9/30/2026,10/1/2026,837,LV,1,L,Reeside,4%,0,10/2/2026
+House,South Carolina-01,Congressional District,South Carolina-01,co/efficient,Thank You For Your Attention To This Matter PAC,R,0,,https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/,9/30/2026,10/1/2026,837,LV,1,R,Honeycutt,46%,1,10/2/2026
+House,South Carolina-01,Congressional District,South Carolina-01,co/efficient,Thank You For Your Attention To This Matter PAC,R,0,,https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/,9/30/2026,10/1/2026,837,LV,1,D,Lacore,40%,1,10/2/2026
+House,South Carolina-01,Congressional District,South Carolina-01,co/efficient,Thank You For Your Attention To This Matter PAC,R,0,,https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/,9/30/2026,10/1/2026,837,LV,1,L,Reeside,4%,0,10/2/2026
 Senate,Kansas,State,Kansas,Trafalgar Group,,R,0,,https://www.thetrafalgargroup.org/news/ks-senate-general-1001/,9/29/2026,10/1/2026,1095,LV,1,D,Hamilton,44%,1,10/2/2026
 Senate,Kansas,State,Kansas,Trafalgar Group,,R,0,,https://www.thetrafalgargroup.org/news/ks-senate-general-1001/,9/29/2026,10/1/2026,1095,LV,1,R,Marshall,44%,1,10/2/2026
 Senate,Kansas,State,Kansas,Trafalgar Group,,R,0,,https://www.thetrafalgargroup.org/news/ks-senate-general-1001/,9/29/2026,10/1/2026,1095,LV,1,L,Graham,2%,0,10/2/2026
@@ -5236,3 +5236,9 @@ Senate,Maine,State,Maine,YouGov,CBS News,,0,,https://www.cbsnews.com/news/maine-
 Senate,Maine,State,Maine,YouGov,CBS News,,0,,https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/,9/23/2026,10/1/2026,1136,LV,1,D,Jackson,50%,1,10/2/2026
 Gubernatorial,Maine,State,Maine,YouGov,CBS News,,0,,https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/,9/23/2026,10/1/2026,1136,LV,1,D,Pingree,56%,1,10/2/2026
 Gubernatorial,Maine,State,Maine,YouGov,CBS News,,0,,https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/,9/23/2026,10/1/2026,1136,LV,1,R,Charles,44%,1,10/2/2026
+Senate,Idaho,State,Idaho,Peak Insights,Risch,R,1,Risch,https://x.com/JacobRubashkin/status/2106137210185462099?s=20,9/28/2026,9/30/2026,500,LV,1,R,Risch,49%,1,10/2/2026
+Senate,Idaho,State,Idaho,Peak Insights,Risch,R,1,Risch,https://x.com/JacobRubashkin/status/2106137210185462099?s=20,9/28/2026,9/30/2026,500,LV,1,I,Achilles,24%,1,10/2/2026
+Senate,Idaho,State,Idaho,Peak Insights,Risch,R,1,Risch,https://x.com/JacobRubashkin/status/2106137210185462099?s=20,9/28/2026,9/30/2026,500,LV,1,I,Fleming,3%,0,10/2/2026
+Senate,Idaho,State,Idaho,Peak Insights,Risch,R,1,Risch,https://x.com/JacobRubashkin/status/2106137210185462099?s=20,9/28/2026,9/30/2026,500,LV,1,L,Loesby,2%,0,10/2/2026
+Senate,Maine,State,Maine,Trafalgar Group,,R,0,,https://www.thetrafalgargroup.org/news/me-senate-gen-1002/,9/29/2026,10/1/2026,1091,LV,1,D,Jackson,46%,1,10/2/2026
+Senate,Maine,State,Maine,Trafalgar Group,,R,0,,https://www.thetrafalgargroup.org/news/me-senate-gen-1002/,9/29/2026,10/1/2026,1091,LV,1,R,Collins,46%,1,10/2/2026
