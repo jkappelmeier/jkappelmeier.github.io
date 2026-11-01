@@ -7010,3 +7010,33 @@ House,Michigan-13,Congressional District,Michigan-13,Center For Strategic Politi
 House,Michigan-13,Congressional District,Michigan-13,Center For Strategic Politics,Democratic Socialists of America National Electoral Commission,D,1,,https://stratpolitics.org/2026/10/mi-13-general-election-poll-oct-2026/,10/28/2026,10/30/2026,310,LV,1,O,Dardzinski,1%,0,10/31/2026
 Generic Ballot,Generic Ballot,National,National,Hart Research Associates/Public Opinion Strategies,NBC News,,0,,https://www.nbcnews.com/politics/2026-election/poll-voters-demand-change-check-trump-fueling-steep-democratic-midterm-rcna606183,10/28/2026,10/30/2026,1000,RV,1,D,,53%,1,11/1/2026
 Generic Ballot,Generic Ballot,National,National,Hart Research Associates/Public Opinion Strategies,NBC News,,0,,https://www.nbcnews.com/politics/2026-election/poll-voters-demand-change-check-trump-fueling-steep-democratic-midterm-rcna606183,10/28/2026,10/30/2026,1000,RV,1,R,,46%,1,11/1/2026
+Senate,Kansas,State,Kansas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf,10/26/2026,10/29/2026,2092,LV,1,D,Hamilton,50%,1,11/1/2026
+Senate,Kansas,State,Kansas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf,10/26/2026,10/29/2026,2092,LV,1,R,Marshall,49%,1,11/1/2026
+Senate,Maine,State,Maine,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20261026_lv.pdf,10/26/2026,10/29/2026,1503,LV,1,D,Jackson,52%,1,11/1/2026
+Senate,Maine,State,Maine,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20261026_lv.pdf,10/26/2026,10/29/2026,1503,LV,1,R,Collins,47%,1,11/1/2026
+Senate,Nebraska,State,Nebraska,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20261026_lv.pdf,10/26/2026,10/29/2026,1979,LV,1,I,Osborn,49%,1,11/1/2026
+Senate,Nebraska,State,Nebraska,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20261026_lv.pdf,10/26/2026,10/29/2026,1979,LV,1,R,Ricketts,49%,1,11/1/2026
+Senate,Ohio Special,State,Ohio,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20261026_lv.pdf,10/26/2026,10/29/2026,2090,LV,1,D,Brown,50%,1,11/1/2026
+Senate,Ohio Special,State,Ohio,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20261026_lv.pdf,10/26/2026,10/29/2026,2090,LV,1,R,Husted,48%,1,11/1/2026
+Senate,Iowa,State,Iowa,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261026_lv.pdf,10/26/2026,10/29/2026,2020,LV,1,D,Turek,50%,1,11/1/2026
+Senate,Iowa,State,Iowa,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261026_lv.pdf,10/26/2026,10/29/2026,2020,LV,1,R,Hinson,49%,1,11/1/2026
+Senate,Texas,State,Texas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf,10/26/2026,10/29/2026,2141,LV,1,D,Talarico,51%,1,11/1/2026
+Senate,Texas,State,Texas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf,10/26/2026,10/29/2026,2141,LV,1,R,Paxton,47%,1,11/1/2026
+Senate,North Carolina,State,North Carolina,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nc_20261026_lv.pdf,10/26/2026,10/29/2026,2130,LV,1,D,Cooper,55%,1,11/1/2026
+Senate,North Carolina,State,North Carolina,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nc_20261026_lv.pdf,10/26/2026,10/29/2026,2130,LV,1,R,Whatley,44%,1,11/1/2026
+Senate,Michigan,State,Michigan,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf,10/26/2026,10/29/2026,2093,LV,1,D,El-Sayed,51%,1,11/1/2026
+Senate,Michigan,State,Michigan,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf,10/26/2026,10/29/2026,2093,LV,1,R,Rogers,47%,1,11/1/2026
+Gubernatorial,Kansas,State,Kansas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf,10/26/2026,10/29/2026,2092,LV,1,R,Masterson,50%,1,11/1/2026
+Gubernatorial,Kansas,State,Kansas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf,10/26/2026,10/29/2026,2092,LV,1,D,Holscher,49%,1,11/1/2026
+Gubernatorial,Nebraska,State,Nebraska,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20261026_lv.pdf,10/26/2026,10/29/2026,1979,LV,1,R,Pillen,50%,1,11/1/2026
+Gubernatorial,Nebraska,State,Nebraska,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20261026_lv.pdf,10/26/2026,10/29/2026,1979,LV,1,D,Walz,47%,1,11/1/2026
+Gubernatorial,Maine,State,Maine,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20261026_lv.pdf,10/26/2026,10/29/2026,1503,LV,1,D,Pingree,53%,1,11/1/2026
+Gubernatorial,Maine,State,Maine,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20261026_lv.pdf,10/26/2026,10/29/2026,1503,LV,1,R,Charles,45%,1,11/1/2026
+Gubernatorial,Ohio,State,Ohio,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20261026_lv.pdf,10/26/2026,10/29/2026,2090,LV,1,D,Acton,52%,1,11/1/2026
+Gubernatorial,Ohio,State,Ohio,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20261026_lv.pdf,10/26/2026,10/29/2026,2090,LV,1,R,Ramaswamy,46%,1,11/1/2026
+Gubernatorial,Texas,State,Texas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf,10/26/2026,10/29/2026,2141,LV,1,R,Abbott,50%,1,11/1/2026
+Gubernatorial,Texas,State,Texas,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf,10/26/2026,10/29/2026,2141,LV,1,D,Hinojosa,49%,1,11/1/2026
+Gubernatorial,Iowa,State,Iowa,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261026_lv.pdf,10/26/2026,10/29/2026,2020,LV,1,D,Sand,53%,1,11/1/2026
+Gubernatorial,Iowa,State,Iowa,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261026_lv.pdf,10/26/2026,10/29/2026,2020,LV,1,R,Lahn,46%,1,11/1/2026
+Gubernatorial,Michigan,State,Michigan,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf,10/26/2026,10/29/2026,2093,LV,1,D,Benson,52%,1,11/1/2026
+Gubernatorial,Michigan,State,Michigan,YouGov,,,0,,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf,10/26/2026,10/29/2026,2093,LV,1,R,James,46%,1,11/1/2026
